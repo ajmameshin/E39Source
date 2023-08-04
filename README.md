@@ -500,12 +500,6 @@ You can enable it in the configuration file.
     link_text = "Check other homepages"
 ```
 
-
-#### Clients
-
-The clients section is used to show a list of logos of companies you have collaborated with. The clients are defined in the `data` directory as YAML files.
-
-```
 data
 └── clients
     ├── 1.yaml
