@@ -1,14 +1,13 @@
 +++
-title = "FAQ"
+title = "Downloads"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+#### NAVIGATION SOFTWARE & RESOURCES:  E39, E38, E46, E53, E83, E52 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+(See this article for in-depth information)
 
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
