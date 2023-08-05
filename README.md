@@ -639,7 +639,7 @@ You can also override the default values from the `config.toml` by setting the r
 
 ```yaml
 +++
-title = "FAQ"
+title = "Downloads"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
