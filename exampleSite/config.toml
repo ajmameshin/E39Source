@@ -25,6 +25,12 @@ pluralizelisttitles = false
 # Main menu
 [[menu.main]]
     name       = "Service"
+    identifier = "menu.service"
+    url        = "/service/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "Home"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
@@ -228,7 +234,7 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "location"
-    hide_summary = true
+    hide_summary = false
 
 [params.footer.recent_posts]
     enable = false
