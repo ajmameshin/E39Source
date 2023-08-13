@@ -1793,6 +1793,11 @@ fieldset[disabled] .btn-template-primary.active {
   background-attachment: fixed;
   background-size: cover;
 }
+.bar.background-image-fixed-4 {
+  background: url('../img/e39source.png') center top no-repeat;
+  background-attachment: fixed;
+  background-size: 70% auto, contain;
+}
 .bar.color-white h1,
 .bar.color-white h2,
 .bar.color-white h3,
