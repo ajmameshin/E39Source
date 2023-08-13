@@ -15,52 +15,11 @@
             <!-- *** BLOG HOMEPAGE *** -->
 
             <div class="row">
-                {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-                {{ range first 4 $posts.Pages }}
-                <div class="col-md-3 col-sm-6">
-                    <div>
-                        <div class="top">
-                            <div class="image" style="overflow:hidden">
-                                {{ if isset .Params "banner" }}
-                                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
-                                {{ else }}
-                                <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
-                                {{ end }}
-                            </div>
-                            <div class="bg"></div>
-                            <div class="text">
-                                <p class="buttons">
-                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i> {{ i18n "readMore" }}</a>
-                                </p>
-                            </div>
-                        </div>
+            
+                <!-- *** INSERT MAP HERE *** -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3355.0064554526077!2d-117.08666268481236!3d33.12123398087867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dbf4f8c5b4f3a3%3A0x5e7a26b8d2427005!2s301%20Enterprise%20St%2C%20Escondido%2C%20CA%2092029%2C%20USA!5e0!3m2!1sen!2s!4v1628965688715!5m2!1sen!2s" width="1100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-                        <div class="content">
-                            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                            <p class="author-category">
-			    {{ if isset .Params "authors" }}
-			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
-                            {{ end }}
-                            {{ if .Params.date }}
-                                {{ $createdAt := .Date.Format .Site.Params.date_format }}
-                                {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
-                                    {{ $createdAt = replace $createdAt $month (i18n $month) }}
-                                {{ end }}
-                                {{ i18n "publishedOn" }} {{ $createdAt }}
-                            {{ end }}
-                            </p>
-                            {{ if not .Site.Params.recent_posts.hide_summary }}
-                            <p class="intro">{{ .Summary }}</p>
-                            <p class="read-more">
-                              <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
-                            </p>
-                            {{ end }}
-                        </div>
-                    </div>
-                    <!-- /.box-image-text -->
 
-                </div>
-                {{ end }}
 
             </div>
             <!-- /.row -->
