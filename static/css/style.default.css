@@ -1794,9 +1794,9 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.background-image-fixed-4 {
-  background: url('../img/e39source.png') center top no-repeat;
+  background: url('../img/e39source.png') center bottom no-repeat;
   background-attachment: fixed;
-  background-size: 80% auto, contain;
+  background-size: 0% auto, contain;
 }
 .bar.color-white h1,
 .bar.color-white h2,
