@@ -27,7 +27,7 @@ pluralizelisttitles = false
     name       = "Service"
     identifier = "menu.service"
     url        = "/service/"
-    weight     = 1
+    weight     = 2
 
 [[menu.main]]
     name       = "Home"
@@ -39,37 +39,37 @@ pluralizelisttitles = false
     name       = "Donate"
     identifier = "menu.donate"
     url        = "/donations/"
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     name       = "products"
     identifier = "menu.products"
     url        = "/products/"
-    weight     = 2
+    weight     = 4
 
 [[menu.main]]
     name       = "Videos"
     identifier = "menu.videos"
     url        = "http://www.youtube.com/E39Source"
-    weight     = 5
+    weight     = 7
 
 [[menu.main]]
     name       = "Articles"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 3
+    weight     = 5
 
 [[menu.main]]
     name       = "Downloads"
     identifier = "menu.faq"
     url        = "/faq/"
-    weight     = 4
+    weight     = 6
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 6
+    weight     = 8
 
 
 # Top bar social links menu
