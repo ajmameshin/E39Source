@@ -24,16 +24,16 @@ pluralizelisttitles = false
 
 # Main menu
 [[menu.main]]
-    name       = "Service"
-    identifier = "menu.service"
-    url        = "/service/"
-    weight     = 2
-
-[[menu.main]]
     name       = "Home"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
+
+[[menu.main]]
+    identifier = "service"
+    name       = "Service"
+    url        = "/service/"
+    weight     = 2
 
 [[menu.main]]
     name       = "Donate"
@@ -51,19 +51,19 @@ pluralizelisttitles = false
     name       = "Videos"
     identifier = "menu.videos"
     url        = "http://www.youtube.com/E39Source"
-    weight     = 7
+    weight     = 5
 
 [[menu.main]]
     name       = "Articles"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 5
+    weight     = 6
 
 [[menu.main]]
     name       = "Downloads"
     identifier = "menu.faq"
     url        = "/faq/"
-    weight     = 6
+    weight     = 7
 
 [[menu.main]]
     identifier = "contact"
