@@ -51,25 +51,25 @@ pluralizelisttitles = false
     name       = "Videos"
     identifier = "menu.videos"
     url        = "http://www.youtube.com/E39Source"
-    weight     = 5
+    weight     = 8
 
 [[menu.main]]
     name       = "Articles"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 6
+    weight     = 7
 
 [[menu.main]]
     name       = "Downloads"
     identifier = "menu.faq"
     url        = "/faq/"
-    weight     = 7
+    weight     = 5
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 8
+    weight     = 6
 
 
 # Top bar social links menu
