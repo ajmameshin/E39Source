@@ -1771,6 +1771,12 @@ fieldset[disabled] .btn-template-primary.active {
   background-attachment: fixed;
   background-size: 0% auto, contain;
 }
+
+.responsive-image {
+  max-width: 100%; /* This ensures the image does not expand beyond its container */
+  height: auto;   /* This maintains the image's aspect ratio as it scales */
+}
+
 .bar.color-white h1,
 .bar.color-white h2,
 .bar.color-white h3,
