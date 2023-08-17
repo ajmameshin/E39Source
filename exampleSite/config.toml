@@ -163,7 +163,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>E39Source is a ground-breaking BMW enthusiast-operated business that offers top-tier service, quality parts, consulting, and useful resources to promote the global preservation of the BMW E39 5-Series (1994-2003), specializing with the pinnacle model, the M5. <br/><br/> E39Source graciously credits the logo design work to Matt McComb of Ironfuzz Design: </p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2023 E39Source; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
