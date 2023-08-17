@@ -4,14 +4,56 @@ description = "Decription of service"
 keywords = ["Automotive Services","BMW","repair","modifications"]
 +++
 
-# Services
+# E39Source is proud to offer the following services and more:
 
-Services go here
 
-1.
-2.
-3.
-4.
-5.
 
-E39Source was founded in September, 2011 in Hudson, Ohio, and was inspired by the significant void of quality online BMW E39 content. Co-founder Ryan Schultz acquired his 2000 M5 in July, 2010, and has been creating informational and educational content since. In 2018, Ryan and E39Source re-located to San Diego, California where they currently use their brick-and-mortar facility to provide world-class BMW service and support.
+Pre-Purchase Inspections / Multi-Point Inspections.<br/><br/>
+
+BMW S62/M62/M62TU Timing Chains & Guides<br/><br/>
+
+SMG to Manual Transmission Conversions (E60 M5, E63/E64 M6)<br/><br/>
+
+Mechanical Restorations<br/><br/>
+
+Performance Software Upgrades<br/><br/>
+
+Engine Diagnostic & Repair<br/><br/>
+
+Oil Changes & Tune-Ups<br/><br/>
+
+Fluid Flushes<br/><br/>
+
+Brake Service<br/><br/>
+
+Check / Service Light Diagnostics<br/><br/>
+
+Transmissions, Flywheels & Clutches<br/><br/>
+
+Suspension & Steering<br/><br/>
+
+Driveline<br/><br/>
+
+Fuel System<br/><br/>
+
+Cooling System<br/><br/>
+
+Battery, Alternator & Starter<br/><br/>
+
+Body, Chassis & Interior<br/><br/>
+
+BMW Factory Scheduled Maintenance Service<br/><br/>
+
+BMW Inspections 1 & 2<br/><br/>
+
+Safety Inspections<br/><br/>
+
+Exhaust Systems<br/><br/>
+
+&nbsp;<br/><br/>
+
+# For service inquiries, please fill out out the form below.
+
+&nbsp;<br/><br/>
+
+form here
