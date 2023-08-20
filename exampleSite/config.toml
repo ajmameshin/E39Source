@@ -193,7 +193,7 @@ pluralizelisttitles = false
 [params.widgets]
     categories = true
     tags = false
-    search = false
+    search = true
 
 [params.carouselCustomers]
     items = 6

@@ -1761,11 +1761,21 @@ fieldset[disabled] .btn-template-primary.active {
   background-attachment: fixed;
   background-size: cover;
 }
+
 .bar.background-image-fixed-2 {
   background: url('../img/1987-BMW.jpeg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
+
+/* Media query for screens smaller than 768px (you can adjust this value as needed) */
+@media only screen and (max-width: 768px) {
+  .bar.background-image-fixed-2 {
+    background-attachment: scroll; /* Changes to scroll on smaller screens */
+  }
+}
+
+
 .bar.background-image-fixed-4 {
   background: url('../img/E39source_car.png') center bottom no-repeat;
   background-attachment: fixed;
