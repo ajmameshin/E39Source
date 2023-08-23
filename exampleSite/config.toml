@@ -39,13 +39,13 @@ pluralizelisttitles = false
     name       = "Donate"
     identifier = "menu.donate"
     url        = "/donations/"
-    weight     = 3
+    weight     = 9
 
 [[menu.main]]
     name       = "products"
     identifier = "menu.products"
     url        = "/products/"
-    weight     = 4
+    weight     = 3
 
 [[menu.main]]
     name       = "Videos"
@@ -63,14 +63,19 @@ pluralizelisttitles = false
     name       = "Downloads"
     identifier = "menu.faq"
     url        = "/faq/"
-    weight     = 5
+    weight     = 4
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 6
+    weight     = 5
 
+[[menu.main]]
+    identifier = "about us"
+    name       = "About Us"
+    url        = "/about-us/"
+    weight     = 6
 
 # Top bar social links menu
 
