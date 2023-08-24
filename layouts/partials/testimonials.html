@@ -2,6 +2,48 @@
 {{ if .Site.Params.testimonials.enable }}
 {{ if isset .Site.Data "testimonials" }}
 {{ if gt (len .Site.Data.testimonials) 0 }}
+
+
+
+
+
+<!-- Existing Carousel Code -->
+<!-- ... Your carousel HTML code would go here ... -->
+
+<!-- Dropdown Menu -->
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Options
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="#">Option 1</a>
+      <a class="dropdown-item" href="#">Option 2</a>
+      <a class="dropdown-item" href="#">Option 3</a>
+  
+      <!-- Nested Dropdown within the primary dropdown -->
+      <div class="dropdown-divider"></div>
+      <h6 class="dropdown-header">More Options:</h6>
+      <div class="dropdown dropright">
+        <a class="dropdown-item dropdown-toggle" href="#" id="nestedDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Option 4
+        </a>
+        <div class="dropdown-menu" aria-labelledby="nestedDropdown">
+          <a class="dropdown-item" href="#">Option 4.1</a>
+          <a class="dropdown-item" href="#">Option 4.2</a>
+          <a class="dropdown-item" href="#">Option 4.3</a>
+        </div>
+      </div>
+  
+      <a class="dropdown-item" href="#">Option 5</a>
+      <a class="dropdown-item" href="#">Option 6</a>
+    </div>
+  </div>
+  
+
+
+
+
+
 <section class="bar background-pentagon no-mb">
     <div class="container">
         <div class="row">
