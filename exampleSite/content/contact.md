@@ -6,4 +6,4 @@ id = "contact"
 
 E39Source was founded in September, 2011 in Hudson, Ohio, and was inspired by the significant void of quality online BMW E39 content. Co-founder Ryan Schultz acquired his 2000 M5 in July, 2010, and has been creating informational and educational content since. In 2018, Ryan and E39Source re-located to San Diego, California where they currently use their brick-and-mortar facility to provide world-class BMW service and support.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Please feel free to contact us, we will get back to you to answer any possible questons.
