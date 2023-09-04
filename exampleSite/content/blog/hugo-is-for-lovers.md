@@ -76,3 +76,8 @@ I am very happy to offer a plug-and-play cable that plugs directly into the 18-p
 3. Plug the voltage regulator into the charging pad.
 
 Re-assemble the various interior trim, switches, modules, etc. The wireless charging pad and associated small circuit board will fit when re-installed- if you removed enough material from the tray and are able to route the circuit board in a way that does not interfere with re-installation. If you are having trouble making these items fit, you can use a dremel to cut away at the plastic located directly under the tray. Do not remove more than would be absolutely required.
+
+E39Source Wireless Charging Retrofit DIY
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHsWjQP84IM" frameborder="0" allowfullscreen></iframe>
+
