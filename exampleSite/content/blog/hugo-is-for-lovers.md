@@ -1,11 +1,14 @@
 +++
 title = "BMW E39: Wireless Charging"
-date = "2015-08-03T13:39:46+02:00"
+date = "2023-09-04T13:50:46+02:00"
 tags = ["hugo"]
 categories = ["More M5 Content"]
 banner = "img/final-1-1024x696.jpg"
 summary="In this article, we’ll discuss the required parts and procedures to retrofit wireless phone charging to your BMW E39 5-series. That’s right- a feature not available on many modern BMWs- in your 20+ year old one. And the best part? The parts cost less than $35. Be sure to watch the embedded YouTube video below, which shows these steps in more detail."
 +++
+
+![Wireless Charging Image](../img/final-1-1024x696.jpg)
+
 **Objective:**  Retrofit wireless charging to a BMW E39 5-series.
 
 
@@ -79,5 +82,5 @@ Re-assemble the various interior trim, switches, modules, etc. The wireless char
 
 E39Source Wireless Charging Retrofit DIY
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHsWjQP84IM" frameborder="0" allowfullscreen></iframe>
+{{< youtube mHsWjQP84IM >}}
 

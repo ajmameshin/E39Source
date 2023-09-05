@@ -112,11 +112,11 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
+    author = "Ryan Schultz"
     title="location"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = ["E39Source", "BMW", "go"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "E39Source BMW"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -192,7 +192,7 @@ pluralizelisttitles = false
       """
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:filename/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
