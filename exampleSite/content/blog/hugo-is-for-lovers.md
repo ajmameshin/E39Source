@@ -84,3 +84,6 @@ E39Source Wireless Charging Retrofit DIY
 
 {{< youtube mHsWjQP84IM >}}
 
+
+<!-- This is the URL to the youtube video. The code at the back is what you need to add for making it on the site: https://www.youtube.com/watch?v=mHsWjQP84IM&t=13s -->
+
