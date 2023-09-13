@@ -2,17 +2,11 @@
 title = "BMW E39: Navigation System Upgrades: (Computer, Display, Software, Maps)"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["E39 M5 BMW"]
-banner = "img/banners/banner-4.jpg"
+banner = "img/IMG_1.jpeg"
 
 +++
 
-
-![Navigation Guide](/img/Nav_Guide_1.jpg)
-
-This is HTML, Move this to a new place: 
-
-<img src="/img/Nav_Guide_1.jpg" alt="Navigation Guide">
-
+![Nav Guide Image](../img/IMG_1.jpg)
 
 In this article, I discuss in detail the steps, hardware, and software required to upgrade your BMW’s navigation computer, display, software, and maps.  The information in this article is only applicable to BMWs that speak the same electronics ‘language’.  Many BMW models and series speak this same language, utilize the same connectors, and make use of the same hardware-software interface.
 
