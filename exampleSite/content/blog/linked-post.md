@@ -2,7 +2,7 @@
 title = "BMW E39: Navigation System Upgrades: (Computer, Display, Software, Maps)"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["E39 M5 BMW"]
-banner = "img/IMG_1.jpeg"
+banner = "img/IMG_1.jpg"
 
 +++
 
@@ -46,6 +46,11 @@ The MKI computer started this generation of BMW navigation systems. The MKI firs
 
 MKII computers took over for the 1998 model year, and now had the compass built into the still required trimble.  Hardware specifications improved, making the system slightly faster. A female voice now replaced the MKI’s male voice, and CD-ROMs were still used for maps. Connections will now be universal moving forward.
 
+![Nav Guide Image 2](../img/IMG_4680.jpeg)
+MKII front. MKI looks identical.
+![Nav Guide Image 3](../img/IMG_4682.jpeg)
+MKII rear. MKI has slightly different rear connectors.
+
 BMW MKII navigation computer front
 MKII front. MKI looks identical.
 BMW MKII navigation computer rear 
@@ -59,7 +64,8 @@ The MKIII arrived for the 2001 model year in E38 and E39 models. Note that 9/00 
 
 BMW’s MKIV computer is the best available for this generation of cars.  The setup is the same as the MKIII, but the MKIV is faster yet, and now supports DVDs for map data in addition to CDs, which means that the entire United States and Canada can fit on two DVDs, instead of eight CDs.  Note that as of 2012, there are two DVDs (Eastern US and Western US, both include portions of Canada) due to the amount of detail, and POIs (points of interest). The MKIV computer is the only computer to run the latest V32 software version, and support the 3D ‘perspective’ map view mode.  The MKIV has a rounded eject button, and has a “DVD” stamp printed in white on the front, below the disc-loading slot.
 
-BMW MKIV navigation computer DVD front
+![Nav Guide Image 4](../img/IMG_4887.jpeg)
+MKIV navigation computer DVD front
 MKIV computer. MKIII looks the same, minus the DVD logo.
 
 **UPGRADING NAVIGATION COMPUTERS**
@@ -104,8 +110,11 @@ BMW used two displays: the 4:3, and the 16:9.  The smaller screen was used from 
 
 **Upgrading From 4:3 to 16:9**
 
-BMW E39 4:3 navigation display
+![Nav Guide Image 5](../img/IMG_0871.jpeg)
 A 4:3 navigation displayed installed in a 02/2000 M5.
+
+![Nav Guide Image 6](../img/IMG_4881.jpeg)
+A 16:9 navigation displayed in a 02/2000 M5.
 
 BMW E39 16:9 navigation display
 A 16:9 navigation displayed in a 02/2000 M5.
@@ -146,46 +155,29 @@ Here are the latest versions for each computer:
 **MKIV**:  [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Modified%20Version.zip)
  (Modified version:  ///M logo splash screen, night mode color 2, speed camera alerts, warning bypass)
 
-
-
-
-
-
-
-
-
-
-BMW 4:3 navigation display with MKII computer menu
-4:3 display, MKII running the latest available software /81 (V21)
-BMW 4:3 navigation screen with MKII computer settings menu
+![Nav Guide Image 7](../img/IMG_4678.jpeg)
 4:3 display, MKII running the latest available software /81 (V21)
 
-BMW 4:3 navigation display with MKIV computer menu
+![Nav Guide Image 8](../img/IMG_4679.jpeg)
+4:3 display, MKII running the latest available software /81 (V21)
+
+![Nav Guide Image 9](../img/IMG_2226.png)
 4:3 display, MKIV running the latest available software /00 (V32, modified)
-BMW 4:3 navigation display with MKIV settings menu
+
+![Nav Guide Image 10](../img/IMG_2266.png)
 4:3 display, MKIV running the latest available software /00 (V32, modified)
-BMW E39 M5 interior with widescreen navigation display
+
+![Nav Guide Image 11](../img/IMG_4886.jpeg)
 16:9 display and MKIV running the latest available software /00 (V32, modified)
-BMW E39 M5 interior with widescreen navigation display and m logo 
+
+![Nav Guide Image 12](../img/IMG_4916.jpeg)
 16:9 display and MKIV running the latest available software /00 (V32, modified)
-
-
-
-
-
-
 
 
 The latest MKIII software is SW 3-1/63 (V23).  Some systems report SW 3-1/65.  I can only assume that these are the same.  It is not possible to install V32 on a MKIII system.
 
-
-
-
-
-
-
-
-
+![Nav Guide Image 13](../img/IMG_6666.jpeg)
+Chart shows revision history of MKI-MKIV computer software.  Blue bolded versions are the latest.  Click to enlarge.
 
 BMW MKI, MKII, MKIII, MKIV software version table
 Chart shows revision history of MKI-MKIV computer software.  Blue bolded versions are the latest.  Click to enlarge.
@@ -237,6 +229,8 @@ To enable:
 7. Use the right push wheel to bring up the options, map view, and select ‘**perspective**‘.
 
 
+![Nav Guide Image 14](../img/IMG_5515.png)
+Perspective map view enabled on MKIV computer running V32.
 
 
 
