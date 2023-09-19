@@ -1268,6 +1268,11 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 0;
   margin-bottom: 40px;
 }
+.scrollable-testimonial {
+  height: 150px;  /* Setting a fixed height */
+  overflow-y: auto;  /* Allows scrolling for overflow content */
+}
+
 .testimonials .item {
   list-style-type: none;
   margin: 0 5px;
@@ -1401,22 +1406,7 @@ fieldset[disabled] .btn-template-primary.active {
 .team-member-detail .social a.facebook {
   background-color: #4460ae;
 }
-.team-member .social a.gplus,
-.team-member-detail .social a.gplus {
-  background-color: #c21f25;
-}
-.team-member .social a.twitter,
-.team-member-detail .social a.twitter {
-  background-color: #3cf;
-}
-.team-member .social a.instagram,
-.team-member-detail .social a.instagram {
-  background-color: #cd4378;
-}
-.team-member .social a.email,
-.team-member-detail .social a.email {
-  background-color: #4a7f45;
-}
+
 .box-simple {
   text-align: center;
   margin-bottom: 40px;
@@ -3644,3 +3634,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+
+
