@@ -180,7 +180,7 @@ pluralizelisttitles = false
 
     logo = "img/E39Source Logo.png"
     logo_small = "img/E39Source Logo.png"
-    contact_url = "/contact"
+    location_url = "/location"
     address = """<p class="text-uppercase"><strong></strong>
         <br>301 Enterprise St
         <br>Suite 1
