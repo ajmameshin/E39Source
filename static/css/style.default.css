@@ -3599,40 +3599,39 @@ body {
 
 .button {
   display: inline-block;
-  background-color: white;
-  color: black;
+  background-color: rgb(255, 255, 255);
+  color: rgb(96, 95, 95);
   text-align: center;
-  text-decoration: none;
-  padding: 10px 15px; /* Adjust padding for slightly smaller buttons */
-  margin: 5px; /* Add some spacing between buttons */
+  text-decoration: underline;  /* Text is always underlined */
+  padding: 10px 15px;
+  margin: 0px;
   border: none;
   cursor: pointer;
   transition: all 0.3s ease;
   font-size: 16px;
-  flex: 1; /* Let the buttons grow equally to fill the available space */
-  max-width: calc(33.33% - 10px); /* Limit maximum width for larger screens */
+  font-weight: 600;  /* Semi-bold weight */
+  flex: 1;
+  max-width: calc(33.33% - 10px);
+}
+
+.button:hover {
+  background-color: #78ceef;  /* Darker blue background on hover */
 }
 
 @media screen and (max-width: 768px) {
   .button {
       font-size: 14px;
-      max-width: calc(50% - 10px); /* Two buttons per row on smaller screens */
-      flex-basis: calc(50% - 10px); /* Allow wrapping to two rows */
+      max-width: calc(50% - 10px);
+      flex-basis: calc(50% - 10px);
   }
 }
 
 @media screen and (max-width: 480px) {
   .button {
       font-size: 12px;
-      max-width: calc(100% - 10px); /* One button per row on smallest screens */
-      flex-basis: calc(100% - 10px); /* Allow wrapping to one column */
+      max-width: calc(100% - 10px);
+      flex-basis: calc(100% - 10px);
   }
 }
-
-
-.button-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
 

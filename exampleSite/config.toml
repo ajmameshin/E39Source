@@ -241,8 +241,8 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "services"
     subtitle = "E39Source is proud to offer Exceptional BMW Service"
-    link_url = "#"
-    link_text = "view service"
+    link_url = "service"
+    link_text = "view services"
 
 [params.recent_posts]
     enable = true
