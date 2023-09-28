@@ -3583,7 +3583,6 @@ a.list-group-item.active > .badge,
 
 /* Buttons */
 
-
 body {
   margin: 0;
   padding: 0;
@@ -3597,37 +3596,37 @@ body {
   width: 100%;
 }
 
-.button {
+.button, .dropdown {
   display: inline-block;
   background-color: rgb(255, 255, 255);
   color: rgb(96, 95, 95);
   text-align: center;
-  text-decoration: underline;  /* Text is always underlined */
-  padding: 10px 15px;
-  margin: 0px;
+  text-decoration: underline;
+  padding: 10px 0px;
+  margin: 0;  /* Reset any margin */
   border: none;
   cursor: pointer;
-  transition: all 0.3s ease;
-  font-size: 16px;
-  font-weight: 600;  /* Semi-bold weight */
+  transition: all 0.5s ease;
+  font-size: 14px;
+  font-weight: 600;
   flex: 1;
   max-width: calc(33.33% - 10px);
 }
 
-.button:hover {
-  background-color: #78ceef;  /* Darker blue background on hover */
+.button:hover, .dropdown:hover > .button {
+  background-color: 
 }
 
 @media screen and (max-width: 768px) {
-  .button {
+  .button, .dropdown {
       font-size: 14px;
       max-width: calc(50% - 10px);
       flex-basis: calc(50% - 10px);
   }
 }
 
-@media screen and (max-width: 480px) {
-  .button {
+@media screen and (max-width: 400px) {
+  .button, .dropdown {
       font-size: 12px;
       max-width: calc(100% - 10px);
       flex-basis: calc(100% - 10px);
@@ -3635,3 +3634,44 @@ body {
 }
 
 
+/* Dropdown */
+
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.dropdown-content a {
+  color: rgb(96, 95, 95);
+  text-decoration: underline;
+  display: block;
+  padding: 10px 15px;
+  transition: all 0.3s ease;
+  font-size: 16px;
+  text-align: center;
+}
+
+.dropdown-content a:hover {
+  background-color: #78ceef;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.dropdown > .button {
+  padding: 0px 0px;  /* Adjust as needed to match other buttons */
+}
