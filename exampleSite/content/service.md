@@ -56,4 +56,6 @@ keywords = ["Automotive Services","BMW","repair","modifications"]
 
 &nbsp;<br/><br/>
 
-form here
+
+{{< shopping >}}
+
