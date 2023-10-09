@@ -1,6 +1,7 @@
 +++
 title = "BMW E39 M5: Must Have Mods"
 banner = "img/IMG_3639.jpeg"
+categories = ["E39 M5 BMW"]
 summary = "I bought my 2000 BMW M5 in 2010; it was my first car and I was 17 years old. Somehow, I didn’t kill myself. By 2011, the void of E39 M5 DIY content online made me think ‘If I want to see this content, maybe others would too.’ I decided to spearhead the lack of online content with E39Source. This has allowed me to connect with thousands of fellow E39 (M5) owners. Now after 12+ years of E39 M5 experience, I have come to know this platform quite well. For the first 8 years, I serviced my own vehicle. Since 2018, I have been offering my speciality E39 M5 services professionally at our shop located in San Diego, California..."
 +++
 
