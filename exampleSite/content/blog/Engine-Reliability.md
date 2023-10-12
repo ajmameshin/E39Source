@@ -1,6 +1,6 @@
 
 +++
-title = "E39 M5 Engine Reliability:"
+title = "E39 M5 Engine Reliability"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_1030.jpeg"
