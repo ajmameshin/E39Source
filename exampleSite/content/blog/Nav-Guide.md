@@ -1,6 +1,6 @@
 +++
 title = "BMW E39: Navigation System Upgrades: (Computer, Display, Software, Maps)"
-tags = ["golang", "programming", "theme", "hugo"]
+tags = ["BMW, E39, Navigation, Software, Upgrade"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_1.jpg"
 description = "In this article, I discuss in detail the steps, hardware, and software required to upgrade your BMW’s navigation computer, display, software, and maps.  The information in this article is only applicable to BMWs that speak the same electronics ‘language’.  "

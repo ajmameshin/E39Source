@@ -1,6 +1,6 @@
 +++
 title = "BMW E39: Automatic Headlight Retrofit"
-tags = ["golang", "programming", "theme", "hugo"]
+tags = ["BMW, E39, Headlights, Automatic"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_0060.jpeg"
 +++

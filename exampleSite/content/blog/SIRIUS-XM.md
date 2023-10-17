@@ -1,6 +1,6 @@
 +++
 title = "BMW E39: SIRIUS XM, Aux Input, BM53 Radio Retrofit"
-tags = ["BMW E39"]
+tags = ["BMW E39, Sound, system, Radio, SIRIUS XM"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_3169.jpg"
 +++
