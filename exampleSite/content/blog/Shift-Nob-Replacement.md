@@ -99,3 +99,5 @@ Now splice open the purple ashtray light wire, and add in your shifter.  Vampire
 **1997-2003 BMW E39 5-Series M5 Shift Knob Retrofit and Wiring:**
 
 {{< youtube rNAOn8qMSyg >}}
+
+&nbsp;<br/><br/>
