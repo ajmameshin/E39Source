@@ -47,7 +47,7 @@ There are two changes that we must make to enable the MAX AC functionality. Firs
 
 &nbsp;<br/><br/>
 
-ISCLOSURE: This post may contain affiliate links, meaning when you click the links and make a purchase, we receive a commission.
+DISCLOSURE: This post may contain affiliate links, meaning when you click the links and make a purchase, we receive a commission.
 
 
 PART NUMBER, 	DESCRIPTION	FROM, 	UP TO
