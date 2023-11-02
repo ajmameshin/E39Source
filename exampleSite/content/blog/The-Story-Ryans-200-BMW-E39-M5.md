@@ -1,7 +1,7 @@
 +++
-title = "The Story: Ryan’s 2000 BMW E39 M5"
+title = "The Story: Ryan’s 2000 BMW E39 M5:"
 tags = ["BMW, E39, project, upgrade, 2000"]
-categories = ["Project-Cars"]
+categories = ["E39-SOURCE-M5"]
 banner = "img/IMG_0487.jpeg"
 +++
 
@@ -176,3 +176,7 @@ Depo Halo headlights
 BMW winter floor matts
 
 &nbsp;<br/><br/>
+
+[NEXT PAGE:](/E39Source/blog/the-story-ryans-200-bmw-e39-m5-2011/)
+
+&nbsp;
