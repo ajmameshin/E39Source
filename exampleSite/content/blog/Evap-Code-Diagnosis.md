@@ -2,7 +2,7 @@
 +++
 title = "BMW E39: P0443/Evap Code Diagnosis"
 tags = ["BMW, E39, code, diagnosis, information"]
-categories = ["Other-BMW-Content"]
+categories = ["E39-M5-BMW"]
 banner = "img/IMG_21.jpeg"
 +++
 
