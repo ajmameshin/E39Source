@@ -1,7 +1,7 @@
 +++
 title = "Auxiliary Input Kit Installation (Non-Nav)"
 banner = "img/190895_x800.jpeg"
-categories = ["E39 M5 BMW"]
+categories = ["E39-M5-BMW"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/190895_x800.jpg)
