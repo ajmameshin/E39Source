@@ -1,7 +1,7 @@
 +++
 title = "BMW E39 M5: Front PDC Retrofit"
 tags = ["BMW, E39, M5, PDC, Retrofit, Upgrade"]
-categories = ["E39 M5 BMW"]
+categories = ["E39-M5-BMW"]
 banner = "img/IMG_7300.jpeg"
 +++
 
