@@ -56,7 +56,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Articles"
     identifier = "menu.blog"
-    url        = "/blog/"
+    url        = "/categories/e39-m5-bmw/"
     weight     = 7
 
 [[menu.main]]
