@@ -1,19 +1,22 @@
 +++
 title = "About Us"
-description = "About Us"
-keywords = ["Automotive Products","About Us"]
+description = "About Us Page"
+keywords = ["BMW", "About Us", "shop", "fix", "Repair", "E39", "M5"]
 +++
 
-# Meet the Team
 
-Bios go here
+{{< bootstrap-table "someclassname" >}}
+| | |
+|--------|-------|
+| ![img](/img/Person2.png) | ![img](/img/Person2.png)  |
+| Bio of the first team member goes here | Bio of the second team member goes here  |
+{{< /bootstrap-table >}}
 
-1.
-2.
-3.
-4.
-5.
+{{< bootstrap-table "someclassname" >}}
+||
+|--------|-------|
+|**Other about us content (about the business)**|
+{{< /bootstrap-table >}}
 
-E39Source was founded in September, 2011 in Hudson, Ohio, and was inspired by the significant void of quality online BMW E39 content. Co-founder Ryan Schultz acquired his 2000 M5 in July, 2010, and has been creating informational and educational content since. In 2018, Ryan and E39Source re-located to San Diego, California where they currently use their brick-and-mortar facility to provide world-class BMW service and support.
-
+&nbsp;
 
