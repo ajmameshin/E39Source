@@ -62,7 +62,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Downloads"
     identifier = "menu.faq"
-    url        = "/faq/"
+    url        = "/downloads/"
     weight     = 4
 
 [[menu.main]]
@@ -147,7 +147,7 @@ pluralizelisttitles = false
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    formspree_action = "https://formspree.io/f/mjvnvgrq"
     contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
