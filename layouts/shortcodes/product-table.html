@@ -34,42 +34,35 @@
 }
 .no-lines,
 .no-lines th,
-.no-lines td,
+.no-lines td {
+  border: none !important;
+  vertical-align: middle; /* Center content vertically */
+  text-align: left; /* Align text to the left */
+  padding: 15px; /* Adjust padding as needed */
+}
+
 .no-lines tr {
   border: none !important;
   border-collapse: collapse !important;
-  vertical-align: middle; /* Ensure vertical alignment for all table cells and headers */
-}
-
-.parent { 
-  display: flex; 
-  align-items: center; 
 }
 
 .table {
-  display: inline-block;  
-  padding: 0 25px; /* Adjust the right and left padding as needed */
-  vertical-align: middle; /* Vertically center content in the cells */
-  align-items : center;
+  width: 100%; /* Use the full width of the container */
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.table td {
-  display: inline-block;  
-  padding: 0 25px; /* Adjust the right and left padding as needed */
-  vertical-align: middle; /* Vertically center content in the cells */
-  align-items : center;
-}
 </style>
 
 
-<div class="parent"></div>
+<div class="table-responsive"></div>
 <table class="table no-lines">
     {{ range .Site.Data.products }}
     <tr>
       <td class="centered-table-img"><img src="{{ .image }}" alt="{{ .name }}"></td>
-      <td class="centered-table-img">{{ .description }}</td>
-      <td class="centered-table-img">Price: ${{ .price }}</td>
-      <td class="centered-table-img"><button
+      <td>{{ .description }}</td>
+      <td>Price: ${{ .price }}</td>
+      <td><button
         style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
         id="checkout-button-price_1OXDLjBq80raCk7gNgyWRfja"
         role="link"
