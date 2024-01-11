@@ -1,0 +1,124 @@
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
+
+<!-- Getting params -->
+{{ $htmlTable := .Inner | markdownify }}
+{{ $table_class := .Get "table_class" }}
+{{ $thead_class := .Get "thead_class" }}
+
+<!-- Ensure default classes are set if none are provided -->
+{{ if not $table_class }}
+    {{ $table_class = "table" }}
+{{ end }}
+
+{{ if not $thead_class }}
+    {{ $thead_class = "thead-light" }}
+{{ end }}
+
+<!-- Adding table classes with text-center for body and header -->
+{{ $old_table_tag := "<table>" }}
+{{ $new_table_tag := printf "<table class=\"%s text-center no-lines\">" $table_class }}
+{{ $htmlTable = replace $htmlTable $old_table_tag $new_table_tag }}
+
+<!-- Adding header classes with text-center -->
+{{ $old_thead_tag := "<thead>" }}
+{{ $new_thead_tag := printf "<thead class=\"%s text-center\">" $thead_class }}
+{{ $htmlTable = replace $htmlTable $old_thead_tag $new_thead_tag }}
+
+<!-- Custom CSS to center images and remove all lines and borders -->
+<style>
+.centered-table-img img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.no-lines,
+.no-lines th,
+.no-lines td,
+.no-lines tr {
+  border: none !important;
+  border-collapse: collapse !important;
+  vertical-align: middle; /* Ensure vertical alignment for all table cells and headers */
+}
+
+.parent { 
+  display: flex; 
+  align-items: center; 
+}
+
+.table {
+  display: inline-block;  
+  padding: 0 25px; /* Adjust the right and left padding as needed */
+  vertical-align: middle; /* Vertically center content in the cells */
+  align-items : center;
+}
+
+.table td {
+  display: inline-block;  
+  padding: 0 25px; /* Adjust the right and left padding as needed */
+  vertical-align: middle; /* Vertically center content in the cells */
+  align-items : center;
+}
+</style>
+
+
+<div class="parent"></div>
+<table class="table no-lines">
+    {{ range .Site.Data.products }}
+    <tr>
+      <td class="centered-table-img"><img src="{{ .image }}" alt="{{ .name }}"></td>
+      <td class="centered-table-img">{{ .description }}</td>
+      <td class="centered-table-img">Price: ${{ .price }}</td>
+      <td class="centered-table-img"><button
+        style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
+        id="checkout-button-price_1OXDLjBq80raCk7gNgyWRfja"
+        role="link"
+        type="button"
+      >
+        Buy It Now
+      </button>
+      </td>
+    </tr>
+    {{ end }}
+  </table>
+</div>
+
+<div id="error-message"></div>
+
+<script>
+(function() {
+  var stripe = Stripe('pk_test_51M8rE7Bq80raCk7gg6bo8uEwcYwpWNZmBDwiwfiJoyA1ad2nqaVGooGn3OLtEuXt39aeuU1Mcvx5nNVjlRbN3dXv007K4Dtotk');
+
+  var checkoutButton = document.getElementById('checkout-button-price_1OXDLjBq80raCk7gNgyWRfja');
+  checkoutButton.addEventListener('click', function () {
+    /*
+     * When the customer clicks on the button, redirect
+     * them to Checkout.
+     */
+    stripe.redirectToCheckout({
+      lineItems: [{price: 'price_1OXDLjBq80raCk7gNgyWRfja', quantity: 1}],
+      mode: 'payment',
+      /*
+       * Do not rely on the redirect to the successUrl for fulfilling
+       * purchases, customers may not always reach the success_url after
+       * a successful payment.
+       * Instead use one of the strategies described in
+       * https://stripe.com/docs/payments/checkout/fulfill-orders
+       */
+      successUrl: 'https://upsella.org/success',
+      cancelUrl: 'https://upsella.org/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        /*
+         * If `redirectToCheckout` fails due to a browser or network
+         * error, display the localized error message to your customer.
+         */
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+</script>
+  
