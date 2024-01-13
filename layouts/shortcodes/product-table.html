@@ -30,6 +30,7 @@
 .centered-table-img img {
   display: block;
   margin-left: auto;
+  color: #0c032f;
   margin-right: auto;
 }
 .no-lines,
@@ -38,45 +39,84 @@
   border: none !important;
   vertical-align: middle; /* Center content vertically */
   text-align: left; /* Align text to the left */
+  color: #292521;
   padding: 0 25px; /* Adjust the right and left padding as needed */
 }
 
 .no-lines tr {
   border: none !important;
-  border-collapse: collapse !important;
   padding: 0 25px; /* Adjust the right and left padding as needed */
 }
 
 .table {
   width: 100%; /* Use the full width of the container */
   margin-left: auto;
+  color: #292521;
   margin-right: auto;
   padding: 0 25px; /* Adjust the right and left padding as needed */
 }
 
 </style>
 
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+    .product-table {
+        width: 100%;
+        max-width: 900px;
+        margin: auto;
+        border-collapse: collapse;
+        table-layout: fixed;
+    }
+    .product-table td {
+        text-align: center;
+        vertical-align: middle;
+        padding: 15px;
+        border-bottom: 1px solid #ddd;
+    }
+    .product-table img {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+    }
+    .buy-button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    @media (max-width: 600px) {
+        .product-table, .product-table td {
+            width: 100%;
+        }
+        .product-table img {
+            max-width: 140px;
+        }
+    }
+</style>
 
-<div class="table-responsive"></div>
-<table class="table">
+<table class="product-table">
+    <!-- Sample row -->
     {{ range .Site.Data.products }}
     <tr>
-      <td class="centered-table-img"><img src="{{ .image }}" alt="{{ .name }}"></td>
-      <td>{{ .description }}</td>
-      <td>Price: ${{ .price }}</td>
-      <td><button
-        style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
-        id="checkout-button-price_1OXDLjBq80raCk7gNgyWRfja"
-        role="link"
-        type="button"
-      >
-        Buy It Now
-      </button>
-      </td>
-    </tr>
+        <td><img src="{{ .image }}" alt="{{ .name }}"></td>
+        <td>{{ .description }}</td>
+        <td>Price: ${{ .price }}</td>
+        <td><button
+            style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
+            id="checkout-button-price_1OXDLjBq80raCk7gNgyWRfja"
+            role="link"
+            type="button"
+          >
+            Buy It Now
+          </button>
+          </td>
+      </tr>
     {{ end }}
-  </table>
-</div>
+</table>
 
 <div id="error-message"></div>
 
