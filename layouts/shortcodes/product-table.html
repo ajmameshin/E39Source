@@ -1,5 +1,7 @@
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
 
 <!-- Getting params -->
 {{ $htmlTable := .Inner | markdownify }}
@@ -14,49 +16,6 @@
 {{ if not $thead_class }}
     {{ $thead_class = "thead-light" }}
 {{ end }}
-
-<!-- Adding table classes with text-center for body and header -->
-{{ $old_table_tag := "<table>" }}
-{{ $new_table_tag := printf "<table class=\"%s text-center no-lines\">" $table_class }}
-{{ $htmlTable = replace $htmlTable $old_table_tag $new_table_tag }}
-
-<!-- Adding header classes with text-center -->
-{{ $old_thead_tag := "<thead>" }}
-{{ $new_thead_tag := printf "<thead class=\"%s text-center\">" $thead_class }}
-{{ $htmlTable = replace $htmlTable $old_thead_tag $new_thead_tag }}
-
-<!-- Custom CSS to center images and remove all lines and borders -->
-<style>
-.centered-table-img img {
-  display: block;
-  margin-left: auto;
-  color: #0c032f;
-  margin-right: auto;
-}
-.no-lines,
-.no-lines th,
-.no-lines td {
-  border: none !important;
-  vertical-align: middle; /* Center content vertically */
-  text-align: left; /* Align text to the left */
-  color: #292521;
-  padding: 0 25px; /* Adjust the right and left padding as needed */
-}
-
-.no-lines tr {
-  border: none !important;
-  padding: 0 25px; /* Adjust the right and left padding as needed */
-}
-
-.table {
-  width: 100%; /* Use the full width of the container */
-  margin-left: auto;
-  color: #292521;
-  margin-right: auto;
-  padding: 0 25px; /* Adjust the right and left padding as needed */
-}
-
-</style>
 
 <style>
     body {
@@ -80,13 +39,10 @@
         max-width: 400px;
         height: auto;
     }
-    .buy-button {
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #4CAF50;
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
+    .stripe-buy-button {
+        width: 100px; /* Allows the cell to shrink to content size */
+        max-width: 100px; /* Ensures the cell (and hence the button) does not exceed 100px in width */
+        padding: 0; /* Optional: Adjust padding as needed */
     }
     @media (max-width: 600px) {
         .product-table, .product-table td {
@@ -105,55 +61,13 @@
         <td><img src="{{ .image }}" alt="{{ .name }}"></td>
         <td>{{ .description }}</td>
         <td>{{ .price }}</td>
-        <td><button
-            style="background-color:#255495;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
-            id="checkout-button-price_1OXDLjBq80raCk7gNgyWRfja"
-            role="link"
-            type="button"
+        <td>
+          <stripe-buy-button class="stripe-buy-button"
+            buy-button-id="{{ .stripe_id }}"
+            publishable-key="{{ .stripe_key }}"
           >
-            Buy It Now
-          </button>
-          </td>
+          </stripe-buy-button>
+        </td>
       </tr>
     {{ end }}
 </table>
-
-<div id="error-message"></div>
-
-<script>
-(function() {
-  var stripe = Stripe('pk_test_51M8rE7Bq80raCk7gg6bo8uEwcYwpWNZmBDwiwfiJoyA1ad2nqaVGooGn3OLtEuXt39aeuU1Mcvx5nNVjlRbN3dXv007K4Dtotk');
-
-  var checkoutButton = document.getElementById('checkout-button-price_1OXDLjBq80raCk7gNgyWRfja');
-  checkoutButton.addEventListener('click', function () {
-    /*
-     * When the customer clicks on the button, redirect
-     * them to Checkout.
-     */
-    stripe.redirectToCheckout({
-      lineItems: [{price: 'price_1OXDLjBq80raCk7gNgyWRfja', quantity: 1}],
-      mode: 'payment',
-      /*
-       * Do not rely on the redirect to the successUrl for fulfilling
-       * purchases, customers may not always reach the success_url after
-       * a successful payment.
-       * Instead use one of the strategies described in
-       * https://stripe.com/docs/payments/checkout/fulfill-orders
-       */
-      successUrl: 'https://upsella.org/success',
-      cancelUrl: 'https://upsella.org/canceled',
-    })
-    .then(function (result) {
-      if (result.error) {
-        /*
-         * If `redirectToCheckout` fails due to a browser or network
-         * error, display the localized error message to your customer.
-         */
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    });
-  });
-})();
-</script>
-  
