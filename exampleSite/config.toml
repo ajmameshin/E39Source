@@ -38,7 +38,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Donate"
     identifier = "menu.donate"
-    url        = "/donations/"
+    url        = "https://donate.stripe.com/bIY16N13ccyY5FK8ww"
     weight     = 9
 
 [[menu.main]]
