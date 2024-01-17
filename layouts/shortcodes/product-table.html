@@ -54,20 +54,37 @@
     }
 </style>
 
-<table class="product-table">
-    <!-- Sample row -->
-    {{ range .Site.Data.products }}
-    <tr>
-        <td><img src="{{ .image }}" alt="{{ .name }}"></td>
-        <td>{{ .description }}</td>
-        <td>{{ .price }}</td>
+<table class="{{ $table_class }}">
+  {{ $previous := 0 }}
+  {{ range $index, $element := .Site.Data.products }}
+    {{ if eq (mod $index 2) 0 }}
+      {{ $previous = $element }}
+    {{ else }}
+      <tr>
         <td>
-          <stripe-buy-button class="stripe-buy-button"
-            buy-button-id="{{ .stripe_id }}"
-            publishable-key="{{ .stripe_key }}"
-          >
-          </stripe-buy-button>
+            <stripe-buy-button class="stripe-buy-button"
+                buy-button-id="{{ $previous.stripe_id }}"
+                publishable-key="{{ $previous.stripe_key }}">
+            </stripe-buy-button>
+        </td>
+        <td>
+            <stripe-buy-button class="stripe-buy-button"
+                buy-button-id="{{ $element.stripe_id }}"
+                publishable-key="{{ $element.stripe_key }}">
+            </stripe-buy-button>
         </td>
       </tr>
+      {{ $previous = 0 }}
     {{ end }}
+  {{ end }}
+  {{ if $previous }}
+    <tr>
+      <td>
+          <stripe-buy-button class="stripe-buy-button"
+              buy-button-id="{{ $previous.stripe_id }}"
+              publishable-key="{{ $previous.stripe_key }}">
+          </stripe-buy-button>
+      </td>
+    </tr>
+  {{ end }}
 </table>
