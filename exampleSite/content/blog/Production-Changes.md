@@ -197,7 +197,7 @@ Pre vs post facelift headlights and fog lights. Car: 02/2000 E39 M5, DE93 (USA),
 
 &nbsp;<br/><br/>
 
-![E39 Production Changes 3](../img/IMG_taillights.png)
+![Alt text](https://e39source.com/wp-content/uploads/2014/02/taillights.png)
 
 Pre vs post facelift tail lights. Car: 02/2000 E39 M5, DE93 (USA), Silverstone Metallic.
 
