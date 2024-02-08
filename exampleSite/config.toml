@@ -1,4 +1,4 @@
-baseurl = "https://ajmameshin.github.io/E39Source/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://www.e39source.com" 
 title = "E39Source"
 theme = "E39Source"
 themesDir = "../.."
