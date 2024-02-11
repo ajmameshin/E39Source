@@ -119,25 +119,27 @@ Behind the rear view mirror, we will find the RS. The RS needs to be replaced wi
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.26.54-PM-1536x633.png)
+![Alt Text](../img/FD42B638-789E-4FE0-9E80-7AA659CF3E00_1_102_o.jpeg)
+
+
 
 RS on the left, RLS on the right. The color dots are just my way of knowing which car they came from.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.29.18-PM.png)
+![Alt Text](../img/4501A9F0-ACC4-485E-AEA7-06BDCE5FB57F.png)
 
 Top left: RS prism. Bottom left: RLS prism. Top right: RS. Bottom right: RLS.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_1518-1152x1536.jpeg)
+![Alt Text](../img/BB4E897D-784B-4172-B92E-497731D07AB0.jpeg)
 
 Old RS and RS prism removed. I refer to the hole in the black as the ‘window’ for the RS/RLS and prism.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_1207-1462x1536.jpeg)
+![Alt Text](../img/A8506055-9F4F-453D-992F-C62007E01AD2.jpeg)
 
 RLS installed!
 
@@ -171,13 +173,13 @@ The headlight switch (electrical part) and the headlight switch bezel (surround 
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.30.49-PM-1536x1138.png)
+![Alt Text](../img/F1FC0D85-2B20-486B-82B4-FA583591DC56_1_102_o.jpeg)
 
 Headlight switch knob removed, 19mm black plastic nut removed. This nut holds the switch and switch bezel to the instrument cluster trim/bezel.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_3543-1536x986.jpeg)
+![Alt Text](../img/948FA7C3-2F21-4F67-86F0-F8D781C2C697.jpeg)
 
 The last automatic headlight switch bezel in the United States, at the time (January, 2020).
 
@@ -201,13 +203,13 @@ The LCM IIIB still uses manual LWR. LWR/LRA is a separate module, installed behi
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.45.52-PM-1536x909.png)
+![Alt Text](../img/61B67AF0-B216-4F9D-A273-0651C1665104_1_102_o.jpeg)
 
 LCM IIIB sticker, high, with manual LWR.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.45.18-PM.png)
+![Alt Text](../img/7F4338F4-01B4-437E-B14C-023F6B17413C_1_102_o.jpeg)
 
 LCM IV, high, with automatic LWR.
 
@@ -263,19 +265,19 @@ LCM IV, high, with automatic LWR.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.44.06-PM-1226x1536.png)
+![Alt Text](../img/F337CF3F-D5F9-4CF8-8E17-E18BBA2996DE_1_102_o.jpeg)
 
 LCM wirings connectors. White (top) slides up. Black (center) lever slides and pulls straight out). Black (bottom) slides down.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.40.55-PM.png)
+![Alt Text](../img/432D4996-5525-4003-A975-994E8D9F95ED_1_102_o.jpeg)
 
 Tamper dot illuminated under ‘miles’ in the odometer. (Will be coded off).
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-02-at-5.38.40-PM-1536x1134.png)
+![Alt Text](../img/317A8D19-4CC7-4A49-86DA-4F2DB999D848_1_102_o.jpeg)
 
 Writing the FGSTNR (VIN) to the new (used) LCM IIIB.
 
