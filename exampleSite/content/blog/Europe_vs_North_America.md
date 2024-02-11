@@ -38,13 +38,13 @@ This is the later of the new fog light switches. The third position turns on bot
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/2002_BMW_M5_053334.jpg)
+![Alt text](../img/2002_BMW_M5_053334.jpeg)
 
 E39 M5 with facelift USA-spec headlights.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-09-at-12.24.05-PM-1536x968.png)
+![Alt text](../img/Screen-Shot-2020-02-09-at-12.24.05-PM-1536x968.png)
 
 E39 M5 with facelift Euro-spec headlights.
 
@@ -68,7 +68,7 @@ This E39 features the earlier rear foglight switch, and the vertical aim headlig
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/IMG_4909-1536x1152.jpeg)
+![Alt text](../img/IMG_4909-1536x1152.jpeg)
 
 E39 M5 with USA-spec lower dashboard.
 
@@ -90,7 +90,7 @@ E39 M5 aspherical side mirror glass.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/wing_mirrors.jpg)
+![Alt text](../img/wing_mirrors.jpeg)
 
 E39 M5 passenger mirror glass. Upper piece is North American, lower pane omits warning and reduces blind spots.
 
@@ -98,7 +98,7 @@ E39 M5 passenger mirror glass. Upper piece is North American, lower pane omits w
 
 **Floating Brake Rotors:** Floating brake rotors, or ‘two piece rotors’ are brake rotors that have the the hub/drum separated from the disc portion. This aides in weight reduction, and improved cooling of the disc.
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/m5-euro-rotors-front-250.jpg)
+![Alt text](../img/m5-euro-rotors-front-250.jpeg)
 
 Floating rotors.
 
@@ -108,7 +108,7 @@ Floating rotors.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/SAM_3567.jpg)
+![Alt text](../img/SAM_3567.jpeg)
 
 USA (left), European (right) trunk oddments door.
 
@@ -118,7 +118,7 @@ USA (left), European (right) trunk oddments door.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/trunktools-1536x1084.jpg)
+![Alt text](../img/trunktools-1536x1084.jpeg)
 
 Full trunk tool kit, European tools lassoed in white.
 
@@ -128,7 +128,7 @@ Full trunk tool kit, European tools lassoed in white.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/s-l1600.jpg)
+![Alt text](../img/s-l1600.jpeg)
 
 European center arm rest.
 
@@ -138,13 +138,13 @@ European center arm rest.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/bmw-m5-ubg-031.jpg)
+![Alt text](../img/bmw-m5-ubg-031.jpeg)
 
 European trunk lid.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/IMG_6775.jpeg)
+![Alt text](../img/IMG_6775.jpeg)
 
 North American trunk lid.
 
@@ -154,7 +154,7 @@ North American trunk lid.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-09-at-12.43.42-PM.png)
+![Alt text](../img/Screen-Shot-2020-02-09-at-12.43.42-PM.png)
 
 Alcantara sun visor.
 
@@ -162,7 +162,7 @@ Alcantara sun visor.
 
 **First Aid Kit:** Europe got an option for a first aid kit.
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/orginal-bmw-verbandskasten-unter-beifahrersitz-inhalt-abgelaufen-id76406528-1.jpg)
+![Alt text](../img/orginal-bmw-verbandskasten-unter-beifahrersitz-inhalt-abgelaufen-id76406528-1.jpeg)
 
 First aid kit box.
 
@@ -172,7 +172,7 @@ First aid kit box.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/mikhails_m5-1152x1536.jpg)
+![Alt text](../img/mikhails_m5-1152x1536.jpeg)
 
 Fire extinguisher installed under front E39 seat.
 
@@ -182,7 +182,7 @@ Fire extinguisher installed under front E39 seat.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/9Q29b.jpg)
+![Alt text](../img/9Q29b.jpeg)
 
 Double glazed front window.
 
@@ -196,13 +196,13 @@ Double glazed front window.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/rpIMNBMbftIDK421.medium.jpeg)
+![Alt text](../img/rpIMNBMbftIDK421.medium.jpeg)
 
 E39 with television option on board monitor.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/65506923268_modulo_tv_television_analogico_bmw_e46_x5_e39_e39.jpg)
+![Alt text](../img/65506923268_modulo_tv_television_analogico_bmw_e46_x5_e39_e39.jpeg)
 
 E39 television module.
 
@@ -212,19 +212,19 @@ E39 television module.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/post-36225-210125.jpg)
+![Alt text](../img/post-36225-210125.jpeg)
 
 Technical Graphite trim.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/M%25C3%25B6musTrimandHeadlinerepisode7bmwe39wearemomuswoodtrimrefinishedpianoglossblack2.png)
+![Alt text](../img/IMG_8686.png)
 
 Gloss ‘Piano’ Black trim.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/integrated_childseats.jpg)
+![Alt text](../img/integrated_childseats.jpeg)
 
 Integrated rear child seats.
 

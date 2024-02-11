@@ -5,7 +5,7 @@ categories = ["E39 M5 BMW"]
 banner = "img/bmw_toolkit_labelled.jpeg"
 +++
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/02/bmw_toolkit_labelled.jpg)
+![Alt text](../img/bmw_toolkit_labelled.jpeg)
 
 This post lists all of the parts that can be fitted to the E39’s trunk tool kit. Not all of these tools were included for the DE93 (North American) market cars. Specifically, we didn’t receive tools A, I, or J.
 

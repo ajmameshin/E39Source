@@ -5,7 +5,7 @@ categories = ["E39 M5 BMW"]
 banner = "img/541B-1536x1152.jpeg"
 +++
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/541B-1536x1152.jpg)
+![Alt text](../img/541B-1536x1152.jpg)
 
 This is a minor item to facelift, but it was included in the E39 2001 model year refresh nonetheless. From 9/00 production, BMW replaced the REST button with a MAX AC button. But fear not, REST functionality is not lost! This article details how to properly retrofit the new HVAC panel and associated solar sensor.
 
@@ -108,7 +108,7 @@ Y4. ellow/White (Solar Sensor Red) – Pin 14 on HVAC
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/GVIQ4961-1.png)
+![Alt text](../img/GVIQ4961-1.png)
 
 The red/green/blue/brown cable is the solar sensor. It plugs into the white connector (solar sensor extension cable) that then pins into the rear of the HVAC panel.
 
