@@ -5,7 +5,7 @@ categories = ["E39 M5 BMW"]
 banner = "img/IMG_0060.jpeg"
 +++
 
-![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_0060-1536x1003.jpeg)
+![Alt Text](../img/IMG_0060.jpeg)
 
 For the 2002 model year (from 9/1/2001 production), BMWs came standard with automatic headlights. Five components need to be installed or replaced to bring this functionality to earlier models. This article details the steps that must be completed to retrofit automatic headlights. Additionally, please view the video at the bottom of this post for more detail.
 
