@@ -31,55 +31,55 @@ At this point in my ownership, I have to say that the 525i has become an intrica
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0229.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0229.jpg)
 
 The first pictures of the 525i I was able to take when we got it home was next to its new best friend. Note the un-updated halos.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0237.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0237.jpg)
 
 A shot from the back of the car, the BMW roundel and the 525i badges have yet to be replaced.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0739.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0739.jpg)
 
 The very dirty, stone chipped, and un-updated front of my car. This is an early photo of what I have to work with in the front.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0775.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0775.jpg)
 
 The headlights undergoing their update to 6000K lights. It really refreshes the entire appeal of the car.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0781.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0781.jpg)
 
 What the lights look like on one side post-update.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0812.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0812.jpg)
 
 You can now tell what she is!
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0869.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0869.jpg)
 
 Here’s an idea of what potential the Topaz Blue Metallic paint on my car has to offer.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0880.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0880.jpg)
 
 Three generations of the 5 Series; an E34 525i, my E39 525i, and an E60 550i.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_0926.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0926.jpg)
 
 Eyes in the night…
 

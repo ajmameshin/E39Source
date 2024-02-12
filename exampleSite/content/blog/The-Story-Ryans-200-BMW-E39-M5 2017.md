@@ -21,11 +21,11 @@ I got bored enough in January to reach out to the new owner of my old S62, and s
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_9750.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_9750.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_1080.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1080.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_1252.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1252.jpg)
 
 Connecting-rod bearings.
 
@@ -37,7 +37,7 @@ While cleaning out some parts from my basement, I came across my first short shi
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_9952.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_9952.jpg)
 
 UUC EVO 3 short shift kit.
 
@@ -45,7 +45,7 @@ UUC EVO 3 short shift kit.
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_9780.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_9810.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_9810.jpg)
 
 &nbsp;<br/><br/>
 
@@ -55,9 +55,9 @@ The airbag recall.  I was able to get a new BMW airbag per the [Takata recall](h
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_0766-1.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0766-1.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_0770.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0770.jpg)
 
 &nbsp;<br/><br/>
 
@@ -67,7 +67,7 @@ Another milestone!  This time, 195,000 miles.  I got new rear Michelin Pilot Sup
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/10/IMG_1014.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1014.jpg)
 
 &nbsp;<br/><br/>
 
@@ -77,13 +77,13 @@ I had been troubleshooting a thud in the steering when turning from full-lock le
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1207.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1207.jpg)
 
 Steering gearbox.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_8066.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_8066.jpg)
 
 Center tie rod.
 
@@ -95,19 +95,19 @@ I was able to drive the car a bit over the summer in-between travels, and even g
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1818.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1818.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1644.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1644.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1728.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1728.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1775.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1775.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1509.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1509.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1291.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1291.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_1216.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_1216.jpg)
 
 &nbsp;<br/><br/>
 
@@ -141,61 +141,61 @@ Transmission heat shielding
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4294-1.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4294-1.jpg)
 
 ABS module out for rebuild (ModuleMasters).
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_2938-1.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_2938-1.jpg)
 
 Inside of the ABS module.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4718-1.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4718-1.jpg)
 
 Fresh wishbones.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4762-1.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4762-1.jpg)
 
 Transmission tunnel heat shields.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4688.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4688.jpg)
 
 Fuel pump.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4690.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4690.jpg)
 
 Fuel tank venturi hose.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4761.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4761.jpg)
 
 Fuel hose.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4774.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4774.jpg)
 
 Fuel pipe.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4530-1.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4530-1.jpg)
 
 Driveshaft.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4769.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4769.jpg)
 
 &nbsp;<br/><br/>
 
@@ -215,7 +215,7 @@ A 100% full E39 M5 tool kit.
 
 ![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4876.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4329.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4329.jpg)
 
 Rear fog lights.
 
@@ -227,15 +227,15 @@ Installing rear fog lights with Kennan.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4874.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4874.jpg)
 
 Rear fog wiring.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/aaa.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/aaa.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/aa.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/aa.jpg)
 
 Rear fogs done!
 
@@ -247,9 +247,9 @@ The last drive of 2017, and quite possibly the last drive on Ohio roads was Nove
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4856.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4856.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2017/05/IMG_4857.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2017/05/IMG_4857.jpg)
 
 &nbsp;<br/><br/>
 

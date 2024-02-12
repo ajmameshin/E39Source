@@ -48,7 +48,7 @@ Find a small, thin knife.  Wrap the blade of the knife in one or two layers of m
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/08/IMG_3548.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/08/IMG_3548.jpg)
 
 New style (left) vs old style (right) center caps.
 
@@ -58,9 +58,9 @@ Remove the old caps, and pop the new caps in! It’s that easy.  This new, updat
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/08/IMG_3550.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/08/IMG_3550.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/08/IMG_3552.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/08/IMG_3552.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/08/IMG_3554.jpg)
 

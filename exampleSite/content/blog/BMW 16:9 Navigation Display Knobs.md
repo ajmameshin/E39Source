@@ -6,7 +6,7 @@ categories = ["E39-I6"]
 banner = "img/IMG_4915.jpeg"
 +++
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_4915.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_4915.jpg)
 
 A weak point for an article, yes, but something nonetheless that we should address.  As new, enthusiastic owners buy up BMWs, we often like to do a little maintenance.  Replace some trim here, a [shift knob](http://e39source.com/archives/416) there, et cetera.  After years of use, the somewhat-cheap rubber knobs really deteriorate.  They look scuffed, and feel slushy.  Replacing them can improve the feel of your radio and navigation system!
 

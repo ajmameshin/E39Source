@@ -72,7 +72,7 @@ The following Saturday, September 15, 2012, was the date we set up for me to pic
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/03/IMG_0001.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/03/IMG_0001.jpg)
 
 &nbsp;<br/><br/>
 
@@ -84,19 +84,19 @@ In the first month of ownership, I did a few minor things to the car, such as re
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0006.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0006.jpg)
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0011.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0011.jpg)
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0018.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0018.jpg)
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0020.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0020.jpg)
 
 &nbsp;<br/><br/>
 
@@ -104,9 +104,9 @@ After my first wash, I conducted the first official photo-shoot during my owners
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0041.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0041.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0037.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0037.jpg)
 
 &nbsp;<br/><br/>
 
@@ -114,26 +114,26 @@ After this, I started to get into a few more major things such as suspension wor
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0054.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0054.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0055.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0055.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0056.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0056.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0063.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0063.jpg)
 
 I then replaced all of my power steering lines, and updated a few cosmetic things such as adding Titanium gauge rings, and an ///M license plate frame.
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0072.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0072.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0074.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0074.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0068.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0068.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0070.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0070.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/05/IMG_0071.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0071.jpg)
 
 &nbsp;<br/><br/>

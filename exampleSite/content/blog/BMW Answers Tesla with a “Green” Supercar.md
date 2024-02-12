@@ -5,7 +5,7 @@ categories = ["Other-BMW-Content"]
 banner = "img/IMG_7368.jpeg"
 +++
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/11/c19b11e1d14610ea10e69d8b8a4da306.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/11/c19b11e1d14610ea10e69d8b8a4da306.jpg)
 
 Up till now, Tesla has had the market for high-end electric cars pretty much to itself. But that first-mover advantage is ending. BMW has just rolled out the i8, a plug-in supercar that will test just how much big spenders are willing to pay for a racer with a green badge. This real-life Batmobile starts at about $140,000, but availability is limited for now, and some sellers are asking well over $200,000 for the car.BMW says production should ramp up by next year. The i8 isn’t a full electric like the Tesla Model S, but a hybrid that has both an electric motor and a three-cylinder, twin-turbo gasoline engine.
 

@@ -83,7 +83,7 @@ Road Trip, Camshaft Position Sensors.  Winter has been awful, time to take a tri
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_6930.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_6930.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_6930.jpg)
 
 &nbsp;<br/><br/>
 
@@ -91,23 +91,23 @@ After such a road trip, it came time for a wash upon my return home.  Finally Oh
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_5897.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_5897.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_6981.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_6981.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_6983.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_6983.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_7049.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_7049.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_7049.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2013/04/IMG_7044.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_7044.jpg)
 
 &nbsp;<br/><br/>
 
 **April, 2013**
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_7347.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_7347.jpg)
 
 175,000 miles. 
 
@@ -119,19 +119,19 @@ A pretty spring day, even before the spring Zaino treatment!
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_7500.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_7500.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0095.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0037.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0037.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0115.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0115.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0150.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0123.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0123.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0134.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0134.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0164.jpg)
 
@@ -145,25 +145,25 @@ Zaino.  Spring is here, it’s time for the Zaino application!  The whole proces
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0406.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0398.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0398.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0402.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0404.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0400.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0400.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0408.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0408.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0410.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0410.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0412.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0412.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0418.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0418.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0422.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0422.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0426.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0426.jpg)
 
 &nbsp;<br/><br/>
 
@@ -173,11 +173,11 @@ With Timmayfest 2013 just two days away, I decided to detail my wheels to same e
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0880.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0880.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0886.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0882.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0882.jpg)
 
 &nbsp;<br/><br/>
 
@@ -187,23 +187,23 @@ Timmayfest 2013.  The first few photos show our convoy, then the show in Columbu
 
 &nbsp;<br/><br/>
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_4914.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_4914.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_4928.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_4928.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0909.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0909.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_1080.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_1080.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_20130608_143108_063.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_20130608_143108_063.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_1173.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_1173.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_1190.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_1190.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_0817.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_0817.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_1218.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_1218.jpg)
 
 &nbsp;<br/><br/>
 
@@ -217,9 +217,9 @@ My halogen license plate lights were in horrible shape.  So, I decided to replac
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_3019.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_2885.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_2885.jpg)
 
-![Alt text](http://e39source.com/wp-content/uploads/2012/12/IMG_2951.jpg)
+![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_2951.jpg)
 
 &nbsp;<br/><br/>
 

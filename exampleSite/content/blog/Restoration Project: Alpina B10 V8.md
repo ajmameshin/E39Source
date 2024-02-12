@@ -5,7 +5,7 @@ categories = ["Other-BMW-Content"]
 banner = "img/IMG_6397.jpeg"
 +++
 
-![Alt text](http://e39source.com/wp-content/uploads/2014/04/31354076_CP_photo1.jpeg)
+![Alt text](https://e39source.com/wp-content/uploads/2014/04/31354076_CP_photo1.jpeg)
 
 After two weeks of a detailed check-up at BMW Dubai (AED 4,000 or $1,100 USD) plus my additional instructions, I came to understand that the core of this car is healthy. The only big mechanical aspects are: front wishbones, rear wheel bearings suspensions (Alpina specific, will cost a fortune as I want genuine OEM only), the rubber disc connecting the gearbox output to the prop-shaft, and the spinning crankshaft joint. Also the AC/dynamo belts and steering are weak.
 
