@@ -137,6 +137,6 @@ Body work (rust repair)
 
 &nbsp;<br/><br/>
 
-[NEXT PAGE](/E39Source/blog/the-story-ryans-200-bmw-e39-m5-2013/)
+[NEXT PAGE](https://www.e39source.com/blog/the-story-ryans-200-bmw-e39-m5-2013/)
 
 &nbsp;<br/><br/>

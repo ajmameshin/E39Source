@@ -8,8 +8,7 @@ keywords = ["FAQ","How do I","questions","what if"]
  &nbsp;  
 
 #### NAVIGATION SOFTWARE & RESOURCES:  E39, E38, E46, E53, E83, E52    
-(See [this article](http://e39source.com/archives/797) for in-depth information)(**Only thing need changing**)
- &nbsp;  
+ 
 * MKIV: [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Stock%20Version.iso) (Stock BMW software)
 * MKIV: [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Modified%20Version.zip) (Modified version: ///M logo splash, night mode color 2, speed camera alerts, warning auto-accept)
 * MKIII: [SW 3-1/65 (V23)](http://e39source.com/NavFiles/BMW%20MKIII%20V23%20M2F1.zip) (Modified version: ///M logo splash, warning auto-accept)

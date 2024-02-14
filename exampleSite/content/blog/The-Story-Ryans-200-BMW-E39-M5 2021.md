@@ -343,6 +343,6 @@ Rear left wheel speed sensor
 
 &nbsp;<br/><br/>
 
-[NEXT PAGE](/E39Source/blog/the-story-ryans-200-bmw-e39-m5-2022/)
+[NEXT PAGE](https://www.e39source.com/blog/the-story-ryans-200-bmw-e39-m5-2022/)
 
 &nbsp;<br/><br/>

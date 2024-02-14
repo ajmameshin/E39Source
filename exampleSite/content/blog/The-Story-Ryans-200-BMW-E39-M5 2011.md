@@ -93,6 +93,6 @@ DMTL pump, spark plugs, O2 sensors, temp sensor
 
 &nbsp;<br/><br/>
 
-[NEXT PAGE](/E39Source/blog/the-story-ryans-200-bmw-e39-m5-2012/)
+[NEXT PAGE](https://www.e39source.com/blog/the-story-ryans-200-bmw-e39-m5-2012/)
 
 &nbsp;<br/><br/>
