@@ -2,7 +2,7 @@
 +++
 title = "BMW Wheel Center Caps"
 tags = ["BMW, center, caps, upgrade, wheel"]
-categories = ["E39-M5-BMW"]
+categories = ["Other-BMW-Content"]
 banner = "img/IMG_0424-1-1024x668.jpeg"
 +++
 
