@@ -3,26 +3,18 @@
 {{ $table_class := .Get "table_class" }}
 {{ $thead_class := .Get "thead_class" }}
 
-<!-- Ensure default classes are set if none are provided -->
-{{ if not $table_class }}
-    {{ $table_class = "table" }}
-{{ end }}
-
-{{ if not $thead_class }}
-    {{ $thead_class = "thead-light" }}
-{{ end }}
 
 <!-- Adding table classes with text-center for body and header -->
 {{ $old_table_tag := "<table>" }}
-{{ $new_table_tag := printf "<table class=\"%s text-center no-lines\">" $table_class }}
+{{ $new_table_tag := printf "<table class=\"%s text-center no-lines\"" $table_class }}
 {{ $htmlTable = replace $htmlTable $old_table_tag $new_table_tag }}
 
 <!-- Adding header classes with text-center -->
 {{ $old_thead_tag := "<thead>" }}
-{{ $new_thead_tag := printf "<thead class=\"%s text-center\">" $thead_class }}
+{{ $new_thead_tag := printf "<thead class=\"%s text-center\"" $thead_class }}
 {{ $htmlTable = replace $htmlTable $old_thead_tag $new_thead_tag }}
 
-<!-- Custom CSS to center images and remove all lines and borders -->
+<!-- Custom CSS to center images, remove all lines and borders, and enhance responsiveness -->
 <style>
 .centered-table-img img {
   display: block;
@@ -36,12 +28,20 @@
   border: none !important;
   border-collapse: collapse !important;
 }
+/* Responsive font size and padding for table cells */
+@media (max-width: 768px) {
+  .table-responsive .table td,
+  .table-responsive .table th {
+    font-size: 0.8em; /* Smaller font size on small screens */
+    padding: 8px; /* Adjust padding to ensure content fits nicely */
+  }
+}
 </style>
 
 <!-- Modify the table to add custom class for td tags -->
 {{ $htmlTable = replace $htmlTable "<td>" "<td class=\"centered-table-img\">" }}
 
-<!-- Table HTML code -->
+<!-- Table HTML code wrapped in responsive div -->
 <div class="table-responsive">
 {{ $htmlTable | safeHTML }}
 </div>
