@@ -5,17 +5,20 @@ keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 # Resources & Downloads
- &nbsp;  
+
+(See [this article](https://www.e39source.com/blog/nav-guide/) for in-depth information)
+
+&nbsp; 
 
 #### NAVIGATION SOFTWARE & RESOURCES:  E39, E38, E46, E53, E83, E52    
  
-* MKIV: [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Stock%20Version.iso) (Stock BMW software)
-* MKIV: [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Modified%20Version.zip) (Modified version: ///M logo splash, night mode color 2, speed camera alerts, warning auto-accept)
-* MKIII: [SW 3-1/65 (V23)](http://e39source.com/NavFiles/BMW%20MKIII%20V23%20M2F1.zip) (Modified version: ///M logo splash, warning auto-accept)
-* MKIII: [Key CD](http://e39source.com/NavFiles/BMW%20MKIII%20Key%20CD.zip) (if needed)
-* [NavTweak](http://e39source.com/NavFiles/NavTweak.zip)
-* [NavSpeak](http://e39source.com/NavFiles/NavSpeak.zip)
-* [Navigation Software Update Instructions](https://www.dropbox.com/s/tizrmxf1tsjhwmv/Navigation%20Update%20Instructions%20Public.pdf?dl=1)
+* MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1) (Stock BMW software)
+* MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1) (Modified version: ///M logo splash, night mode color 2, speed camera alerts, warning auto-accept)
+* MKIII: [SW 3-1/65 (V23)](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1) (Modified version: ///M logo splash, warning auto-accept)
+* MKIII: [Key CD](https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1) (if needed)
+* [NavTweak](https://www.dropbox.com/scl/fi/3177ez8btb3uab6yma31z/NavTweak.zip?rlkey=4j0a9k1abf2lyfvdtkfs0i155&dl=1)
+* [NavSpeak](https://www.dropbox.com/scl/fi/iyiyrwk3bhpte02gnu9t7/NavSpeak.zip?rlkey=1psr8oon9w1mtobq7qjigxetz&dl=1)
+* [Navigation Software Update Instructions](https://www.dropbox.com/s/6zug7m8sj8pjxpl/Navigation%20Update%20Instructions%20Public.pdf?dl=1)
 * [BMW MKII Navigation Owners Manual](https://www.dropbox.com/s/xcb8scmkf90ljd7/BMW%20MKII%20Navigation%20Owners%20Manual.pdf?dl=1)
 * [BMW MKIV Navigation Owners Manual](https://www.dropbox.com/s/01i2jhrb8tmpcbz/BMW%20MKIV%20Navigation%20Owners%20Manual.pdf?dl=1)
 * [BMW Navigation Systems Guide](https://www.dropbox.com/s/p2tkgapcxck5ejy/BMW%20Navigation%20Guide.pdf?dl=1)
@@ -78,8 +81,6 @@ keywords = ["FAQ","How do I","questions","what if"]
 * [2000 Model Year BMW Maintenance Schedule](https://www.dropbox.com/s/tzpnuryti1lk7l7/2000%20All%20Models%20Maintenance%20Schedule.pdf?dl=1)
 * [2001 Model Year BMW Maintenance Schedule](https://www.dropbox.com/s/eyfok4j2qyq5vb2/2001%20All%20Models%20Maintenance%20Schedule.pdf?dl=1)
 * [BMW Fastening Hardware](https://www.dropbox.com/s/o6yur3q3dz6uuwm/BMW%20Fastening%20Hardware.pdf?dl=1)
-* [UUC EVO3 Short Shift Kit Installation](https://www.dropbox.com/s/anjy3wpiywjfvjq/UUC%20EVO3%20Install.pdf?dl=1)
-* [UUC EVO3 Short Shift Kit Setup Photos](https://www.dropbox.com/sh/cjwcwrmxjusjt08/AAB1bYbNuNhr0pyC4Y4pARMWa?dl=1)
 * [BMW Bus Systems Troubleshooting](https://www.dropbox.com/s/k7lc6rnqniob2if/BMW%20Bus%20Systems%20Troubleshooting.pdf?dl=1)
 * [BMW Modules Abbreviations Guide](https://www.dropbox.com/s/qvybgbsa26jlaa3/BMW%20Modules.pdf?dl=1)
 * [BMW Color Codes](https://www.dropbox.com/s/i8mx9xy46owgwfo/BMW%20Color%20Codes.pdf?dl=1)
