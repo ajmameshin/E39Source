@@ -44,7 +44,7 @@ It was stated that the cleaning shampoo should be pH balanced. Use only 100% cot
 
 **Seasonal maintenance**
 
-![Alt text](https://e39source.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-31-at-1.53.30-AM.png)
+![Alt text](../img/Screen-Shot-2017-08-31-at-1.53.30-AM.png)
 
 Image: Mom 4 Real
 
