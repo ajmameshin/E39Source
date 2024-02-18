@@ -39,9 +39,9 @@ Lastly, in November, my MKIV navigation computer failed.  It kept freezing and w
 
 **Winter, 2015**
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_6300-1.jpg)
+![Alt text](../img/IMG_6300-1.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_6298-1.jpg)
+![Alt text](../img/IMG_6298-1.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -67,31 +67,31 @@ Eibach rear roll bar.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3233-1.jpg)
+![Alt text](../img/IMG_3233-1.jpeg)
 
 Minty-fresh underbody trims.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_7078.jpg)
+![Alt text](../img/IMG_7078.jpeg)
 
 Bimmian aluminum pedals installed.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_7079-1.jpg)
+![Alt text](../img/IMG_7079-1.jpeg)
 
 &nbsp;<br/><br/>
 
 **May, 2015**
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_2814.jpg)
+![Alt text](../img/IMG_2814.jpeg)
 
 2001+ PDC module, which supported front sensors in addition to the rear.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3593-1.jpg)
+![Alt text](../img/IMG_3593-1.jpeg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3597-1.jpg)
 
@@ -99,7 +99,7 @@ Front PDC retrofit has begun!
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3597-1.jpg)
+![Alt text](../img/IMG_3600.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -119,10 +119,6 @@ I got the Eisenmann Race exhaust installed, did the whole Zaino-polish treatment
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_8462-2.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_8467-2.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_8461.jpg)
-
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_8456-1.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_8463.jpg)
@@ -136,8 +132,6 @@ I got the Eisenmann Race exhaust installed, did the whole Zaino-polish treatment
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_7454-1.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_7462.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_8467-2.jpg)
 
 &nbsp;<br/><br/>
 
@@ -155,10 +149,6 @@ I got the Eisenmann Race exhaust installed, did the whole Zaino-polish treatment
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0667-2.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0672-2.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0671-2.jpg)
-
 &nbsp;<br/><br/>
 
 This is right before the car was put in storage mode for winter, and the real engine work began at the local shop.
@@ -167,7 +157,7 @@ This is right before the car was put in storage mode for winter, and the real en
 
 **Fall, 2015**
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0298-1.jpg)
+![Alt text](../img/IMG_0298-1.jpeg)
 
 Carbon deposits on the rear bumper after less than 50 miles.
 
@@ -179,13 +169,13 @@ The engine I ended up buying to rebuild, from an 06/2002 M5.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0186-1.jpg)
+![Alt text](../img/IMG_0186-1.jpeg)
 
 The front bumper had already been removed and sold.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0187-1.jpg)
+![Alt text](../img/IMG_0187-1.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -199,7 +189,9 @@ The front bumper had already been removed and sold.
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0183-1.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0696-2.jpg)
+![Alt text](../img/IMG_0352-1.jpeg)
+
+![Alt text](../img/IMG_0696-2.jpeg)
 
 &nbsp;<br/><br/>
 

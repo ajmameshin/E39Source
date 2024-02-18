@@ -18,7 +18,7 @@ If you’re an owner of a vintage BMW, you basically have a treasure in your pos
 
 **Check the type of oil needed for oil change**
 
-![Alt text](https://e39source.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-31-at-1.51.22-AM.png)
+![Alt text](../img/Screen-Shot-2017-08-31-at-1.51.22-AM.png)
 
 Image: HK Eurocar
 
@@ -32,7 +32,7 @@ There are select oil types from quality brands like Mobil and Castrol, which are
 
 **Invest in special cleaning and waxing materials**
 
-![Alt text](https://e39source.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-31-at-1.52.20-AM.png)
+![Alt text](../img/Screen-Shot-2017-08-31-at-1.52.20-AM.png)
 
 &nbsp;<br/><br/>
 
