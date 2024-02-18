@@ -67,17 +67,17 @@ Disassembly of 2002 engine.  (122,732 miles)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1757.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1818.jpg)
+![Alt text](../img/IMG_1818.jpeg)
 
 &nbsp;<br/><br/>
 
 **February, 2017**
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_2538.jpg)
+![Alt text](../img/IMG_2538.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1851.jpg)
+![Alt text](../img/IMG_1851.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1807.jpg)
+![Alt text](../img/IMG_1807.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -109,7 +109,7 @@ Piston and connecting rod
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3079.jpg)
+![Alt text](../img/IMG_3079.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -119,13 +119,13 @@ VANOS, block, and heads have returned, and are ready to be assembled.
 
 **March, 2017**
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_2836.jpg)
+![Alt text](../img/IMG_2836.jpeg)
 
 Prepped and ready for rebuild.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_2841.jpg)
+![Alt text](../img/IMG_2841.jpeg)
 
 Time to get the car to the shop!  I had driven it just enough this year so far to achieve 192,000 miles exactly- as I pulled into the shop.  This way, I’ll always know exactly how many miles it has been since the rebuild!
 
@@ -141,17 +141,17 @@ My cars company: an E24 M6 and E46 M3.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3096.jpg)
+![Alt text](../img/IMG_3096.jpeg)
 
 Rotating assembly assembled!
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3099.jpg)
+![Alt text](../img/IMG_3099.jpeg)
 
 Rod caps, crankshaft, timing chain, timing cover, and pistons installed.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3676.jpg)
+![Alt text](../img/IMAG3676.jpeg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3653.jpg)
 
@@ -161,13 +161,13 @@ Head gasket.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3255-1.jpg)
+![Alt text](../img/IMG_3255-1.jpeg)
 
 Heads on!
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3777.jpg)
+![Alt text](../img/IMAG3777.jpeg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3822-1.jpg)
 
@@ -175,19 +175,19 @@ Heads on!
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3653.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3156.jpg)
+![Alt text](../img/IMG_3156.jpeg)
 
 Re-enforced differential mount.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3922.jpg)
+![Alt text](../img/IMG_3922.jpeg)
 
 Rear bearings and hubs.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3923.jpg)
+![Alt text](../img/IMG_3923.jpeg)
 
 Water pump.
 
@@ -205,7 +205,7 @@ Full exhaust system removed.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3119.jpg)
+![Alt text](../img/IMG_3119.jpeg)
 
 Subframe out.
 
@@ -229,49 +229,49 @@ Rear subframe back in after reinforcement, fears bushings, control arms, etc.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3747.jpg)
+![Alt text](../img/IMAG3747.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3377-2.jpg)
+![Alt text](../img/IMG_3377-2.jpeg)
 
 Rebuilt engine ready for installation.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3841-1.jpg)
+![Alt text](../img/IMAG3841-1.jpeg)
 
 Original engine dropped out the bottom.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3319-2.jpg)
+![Alt text](../img/IMG_3319-2.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3329-2.jpg)
+![Alt text](../img/IMG_3329-2.jpeg)
 
 Standing in my engine bay… this was weird.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3461.jpg)
+![Alt text](../img/IMG_3377-3.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3374-3.jpg)
+![Alt text](../img/IMG_3374-3.jpeg)
 
 Two S62s!
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3893.jpg)
+![Alt text](../img/IMG_3389-3.jpeg)
 
 Flywheel and clutch removed. These had ~84,000 miles on them.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMAG3893.jpg)
+![Alt text](../img/IMAG3893.jpeg)
 
 Fresh flywheel.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3461-1.jpg)
+![Alt text](../img/IMG_3461-1.jpeg)
 
 Fresh clutch.
 
@@ -279,13 +279,13 @@ Fresh clutch.
 
 **May, 2016**
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_3627.jpg)
+![Alt text](../img/IMG_3627.jpeg)
 
 Home.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_4341.jpg)
+![Alt text](../img/IMG_4341.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -319,9 +319,9 @@ This is the time of year that I live for, and this year was special.  The mechan
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_4218-1.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0759.jpg)
+![Alt text](../img/IMG_0759.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_1255-1.jpg)
+![Alt text](../img/IMG_1255-1.jpeg)
 
 I had to let the girlfriend experience the M5!  Well done, Megan.  
 
@@ -335,7 +335,7 @@ Time to do something fun!  My friend Geoff had just installed the Euro-dash on h
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0731.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/IMG_0732.jpg)
+![Alt text](../img/IMG_0732.jpeg)
 
 &nbsp;<br/><br/>
 
