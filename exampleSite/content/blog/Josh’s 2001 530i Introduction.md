@@ -23,7 +23,7 @@ University days. The Camry had gone and I was behind the wheel of another car my
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/11.jpg)
+![Alt text](../img/11224.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -31,7 +31,7 @@ I always loved that car and the way it drove but I sold it to make way for my cu
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/3.jpg)
+![Alt text](../img/3675.jpeg)
 
 The aforementioned skyline. My other love.
 
@@ -41,7 +41,7 @@ I went interstate to Adelaide for a friends wedding where I stopped by the local
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/5.jpg)
+![Alt text](../img/57575.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -55,7 +55,7 @@ This was the very first photo I ever took of the car, taken on the day I bought 
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/2.jpg)
+![Alt text](../img/2756.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -81,7 +81,7 @@ I’ve owned the car now for a year and have been slowly addressing it’s issue
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/6.jpg)
+![Alt text](../img/67675.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -121,6 +121,6 @@ I love this car so much I decided I needed another 5 series, but not necesarily 
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/10/10.jpg)
+![Alt text](../img/10766.jpeg)
 
 &nbsp;<br/><br/>

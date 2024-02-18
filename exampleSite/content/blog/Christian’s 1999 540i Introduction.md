@@ -33,12 +33,12 @@ It was late June 2011 and Dad wasn’t home from work yet, I called him and he s
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/07/bmw1.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/07/bmw2.jpg)
+![Alt text](../img/bmw2.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/07/bmw3.jpg)
+![Alt text](../img/bmw3.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/07/bmw5.jpg)
+![Alt text](../img/bmw5.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/07/bmw6.jpg)
+![Alt text](../img/bmw6.jpeg)
 
 &nbsp;<br/><br/>

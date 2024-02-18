@@ -39,6 +39,6 @@ Since I’ve had the car back from the collision shop, I have installed clear co
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2015/01/IMG_0035.jpg)
+![Alt text](../img/IMG_0035.jpeg)
 
 &nbsp;<br/><br/>
