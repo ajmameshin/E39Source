@@ -66,7 +66,7 @@ You’re done!  Turn on your lights, and enjoy a much whiter, brighter, and more
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/ba.png)
+![Alt text](../img/bababababa.png)
 
 &nbsp;<br/><br/>
 

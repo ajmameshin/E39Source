@@ -84,19 +84,22 @@ In the first month of ownership, I did a few minor things to the car, such as re
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0006.jpg)
+![Alt text](../img/IMG_0006.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0011.jpg)
+
+![Alt text](../img/IMG_0011.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0018.jpg)
+
+![Alt text](../img/IMG_0018.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0020.jpg)
+
+![Alt text](../img/IMG_0020.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -104,9 +107,11 @@ After my first wash, I conducted the first official photo-shoot during my owners
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0041.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0037.jpg)
+![Alt text](../img/IMG_0041.jpeg)
+
+
+![Alt text](../img/IMG_0037.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -114,26 +119,32 @@ After this, I started to get into a few more major things such as suspension wor
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0054.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0055.jpg)
+![Alt text](../img/IMG_0054.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0056.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0063.jpg)
+![Alt text](../img/IMG_0055.jpeg)
+
+
+![Alt text](../img/IMG_0063.jpeg)
 
 I then replaced all of my power steering lines, and updated a few cosmetic things such as adding Titanium gauge rings, and an ///M license plate frame.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0072.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0074.jpg)
+![Alt text](../img/IMG_0072.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0068.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0070.jpg)
+![Alt text](../img/IMG_0074.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/05/IMG_0071.jpg)
+
+![Alt text](../img/IMG_0068.jpeg)
+
+
+![Alt text](../img/IMG_0070.jpeg)
+
+
+![Alt text](../img/IMG_0071.jpeg)
 
 &nbsp;<br/><br/>

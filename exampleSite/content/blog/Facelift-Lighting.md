@@ -69,19 +69,19 @@ You can also make your own Y-harness to simplify this wiring modification. You w
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/front1.png)
+![Alt text](../img/front1.png)
 
 02/2000 E39 M5 with its original 2000 headlights.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/frontnew.jpg)
+![Alt text](../img/frontnew.jpeg)
 
 02/2000 M5 with 2001+ European-style headlights.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/VFL-FL-Vergleich.jpg)
+![Alt text](../img/VFL-FL-Vergleich.jpeg)
 
 Left: 2001+ headlights on a standard E39 5-series. Right: 1996-2000 headlights on a standard E39 5-series.
 
@@ -129,37 +129,37 @@ A neat thing about this Hella retrofit kit is that they are European style tails
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/IMG_0602.png)
+![Alt text](../img/IMG_0602.png)
 
 02/2000 M5 with its original 2000 tail lights.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/half.jpg)
+![Alt text](../img/half.jpeg)
 
 02/2000 M5 half way through the install. The 2001+ style is on the right.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/assend.jpg)
+![Alt text](../img/assend.jpeg)
 
 Installation completed!
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/buttend.jpg)
+![Alt text](../img/buttend.jpeg)
 
 LED bars illuminated.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/IMG_4230.jpg)
+![Alt text](../img/IMG_4230.jpeg)
 
 No side LEDs
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/02/IMG_4231.jpg)
+![Alt text](../img/IMG_4231.jpeg)
 
 &nbsp;<br/><br/>
 

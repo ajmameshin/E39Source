@@ -63,7 +63,7 @@ Hood Sensor Switch: [61319119057](https://click.linksynergy.com/deeplink?id=1vz0
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_7118.jpg)
+![Alt text](../img/IMG_7118.jpeg)
 
 Hood sensor close-up. Note that the electrical wire should run behind but stud on the strut tower that the cabin box mounts to, not as pictured above.
 
