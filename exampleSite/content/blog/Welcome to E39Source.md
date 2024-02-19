@@ -5,7 +5,7 @@ categories = ["Welcome-to-E39Source"]
 banner = "img/IMG_Title.png"
 +++
 
-![Alt text](https://e39source.com/wp-content/uploads/2012/12/Title.png)
+![Alt text](../img/Title1111.png)
 
 From the accomplished staff of [TechInform.us](http://www.techinform.us/), Robert Francis, Colton Michael, and James Ryan have turned the key to a new service.  If you’re reading this, congratulations; you’re part of our warm-up procedure.  Our variable-LED red-line will be blinking out shortly, and our rev-limter has been removed.  Fasten Seat Belts.
 
