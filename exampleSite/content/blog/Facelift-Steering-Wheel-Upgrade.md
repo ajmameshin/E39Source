@@ -64,7 +64,7 @@ Facelift M5 steering wheel and a new airbag installed in my 02/2000 M5.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_0770.jpg)
+![Alt text](../img/IMG_0770.jpeg)
 
 Facelift M5 steering wheel and a new airbag installed in my 02/2000 M5.
 
@@ -128,13 +128,13 @@ You’re all set!  Start your car to make sure you don’t have a light, and enj
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_2970.jpg)
+![Alt text](../img/IMG_2970.jpeg)
 
 Original 2000 wheel (left) and 2001+ wheel (right).
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_2969.jpg)
+![Alt text](../img/IMG_2969.jpeg)
 
 Steering wheel removed
 
@@ -146,19 +146,19 @@ Original 2000 wheel.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_2976.jpg)
+![Alt text](../img/IMG_2976.jpeg)
 
 2001+ wheel.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_2930.jpg)
+![Alt text](../img/IMG_2930.jpeg)
 
 New style round airbag.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_2934.jpg)
+![Alt text](../img/IMG_2934.jpeg)
 
 New round airbag, rear.
 

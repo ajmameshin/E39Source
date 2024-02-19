@@ -23,7 +23,7 @@ I now needed a replacement. A few inquiries later, and I knew that I was priced 
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/My-M3-Lump-After-TLC.jpg)
+![Alt text](../img/My-M3-Lump-After-TLC.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -65,11 +65,9 @@ I came across one in Edinburgh (approx 500 miles to the North of England), Le Ma
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_2030.jpg)
+![Alt text](../img/IMG_2030.jpeg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_2027.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_2032.jpg)
+![Alt text](../img/IMG_2032.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -89,47 +87,17 @@ This what it looked like the day I went to view it and put it on the ramp…
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1897.jpg)
+![Alt text](../img/IMG_1897.jpeg)
 
 On the Ramp: I had the car put on the Specialists Ramp before I even took it for a test drive.
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1891.jpg)
-
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1890.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1889.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1875.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1876.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1877.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1878.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1879.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1881.jpg)
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1882.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1884.jpg)
-
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1888.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1874.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1861.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1858.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1860.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1859.jpg)
-
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1870.jpg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_1866.jpg)
 
@@ -147,7 +115,7 @@ I went back three days later to collect the vehicle, and they assured me that al
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/DSC02548.jpg)
+![Alt text](../img/DSC02548.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -167,7 +135,7 @@ And there we have it, the start of the current chapter!
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/07/IMG_2023.jpg)
+![Alt text](../img/IMG_2023.jpeg)
 
 &nbsp;<br/><br/>
 

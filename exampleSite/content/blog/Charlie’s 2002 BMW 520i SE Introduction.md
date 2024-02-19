@@ -15,7 +15,7 @@ This brings me onto why I made this post.  After saving up for 6 months or so, I
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0036.jpg)
+![Alt text](../img/DSC_0036.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -23,7 +23,7 @@ Now I knew what I wanted to buy, and after finding one nearby, I knew I could fi
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0038.jpg)
+![Alt text](../img/DSC_0038.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -31,7 +31,7 @@ I was overwhelmed by how perfect it was! The car looks new, and it had just had 
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0041.jpg)
+![Alt text](../img/DSC_0041.jpeg)
 
 &nbsp;<br/><br/>
 
@@ -51,15 +51,15 @@ The car was now ready to be taken to its new home. We arrived 8 hours later. I h
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0040.jpg)
+![Alt text](../img/DSC_0040.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0042.jpg)
+![Alt text](../img/DSC_0042.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0045.jpg)
+![Alt text](../img/DSC_0045.jpeg)
 
 &nbsp;<br/><br/>
 

@@ -5,7 +5,7 @@ categories = ["Project-Cars"]
 banner = "img/DSC_0082.jpeg"
 +++
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/12/DSC_0082.jpg)
+![Alt text](../img/DSC_0082.jpeg)
 
 Hello everyone, I hope winter is going well so far! I’ve been a long-time member on M5Board, and I thought I’d swing over to this neighborhood to check out the scene! It’s a great technical and video based site in my opinion. My name is Jackson, and I live all the way up in Minnesota, also known as a**hole in the winter.
 
@@ -27,14 +27,14 @@ Right now, as for upcoming maintenance, I’m facing some brake shudder, and I�
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/12/DSC_0082.jpg)
+![Alt text](../img/DSC_0082656.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/12/DSC_0596.jpg)
+![Alt text](../img/DSC_0596.jpeg)
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/12/IMG_0406.jpg)
+![Alt text](../img/IMG_0406.jpeg)
 
 &nbsp;<br/><br/>

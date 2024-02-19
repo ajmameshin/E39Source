@@ -15,7 +15,7 @@ A brief overview of the car: The paint sucks. It has been resprayed, and it show
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/11/Side.jpg)
+![Alt text](../img/Side6565.jpeg)
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/11/Interior.jpg)
 
@@ -25,7 +25,7 @@ The interior is decent. The driver’s door panel is trashed, and it took the do
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/11/Valves.jpg)
+![Alt text](../img/Valves6464.jpeg)
 
 &nbsp;<br/><br/>
 

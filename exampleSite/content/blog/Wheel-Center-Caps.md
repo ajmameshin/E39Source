@@ -48,7 +48,7 @@ Find a small, thin knife.  Wrap the blade of the knife in one or two layers of m
 
 &nbsp;<br/><br/>
 
-![Alt text](https://e39source.com/wp-content/uploads/2013/08/IMG_3548.jpg)
+![Alt text](../img/IMG_3548.jpeg)
 
 New style (left) vs old style (right) center caps.
 
