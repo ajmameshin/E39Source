@@ -3,6 +3,7 @@
 title = "E39 Production Changes"
 tags = ["BMW, E39, Production, Changes, Information"]
 categories = ["E39 M5 BMW"]
+aliases = ["/archives/1848"]
 banner = "img/IMG_5648.png"
 +++
 
