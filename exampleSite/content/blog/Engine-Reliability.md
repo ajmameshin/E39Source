@@ -3,9 +3,7 @@
 title = "E39 M5 Engine Reliability"
 tags = ["BMW, E39, Engine, Reliability"]
 categories = ["E39 M5 BMW"]
-aliases = ["/archives/2538/comment-page-4"]
-aliases = ["/archives/2538/comment-page-5"]
-
+aliases = ["/archives/2538/comment-page-4", "/archives/2538/comment-page-5"]
 banner = "img/IMG_1030.jpeg"
 +++
 
