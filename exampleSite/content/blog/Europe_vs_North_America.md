@@ -2,6 +2,7 @@
 title = "BMW E39: Europe vs North America"
 categories = ["Comparisons"]
 banner = "img/IMG_3636.jpeg"
+aliases = ["/archives/4214"]
 +++
 
 ![Europe vs North America 1](../img/IMG_3639.jpeg)

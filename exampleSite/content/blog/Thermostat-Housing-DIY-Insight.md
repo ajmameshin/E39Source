@@ -4,6 +4,7 @@ title = "BMW E39 528i: Thermostat Housing DIY Insight"
 tags = ["BMW, E39, 528i, Thermostat, upgrade, DIY"]
 categories = ["E39 528i BMW"]
 banner = "img/IMG_3738.jpeg"
+aliases = ["/archives/4175"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/xqzslqkmg1msrrio6kph-1536x864.jpg)

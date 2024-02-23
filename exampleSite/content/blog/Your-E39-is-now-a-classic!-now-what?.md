@@ -4,6 +4,7 @@ title = "Your E39 is a ‘Classic’! Now What?"
 tags = ["BMW, E39, classic, now, what, Information"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_100.png"
+aliases = ["/archives/3650"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-2.27.50-PM-1.png)

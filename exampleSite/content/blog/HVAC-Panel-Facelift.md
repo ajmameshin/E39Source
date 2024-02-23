@@ -3,6 +3,7 @@ title = "BMW E39: HVAC Panel Facelift"
 tags = ["BMW, E39, M5, panel, facelift, Upgrade"]
 categories = ["E39 M5 BMW"]
 banner = "img/541B-1536x1152.jpeg"
+aliases = ["/archives/4869"]
 +++
 
 ![Alt text](../img/541B-1536x1152.jpg)

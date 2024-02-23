@@ -3,6 +3,7 @@ title = "BMW M52 I6: Serpentine Belt DIY"
 tags = ["BMW, M52, I6, serpentine, belt, DIY"]
 categories = ["E39-I6"]
 banner = "img/pic01.jpeg"
+aliases = ["/archives/3976"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2019/01/pic01.jpg)

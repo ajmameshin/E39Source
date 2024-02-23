@@ -3,6 +3,7 @@ title = "Case Study: The Cost of Owning a BMW E39 M5"
 tags = ["BMW E39, M5, cost, ownership"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_6748.png"
+aliases = ["/archives/4045"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/15874968_761549550662427_5807226607884989751_o-1536x1024.png)

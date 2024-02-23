@@ -3,6 +3,7 @@ title = "BMW E39: Trunk Escape Handle Retrofit"
 tags = ["BMW, E39, M5, trunk, escape, handle, retrofit"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_1227.jpeg"
+aliases = ["/archives/5100#more-5100"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/06/IMG_1227.jpeg)

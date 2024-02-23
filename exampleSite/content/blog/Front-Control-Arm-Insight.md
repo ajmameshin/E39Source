@@ -3,6 +3,7 @@ title = "BMW E39 528i: Front Control Arm Insight"
 tags = ["BMW E39, 528i, front, control, arms, insight"]
 categories = ["E39-528I-BMW"]
 banner = "img/2003_BMW_520i_ES_SE_Automatic_2.2_Front-1536x701.jpeg"
+aliases = ["/archives/4147"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/2003_BMW_520i_ES_SE_Automatic_2.2_Front-1536x701.jpg)

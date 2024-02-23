@@ -3,6 +3,7 @@ title = "BMW E39: Automatic Headlight Retrofit"
 tags = ["BMW, E39, Headlights, Automatic"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_0060.jpeg"
+aliases = ["/archives/4395"]
 +++
 
 ![Alt Text](../img/IMG_0060.jpeg)

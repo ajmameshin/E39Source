@@ -4,6 +4,7 @@ title = "BMW E39 528i: Cooling System Bleeding Insight"
 tags = ["BMW, E39, 528i, cooling, Information, system, bleeding, insight"]
 categories = ["E39 528i BMW"]
 banner = "img/IMG_Cooling System.jpeg"
+aliases = ["/archives/4184"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/unnamed.jpg)
