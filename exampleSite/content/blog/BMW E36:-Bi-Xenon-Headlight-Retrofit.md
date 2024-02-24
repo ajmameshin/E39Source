@@ -3,6 +3,7 @@ title = "BMW E36: Bi-Xenon Headlight Retrofit"
 tags = ["BMW, M50, M52, intake, modification"]
 categories = ["Other-BMW-Content"]
 banner = "img/thumb.jpeg"
+aliases = ["/archives/2591"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2016/06/WP_20160504_005.jpg)

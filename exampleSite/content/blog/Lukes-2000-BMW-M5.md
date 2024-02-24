@@ -3,6 +3,7 @@ title = "Luke’s 2000 BMW M5"
 tags = ["BMW, M5, project, upgrade, 2000"]
 categories = ["Project-Cars"]
 banner = "img/hjxmfmku8pjtnbfbpxvg.jpeg"
+aliases = ["/archives/2957"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2017/01/hjxmfmku8pjtnbfbpxvg.jpg)

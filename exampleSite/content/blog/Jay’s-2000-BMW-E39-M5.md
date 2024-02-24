@@ -3,6 +3,7 @@ title = "Jay’s 2000 BMW E39 M5"
 tags = ["BMW, 2000, E39, M5"]
 categories = ["Project-Cars"]
 banner = "img/20160428_080940.jpeg"
+aliases = ["/archives/2707"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2016/05/20160428_080940.jpg)

@@ -3,6 +3,7 @@ title = "BMW M50/M52: Intake Modification"
 tags = ["BMW, M50, M52, intake, modification"]
 categories = ["Other-BMW-Content"]
 banner = "img/WP_20160504_005.jpeg"
+aliases = ["/archives/2787"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2016/06/WP_20160504_005.jpg)

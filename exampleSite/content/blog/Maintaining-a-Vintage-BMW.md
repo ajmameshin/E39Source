@@ -4,7 +4,7 @@ title = "Maintaining a Vintage BMW"
 tags = ["BMW, maintaining, vintage, maintenance, old"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_Vintage.png"
-aliases = ["/archives/5100#more-5100"]
+aliases = ["/archives/3425"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-31-at-1.50.20-AM.png)

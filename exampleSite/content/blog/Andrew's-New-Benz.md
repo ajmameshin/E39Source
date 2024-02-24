@@ -3,6 +3,7 @@ title = "Andrew’s New Benz!"
 tags = ["project, Benz"]
 categories = ["Project Cars"]
 banner = "img/IMG_5355.jpeg"
+aliases = ["/archives/2588"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2015/12/IMG_5355.jpg)

@@ -3,6 +3,7 @@ title = "BMW N54 Tuning & Maintenance Guide"
 tags = ["BMW, N54, tuning, maintenance, Guide, engine"]
 categories = ["Other-BMW-Content"]
 banner = "img/BMW-N54-twin-turbo-I6_1200x1200.jpeg"
+aliases = ["/archives/2822"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/BMW-N54-twin-turbo-I6_1200x1200.jpg)

@@ -3,6 +3,7 @@ title = "Alex’s 1999 BMW E39 540i/6 Introduction"
 tags = ["BMW, E39, project, upgrade, 540i, introduction, 1999"]
 categories = ["Project-Cars"]
 banner = "img/0710152028b.jpeg"
+aliases = ["/archives/2492"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/0710152028b.jpg)

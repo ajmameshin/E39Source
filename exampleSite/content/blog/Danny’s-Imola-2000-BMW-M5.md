@@ -3,6 +3,7 @@ title = "Danny’s Imola 2000 BMW M5"
 tags = ["BMW, Project, 2000, m5"]
 categories = ["Project Cars"]
 banner = "img/IMG_M5Danny.jpeg"
+aliases = ["/archives/3395"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2017/06/M5_1.jpg)

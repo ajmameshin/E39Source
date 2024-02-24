@@ -3,6 +3,7 @@ title = "Christian’s 2000 BMW E46 330ci"
 tags = ["BMW, Project, 2000, E46, 330ci"]
 categories = ["Project Cars"]
 banner = "img/IMG_101.jpeg"
+aliases = ["/archives/3438"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/32792736756_149d324a3a.jpg)

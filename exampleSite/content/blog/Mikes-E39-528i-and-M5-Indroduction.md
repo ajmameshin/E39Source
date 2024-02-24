@@ -3,6 +3,7 @@ title = "Mike’s E39 528i & M5 Introduction"
 tags = ["BMW, E39, project, upgrade, 528i"]
 categories = ["Project-Cars"]
 banner = "img/26350336544_98285c3d7d_o.jpeg"
+aliases = ["/archives/2922"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2017/01/26350336544_98285c3d7d_o.jpg)
