@@ -4,6 +4,7 @@ title = "BMW Wheel Center Caps"
 tags = ["BMW, center, caps, upgrade, wheel"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_0424-1-1024x668.jpeg"
+aliases = ["/archives/1386"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_0424-1-1024x668.jpg)

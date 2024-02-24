@@ -3,6 +3,7 @@ title = "BMW E39, E38, E46: LED License Plate Lights"
 tags = ["BMW, E39, E38, E46, LED, Lights, License, Plate"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_478.jpeg"
+aliases = ["/archives/1370"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/after.jpg)

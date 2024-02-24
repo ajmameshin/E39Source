@@ -3,6 +3,7 @@ title = "Fabien’s 2001 BMW Alpina B10 Introduction"
 tags = ["BMW, 2001, Alpina, B10, Indroduction"]
 categories = ["Project-Cars"]
 banner = "img/31632002_CP_photo.jpeg"
+aliases = ["/archives/2074"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/04/31632002_CP_photo.jpeg)

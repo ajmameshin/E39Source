@@ -3,6 +3,7 @@ title = "Shit E39 Owners Say"
 tags = ["BMW, E39, Opinion, Owners, shit"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_27631.jpeg"
+aliases = ["/archives/1519"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/09/IMG_27631.jpg)

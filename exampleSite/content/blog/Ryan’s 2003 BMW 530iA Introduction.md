@@ -3,6 +3,7 @@ title = "Ryan’s 2003 BMW 530iA Introduction"
 tags = ["BMW, 2003, project, 530iA, introduction"]
 categories = ["Project-Cars"]
 banner = "img/IMG_7645.jpeg"
+aliases = ["/archives/1915"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/02/IMG_7645.jpg)

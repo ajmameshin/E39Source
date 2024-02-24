@@ -3,6 +3,7 @@ title = "BMW Removes Manual Transmission From 5-Series"
 tags = ["BMW, removes, Manual, transmission, 5-Series"]
 categories = ["Other-BMW-Content"]
 banner = "img/6mt.jpeg"
+aliases = ["/archives/2254"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/11/6mt.jpg)

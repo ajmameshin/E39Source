@@ -3,6 +3,7 @@ title = "Tanvir’s 2003 BMW M5 Information"
 tags = ["BMW, 2003, M5, project"]
 categories = ["Project-Cars"]
 banner = "img/My-M3-Close-front-after..jpeg"
+aliases = ["/archives/1302"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/07/My-M3-Close-front-after..jpg)

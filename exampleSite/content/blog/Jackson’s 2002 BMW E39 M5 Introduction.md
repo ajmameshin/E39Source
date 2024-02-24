@@ -3,6 +3,7 @@ title = "Jackson’s 2002 BMW E39 M5 Introduction"
 tags = ["BMW, 2002, project, upgrade, E39, M5, indroduction"]
 categories = ["Project-Cars"]
 banner = "img/DSC_0082.jpeg"
+aliases = ["/archives/1634"]
 +++
 
 ![Alt text](../img/DSC_0082.jpeg)

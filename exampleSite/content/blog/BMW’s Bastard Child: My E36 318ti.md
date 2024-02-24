@@ -3,6 +3,7 @@ title = "BMW’s Bastard Child: My E36 318ti"
 tags = ["BMW, E39, 318ti, project"]
 categories = ["Project-Cars"]
 banner = "img/Exterior.jpeg"
+aliases = ["/archives/1590"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/11/Exterior.jpg)

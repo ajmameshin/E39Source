@@ -3,6 +3,7 @@ title = "Josh’s 2001 530i Introduction"
 tags = ["BMW, 2001, 530i, Indroduction"]
 categories = ["Project-Cars"]
 banner = "img/IMG_1167.jpeg"
+aliases = ["/archives/2216"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/10/1.jpg)

@@ -3,6 +3,7 @@ title = "Charlie’s 2002 BMW 520i SE Introduction"
 tags = ["BMW, 2002, project, upgrade, 520i, indroduction"]
 categories = ["Project-Cars"]
 banner = "img/DSC_0037.jpeg"
+aliases = ["/archives/1663"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/01/DSC_0037.jpg)

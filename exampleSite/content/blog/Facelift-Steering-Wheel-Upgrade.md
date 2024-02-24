@@ -4,6 +4,7 @@ title = "BMW E39: Facelift Steering Wheel Upgrade"
 tags = ["BMW, E39, Steering, wheel, upgrade"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_2978.jpeg"
+aliases = ["/archives/1683"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/01/IMG_2978.jpg)

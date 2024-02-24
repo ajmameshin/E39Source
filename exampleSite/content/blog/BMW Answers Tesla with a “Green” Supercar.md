@@ -3,6 +3,7 @@ title = "BMW Answers Tesla with a “Green” Supercar"
 tags = ["BMW, Tesla, I8, Green, Supercar"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_7368.jpeg"
+aliases = ["/archives/2244"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/11/c19b11e1d14610ea10e69d8b8a4da306.jpg)

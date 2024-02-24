@@ -3,6 +3,7 @@ title = "Hassan’s 2002 BMW 530iA Introduction"
 tags = ["BMW, 2002, project, upgrade, 530iA, indroduction"]
 categories = ["Project-Cars"]
 banner = "img/IMG_0962.jpeg"
+aliases = ["/archives/1734"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_0962.jpg)

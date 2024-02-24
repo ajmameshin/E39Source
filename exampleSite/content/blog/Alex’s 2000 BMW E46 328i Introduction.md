@@ -3,6 +3,7 @@ title = "Alex’s 2000 BMW E46 328i Introduction"
 tags = ["project, BMW, 2000, E46, 328i, Indroduction"]
 categories = ["Project Cars"]
 banner = "img/IMG_3171.jpeg"
+aliases = ["/archives/2314"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2015/01/IMG_3171.jpg)

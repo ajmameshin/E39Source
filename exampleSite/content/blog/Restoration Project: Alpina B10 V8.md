@@ -3,6 +3,7 @@ title = "Restoration Project: Alpina B10 V8"
 tags = ["Restoration, BMW, Alpina, B10, V8"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_6397.jpeg"
+aliases = ["/archives/2002"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/04/31354076_CP_photo1.jpeg)

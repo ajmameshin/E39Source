@@ -3,6 +3,7 @@ title = "The Ultimate Car Detailing: Zaino"
 tags = ["Car, Detail, BMW, Clean, Ziana, Towels, Car, materials"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_3282-1.png"
+aliases = ["/archives/1379"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_3282-1.png)

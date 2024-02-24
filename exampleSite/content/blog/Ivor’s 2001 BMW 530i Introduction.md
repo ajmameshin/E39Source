@@ -3,6 +3,7 @@ title = "Ivor’s 2001 BMW 530i Introduction"
 tags = ["BMW, 2001, 530i, project"]
 categories = ["Project-Cars"]
 banner = "img/IMG_869.jpeg"
+aliases = ["/archives/1541"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/11/3Gd3Fd3M25E95Kd5M5d62579040ac838c104d.jpg)

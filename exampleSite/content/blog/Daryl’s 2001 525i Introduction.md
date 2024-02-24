@@ -3,6 +3,7 @@ title = "Daryl’s 2001 525i Introduction"
 tags = ["BMW, 2001, 525i, Indroduction"]
 categories = ["Project-Cars"]
 banner = "img/E39-Project-021-1-of-1.jpeg"
+aliases = ["/archives/2160"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2014/09/E39-Project-021-1-of-1.jpg)

@@ -3,6 +3,7 @@ title = "Andres’ 2000 540i 6 Introduction"
 tags = ["BMW, 540i, I6"]
 categories = ["E39-I6"]
 banner = "img/IMG_5663.jpeg"
+aliases = ["/archives/2282"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/IMG_5663.jpg)
