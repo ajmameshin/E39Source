@@ -3,6 +3,7 @@ title = "Tyler’s 1993 BMW 325iS Information"
 tags = ["1993, BMW, 325iS, information"]
 categories = ["Project-Cars"]
 banner = "img/IMG_Tyler-325is1.png"
+aliases = ["/archives/319"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/Tyler-325is1.png)

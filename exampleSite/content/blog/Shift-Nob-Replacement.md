@@ -4,6 +4,7 @@ title = "BMW E39: Shift Knob Replacement"
 tags = ["BMW, E39, Shifter, Control, upgrade"]
 categories = ["E39 M5 BMW"]
 banner = "img/Shift-Knob.png"
+aliases = ["/archives/416"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/Shift-Knob.png)

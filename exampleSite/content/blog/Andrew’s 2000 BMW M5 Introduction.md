@@ -3,6 +3,7 @@ title = "Andrew’s 2000 BMW M5 Introduction"
 tags = ["2000, BMW, M5, indroduction"]
 categories = ["Project-Cars"]
 banner = "img/IMG_Andrew-M5.png"
+aliases = ["/archives/364"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/Andrew-M5.png)

@@ -3,6 +3,7 @@ title = "Welcome to E39Source"
 tags = ["BMW, shop, upgrade, welcome, local"]
 categories = ["Welcome-to-E39Source"]
 banner = "img/IMG_Title.png"
+aliases = ["/archives/139"]
 +++
 
 ![Alt text](../img/Title1111.png)
