@@ -3,6 +3,7 @@ title = "Colton’s 2001 BMW 540i Introduction"
 tags = ["project, 2001, BMW, 540i, indroduction"]
 categories = ["Project-Cars"]
 banner = "img/IMG_540_Driveway1.png"
+aliases = ["/archives/478"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/03/540_Driveway1.png)

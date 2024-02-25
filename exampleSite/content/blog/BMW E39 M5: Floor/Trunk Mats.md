@@ -3,6 +3,7 @@ title = "BMW E39 M5: Floor/Trunk Mats"
 tags = ["BMW, E39, M5, Floor, Trunk, Mat"]
 categories = ["E39-M5-BMW"]
 banner = "img/IMG_7047.jpeg"
+aliases = ["/archives/964"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_7047.jpg)

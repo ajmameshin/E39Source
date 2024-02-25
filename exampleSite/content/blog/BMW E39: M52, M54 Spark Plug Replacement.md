@@ -4,6 +4,7 @@ title = "BMW E39: M52, M54 Spark Plug Replacement"
 tags = ["BMW, E39, M52, M54, Spark, plug, replacement"]
 categories = ["E39-I6"]
 banner = "img/IMG_6ygft.jpeg"
+aliases = ["/archives/921"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/Photo-Feb-16-4-27-53-PM.jpg)

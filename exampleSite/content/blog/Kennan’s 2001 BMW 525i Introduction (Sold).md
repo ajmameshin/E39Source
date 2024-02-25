@@ -3,6 +3,7 @@ title = "Kennan’s 2001 BMW 525i Introduction (Sold)"
 tags = ["project, 2001, BMW, 525i, indroduction"]
 categories = ["Project-Cars"]
 banner = "img/IMG_0194.jpeg"
+aliases = ["/archives/1011"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_0194.jpg)

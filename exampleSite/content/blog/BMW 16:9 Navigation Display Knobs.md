@@ -4,6 +4,7 @@ title = "BMW 16:9 Navigation Display Knobs"
 tags = ["BMW, navigation, display, knobs"]
 categories = ["E39-I6"]
 banner = "img/IMG_4915.jpeg"
+aliases = ["/archives/882"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/IMG_4915.jpg)

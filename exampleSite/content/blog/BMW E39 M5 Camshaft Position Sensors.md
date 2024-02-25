@@ -3,6 +3,7 @@ title = "BMW E39 M5 Camshaft Position Sensors"
 tags = ["project, Benz"]
 banner = "img/IMG_S62.png"
 categories = ["E39-M5-BMW"]
+aliases = ["/archives/1035"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/S62.png)

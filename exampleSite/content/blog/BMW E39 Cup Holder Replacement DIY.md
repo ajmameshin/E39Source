@@ -3,6 +3,7 @@ title = "BMW E39 Cup Holder Replacement DIY"
 tags = ["BMW, E39, Cup, Holder, Replacement, upgraded, DIY"]
 categories = ["Other-BMW-Content"]
 banner = "img/E39-Cup-Holder-Replacement.jpeg"
+aliases = ["/archives/917"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/03/E39-Cup-Holder-Replacement.jpg)

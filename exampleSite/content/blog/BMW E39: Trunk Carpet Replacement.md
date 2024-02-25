@@ -3,6 +3,7 @@ title = "BMW E39: Trunk Carpet Replacement"
 tags = ["BMW, E39, Trunk, Carpet, Replacement, upgraded"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_2840.jpeg"
+aliases = ["/archives/886"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/03/IMG_2840.jpg)

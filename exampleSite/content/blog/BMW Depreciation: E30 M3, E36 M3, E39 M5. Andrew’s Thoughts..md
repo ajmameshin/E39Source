@@ -3,6 +3,7 @@ title = "BMW Depreciation: E30 M3, E36 M3, E39 M5. Andrew’s Thoughts."
 tags = ["BMW, Depreciation, E30, M3, E36, E39, M5, thoughts"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_4684.jpeg"
+aliases = ["/archives/1083"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/1987-bmw-e30-m3-and-1996-e36-m3-photo-365393-s-1280x782-1.jpg)

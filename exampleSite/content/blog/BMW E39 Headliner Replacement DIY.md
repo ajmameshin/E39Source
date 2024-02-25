@@ -3,6 +3,7 @@ title = "BMW E39 Headliner Replacement DIY"
 tags = ["BMW, E39, headliner, replacement, DIY"]
 categories = ["E39-I6"]
 banner = "img/IMG_4272.jpeg"
+aliases = ["/archives/1050"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_4272.jpg)

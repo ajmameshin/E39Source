@@ -3,6 +3,7 @@ title = "Compromise – Updates with Andrew and His 2000 M5"
 tags = ["project, compromise, updates, 2000, BMW, M5, story"]
 categories = ["Project-Cars"]
 banner = "img/IMG_6h47.png"
+aliases = ["/archives/547"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/Screen-Shot-2012-12-15-at-5.17.27-PM.png)

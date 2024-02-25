@@ -3,6 +3,7 @@ title = "BMW Alarm Goes Off? Hood Sensor Replacement"
 tags = ["BMW, Alarm, Fix, Hood, Senser, Replacment"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_7120.png"
+aliases = ["/archives/971"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_7120.png)

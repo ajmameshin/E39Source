@@ -3,6 +3,7 @@
 title = "BMW E39: Facelift Lighting"
 categories = ["E39 M5 BMW"]
 banner = "img/M5.jpeg"
+aliases = ["/archives/705"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/02/M5.jpg)

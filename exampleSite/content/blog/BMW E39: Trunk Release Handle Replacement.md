@@ -4,6 +4,7 @@ title = "BMW E39: Trunk Release Handle Replacement"
 tags = ["BMW, E39, trunk, release, handle, replacement"]
 categories = ["E39-I6"]
 banner = "img/IMG_TrunkRelease.jpeg"
+aliases = ["/archives/952"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/TrunkRelease.jpg)

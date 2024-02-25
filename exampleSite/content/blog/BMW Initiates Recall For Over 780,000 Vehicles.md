@@ -3,6 +3,7 @@ title = "BMW Initiates Recall For Over 780,000 Vehicles"
 tags = ["BMW, Recall, 780,000, vehicles"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_bmw-recall-feat.png"
+aliases = ["/archives/693"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/02/bmw-recall-feat.png)

@@ -3,6 +3,7 @@ title = "2014 BMW M5 and M6 to Receive Upgraded Competition Package"
 tags = ["BMW, 2014, M5, M6, E39, upgraded, competition, package, comp"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_685.jpeg"
+aliases = ["/archives/1050"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/BMW-F10-M5-High-Quality-Wallpapers-1920x1200-wallpaper-01.jpg)

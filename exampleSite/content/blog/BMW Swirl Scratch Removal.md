@@ -3,6 +3,7 @@ title = "BMW Swirl Scratch Removal"
 tags = ["BMW, Swirl, Scratch, Removal, clear, coat"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_4186.jpeg"
+aliases = ["/archives/1046"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2013/04/IMG_4186.jpg)

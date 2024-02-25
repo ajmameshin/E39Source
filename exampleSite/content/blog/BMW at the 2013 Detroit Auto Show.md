@@ -4,6 +4,7 @@ title = "BMW at the 2013 Detroit Auto Show"
 tags = ["BMW, 2013, detroit, auto, show"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_8394.jpeg"
+aliases = ["/archives/599"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2020/04/2014-BMW-4-Series-Coupe-Concept-NAIAS-Main.jpg)

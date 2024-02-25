@@ -3,6 +3,7 @@ title = "BMW E39: Corner Sunshade Replacement"
 tags = ["BMW, E39, Corner, Sunshade, Replacment"]
 categories = ["Other-BMW-Content"]
 banner = "img/IMG_Sunshade1.png"
+aliases = ["/archives/438"]
 +++
 
 ![Alt text](https://e39source.com/wp-content/uploads/2012/12/Sunshade1.png)
