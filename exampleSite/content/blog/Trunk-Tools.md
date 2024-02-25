@@ -3,7 +3,7 @@ title = "BMW E39: Trunk Tools"
 tags = ["BMW E39, trunk, tools, tool, kit"]
 categories = ["E39 M5 BMW"]
 banner = "img/bmw_toolkit_labelled.jpeg"
-aliases = ["/archives/4266"]
+aliases = ["/archives/4266", "/archives/tag/tools"]
 +++
 
 ![Alt text](../img/bmw_toolkit_labelled.jpeg)
