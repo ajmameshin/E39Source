@@ -4,18 +4,6 @@ description = "About Us Page"
 keywords = ["BMW", "About Us", "shop", "fix", "Repair", "E39", "M5"]
 +++
 
-
-{{< bootstrap-table "someclassname" >}}
-||
-|--------|-------|
-&nbsp;
-| ![img](../img/MEWP1342_resized.png) |
-&nbsp;
-|Gary Schultz is a co-owner of E39Source and has been a car enthusiast since childhood.  His love of cars was passed down from his father who enjoyed working on his American-made vehicles.  Gary grew up near Akron, Ohio and has a BA degree in Economics from Kent State University.  After graduating he worked for Progressive Corporation headquartered in Cleveland, Ohio as an IT Operations Manager.  After nearly 30 years at Progressive Gary decided to move to a better climate and lifestyle in Southern California where he worked for HP in Rancho Bernardo for 10 years before expanding E39Source, LLC in Escondido with Ryan in 2019.
-Gary owns two BMW M5s, a manual-converted E60 and an F10 as well as a Ferrari 355 F1 Spider.  Both Gary and Ryan are active participants in the San Diego chapter of the Ferrari Owner Club where they sit on the Board of Directors and assist in event planning and club operations.|
-&nbsp;
-{{< /bootstrap-table >}}
-
 {{< bootstrap-table "someclassname" >}}
 ||
 |--------|-------|
@@ -31,21 +19,10 @@ Gary owns two BMW M5s, a manual-converted E60 and an F10 as well as a Ferrari 35
 ||
 |--------|-------|
 &nbsp;
-| ![img](../img/Person2.png) |
+| ![img](../img/MEWP1342_resized.png) |
 &nbsp;
-|**Other about us content (about the business)**|
-&nbsp;
-{{< /bootstrap-table >}}
-
-{{< bootstrap-table "someclassname" >}}
-||
-|--------|-------|
-&nbsp;
-| ![img](../img/Person2.png) |
-&nbsp;
-|**Other about us content (about the business)**|
+|Gary Schultz is a co-owner of E39Source and has been a car enthusiast since childhood.  His love of cars was passed down from his father who enjoyed working on his American-made vehicles.  Gary grew up near Akron, Ohio and has a BA degree in Economics from Kent State University.  After graduating he worked for Progressive Corporation headquartered in Cleveland, Ohio as an IT Operations Manager.  After nearly 30 years at Progressive Gary decided to move to a better climate and lifestyle in Southern California where he worked for HP in Rancho Bernardo for 10 years before expanding E39Source, LLC in Escondido with Ryan in 2019.
+Gary owns two BMW M5s, a manual-converted E60 and an F10 as well as a Ferrari 355 F1 Spider.  Both Gary and Ryan are active participants in the San Diego chapter of the Ferrari Owner Club where they sit on the Board of Directors and assist in event planning and club operations.|
 &nbsp;
 {{< /bootstrap-table >}}
-
-&nbsp;
 
