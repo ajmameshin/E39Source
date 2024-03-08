@@ -6,12 +6,16 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 # Resources & Downloads
 
-(See [this article](https://www.e39source.com/blog/nav-guide/) for in-depth information)
-
 &nbsp; 
 
 #### NAVIGATION SOFTWARE & RESOURCES:  E39, E38, E46, E53, E83, E52    
  
+ &nbsp; 
+
+(See [this article](https://www.e39source.com/blog/nav-guide/) for in-depth information)
+
+&nbsp; 
+
 * MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1) (Stock BMW software)
 * MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1) (Modified version: ///M logo splash, night mode color 2, speed camera alerts, warning auto-accept)
 * MKIII: [SW 3-1/65 (V23)](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1) (Modified version: ///M logo splash, warning auto-accept)
@@ -72,7 +76,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 * [BMW E60/E61 LCI Lighting Retrofit](https://www.dropbox.com/s/p9q6m0xx7nef9oo/BMW%20E60%3AE61%20LCI%20Conversion.pdf?dl=1)
 * [BMW E60 Passenger Seat Occupancy Mat Bypass Installation Instructions](https://www.dropbox.com/s/bx5bse197qzkk92/E60%20Front%20Passenger%20Seat%20Occupancy%20Sensor%20Bypass.pdf?dl=1)
 
-#### BMW F10;
+#### BMW F10:
 * [BMW F10 M5 Complete Vehicle Specs](https://www.dropbox.com/s/xyknda6t103tpkv/F10%20M5%20Complete%20Vehicle.pdf?dl=1)
 * [BMW F10 M5 Options, Package Codes and Specs](https://www.dropbox.com/s/qm9tqq6uwba0i50/BMW%20F10%20M5%20Options.pdf?dl=1)
 #### BMW F90:
