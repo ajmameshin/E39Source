@@ -42,13 +42,16 @@ In order to support SIRIUS XM radio, you need a few pieces of hardware.  Firstly
 
 65126919081  No aux input, no Sirius, no MP3 
 (re-manufactured part number)
+
 65126922512  **Aux input,** no Sirius, no MP3
 
 65126922513  **Aux input,** no Sirius, no MP3 (re-manufactured part number)
+
 65106933089  **Aux input,** no Sirius, no MP3
 
 65106933090  **Aux input,** no Sirius, no MP3 
 (re-manufactured part number)
+
 65126927910  **Aux input, Sirius,** no MP3
 
 65126927911  **Aux input, Sirius,** no MP3 
@@ -85,8 +88,8 @@ PART NUMBER	DESCRIPTION	PRICE
 	BM53 Radio to Support MP3, Aux, and SIRIUS XM (NLA) price ---
 
 [65120439436](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2Fsirius-xm-ibus-satellite-radio-reciever%2F65120439436%2F)	SIRIUS XM Receiver	$320.24
-61126913957	C43 to BM53 Radio Harness Adapter *	$88.11
 
+[61126913957]()	C43 to BM53 Radio Harness Adapter *	$88.11
 
 [61126913955](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FBMW-E39-M5-S62_5.0L%2FSearch%2FSiteSearch%2F61126913957%2FES162650%2F)	C43 to BM53 Radio Antenna Adapter *	$25.95
 
@@ -114,15 +117,17 @@ PART NUMBER	DESCRIPTION	PRICE
 
 &nbsp;<br/><br/>
 
-1. For vehicles produced in or before August, 2001.  Needed for BM53 radio retrofit.
+*. For vehicles produced in or before August, 2001.  Needed for BM53 radio retrofit.
 
-2. Vehicles with digital DSP will need this cable.
+** Vehicles with digital DSP will need this cable.
 
-3. Part “No Longer Available.”  Good luck.
+*** Part “No Longer Available.”  Good luck.
 
-4.  If broken or found to be missing during installation process.
+****  If broken or found to be missing during installation process.
 
-5.  For navigation-equipped vehicles produced in or after 09/2002.
+*****  For navigation-equipped vehicles produced in or after 09/2002.
+
+&nbsp;<br/><br/>
 
 The above prices are quoted from ECS Tuning and Amazon.  Other vendors may vary.  Figures updated April, 2022.
 
