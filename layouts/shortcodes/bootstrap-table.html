@@ -28,13 +28,27 @@
   border: none !important;
   border-collapse: collapse !important;
 }
+/* Adding space between the first and second table column */
+.no-lines td:first-child {
+  padding-right: 20px; /* Space between the first and second column */
+}
+
 /* Responsive font size and padding for table cells */
 @media (max-width: 768px) {
+  .table-responsive .table,
+  .table-responsive .table th,
   .table-responsive .table td,
-  .table-responsive .table th {
+  .table-responsive .table tr {
+    border: none !important; /* Reinforce no borders on mobile */
+    border-collapse: collapse !important; /* Ensure borders are collapsed */
     font-size: 0.8em; /* Smaller font size on small screens */
     padding: 8px; /* Adjust padding to ensure content fits nicely */
   }
+  /* Ensuring image does not exceed 150px in width on mobile devices */
+  .centered-table-img img {
+    max-width: 150px; /* Image max width set to 100px */
+    height: auto; /* Maintain aspect ratio */
+  }  
 }
 </style>
 
