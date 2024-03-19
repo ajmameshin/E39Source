@@ -6,12 +6,12 @@
 
 <!-- Adding table classes with text-center for body and header -->
 {{ $old_table_tag := "<table>" }}
-{{ $new_table_tag := printf "<table class=\"%s text-left no-lines\"" $table_class }}
+{{ $new_table_tag := printf "<table class=\"%s text-right no-lines\"" $table_class }}
 {{ $htmlTable = replace $htmlTable $old_table_tag $new_table_tag }}
 
 <!-- Adding header classes with text-center -->
 {{ $old_thead_tag := "<thead>" }}
-{{ $new_thead_tag := printf "<thead class=\"%s text-left\"" $thead_class }}
+{{ $new_thead_tag := printf "<thead class=\"%s text-right\"" $thead_class }}
 {{ $htmlTable = replace $htmlTable $old_thead_tag $new_thead_tag }}
 
 <!-- Custom CSS to center images, remove all lines and borders, and enhance responsiveness -->
