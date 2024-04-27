@@ -53,9 +53,3 @@ Today I installed new spark plugs into my E39 525iA. The following is a quick tu
 **Procedure:** To see how to do this for yourself, watch the embedded video below!
 
 &nbsp;<br/><br/>
-
-**Spark Plug Change DIY:**
-
-{{< youtube  >}}
-
-&nbsp;<br/><br/>
