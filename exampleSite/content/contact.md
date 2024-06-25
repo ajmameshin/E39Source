@@ -8,3 +8,7 @@ E39Source was founded in September, 2011 in Hudson, Ohio, and was inspired by th
 
 To contact us, please fill out the form below.
 
+&nbsp;
+
+**Note: Due to the popularity of our shop, we are currently scheduling appointments 2-3 months out. We appreciate your patience and understanding.**
+
