@@ -30,7 +30,13 @@ keywords = ["Automotive Services","BMW","repair","modifications"]
 * BMW Connecting-Rod Bearings<br/><br/>
 &nbsp;<br/><br/>
 
-### For service inquiries, please fill out out the form below.
+&nbsp;
+
+#### For service inquiries, please fill out out the form below.
+
+&nbsp;
+
+### Note: Due to the popularity of our shop, we are currently not scheduling appointments until September. 
 
 &nbsp;<br/><br/>
 

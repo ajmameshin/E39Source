@@ -10,5 +10,5 @@ To contact us, please fill out the form below.
 
 &nbsp;
 
-**Note: Due to the popularity of our shop, we are currently scheduling appointments 2-3 months out. We appreciate your patience and understanding.**
+### Note: Due to the popularity of our shop, we are currently not scheduling appointments until September. 
 
