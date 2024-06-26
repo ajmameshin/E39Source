@@ -36,7 +36,7 @@ keywords = ["Automotive Services","BMW","repair","modifications"]
 
 &nbsp;
 
-### Note: Due to the popularity of our shop, we are currently not scheduling appointments until September. 
+### *Unfortunately, due to extreme service demand and ongoing short-staffing issues, we are unable to provide service scheduling until September, 2024.  We apologize for any inconvenience and look forward to assisting you as soon as we can.*
 
 &nbsp;<br/><br/>
 
