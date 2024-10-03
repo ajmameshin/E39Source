@@ -14,3 +14,14 @@ keywords = ["BMW", "About Us", "shop", "fix", "Repair", "E39", "M5"]
 
 
 
+{{< bootstrap-table-right "someclassname" >}}
+|||
+|--------|-------|
+&nbsp;
+| Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time.   | ![img](../img/Alan_Lopes_Pic_resized-2.png) |
+&nbsp;
+{{< /bootstrap-table >}}
+
+
+
+
