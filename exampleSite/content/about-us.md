@@ -16,18 +16,11 @@ keywords = ["BMW", "About Us", "shop", "fix", "Repair", "E39", "M5"]
 |||
 |--------|-------|
 &nbsp;
-| Gary Schultz is a co-owner of E39Source and has been a car enthusiast since childhood. His love of cars was passed down from his father who enjoyed working on his American-made vehicles.  Gary grew up near Akron, Ohio and has a BA degree in Economics from Kent State University.  After graduating he worked for Progressive Corporation headquartered in Cleveland, Ohio as an IT Operations Manager.  After nearly 30 years at Progressive Gary decided to move to a better climate and lifestyle in Southern California where he worked for HP in Rancho Bernardo for 10 years before expanding E39Source, LLC in Escondido with Ryan in 2019. Gary owns two BMW M5s, a manual-converted E60 and an F10 as well as a Ferrari 355 F1 Spider.  Both Gary and Ryan are active participants in the San Diego chapter of the Ferrari Owner Club where they sit on the Board of Directors and assist in event planning and club operations. | ![img](../img/MEWP1342_resized_resized.png) |
+| Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time. | ![img](../img/Alan_Lopes_Pic_resized-2.png) |
 &nbsp;
 {{< /bootstrap-table >}}
 
 
 
-{{< bootstrap-table-right "someclassname" >}}
-|||
-|--------|-------|
-&nbsp;
-| ![img](../img/Alan_Lopes_Pic_resized-2.png)  | Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time. |
-&nbsp;
-{{< /bootstrap-table >}}
 
 
