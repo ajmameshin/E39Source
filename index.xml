@@ -107,6 +107,90 @@
  &lt;/tbody>
 &lt;/table>
 
+&lt;/div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;style>
+.centered-table-img img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.no-lines,
+.no-lines th,
+.no-lines td,
+.no-lines tr {
+ border: none !important;
+ border-collapse: collapse !important;
+}
+ 
+.no-lines td:first-child {
+ padding-right: 20px; 
+}
+
+ 
+@media (max-width: 768px) {
+ .table-responsive .table,
+ .table-responsive .table th,
+ .table-responsive .table td,
+ .table-responsive .table tr {
+ border: none !important; 
+ border-collapse: collapse !important; 
+ font-size: 0.8em; 
+ padding: 8px; 
+ }
+ 
+ .centered-table-img img {
+ max-width: 150px; 
+ height: auto; 
+ } 
+}
+&lt;/style>
+
+
+
+
+
+&lt;div class="table-responsive">
+&lt;table class="%!s(&lt;nil>) text-right no-lines"
+ &lt;thead class="%!s(&lt;nil>) text-right"
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;/th>
+ &lt;th style="text-align: left">&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left"> &lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time.  &lt;/td>
+ &lt;td style="text-align: left">&lt;img src="../img/Alan_Lopes_Pic_resized-2.png" alt="img">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left"> &lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
 &lt;/div></description></item><item><title>Alex’s 1999 BMW E39 540i/6 Introduction</title><link>https://www.e39source.com/blog/alexs-1999-bmw-e39-540i6-indroduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/alexs-1999-bmw-e39-540i6-indroduction/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/0710152028b.jpg" alt="Alt text">&lt;/p>
 &lt;p>There comes a point in time when people decide that they want to make a change in life. For me, that change was owning a BMW. The first I heard of BMW’s was as a kid going to the auto show with my father, and grandfather. It wasn’t until high school that I really became a car guy. The very first time I rode in a E39 was in 2011, with Ryan’s 2000 E39 M5. I immediately fell in love with that car, and knew that I had to have one. It wasn’t until 4 years later that I can finally say that I am a proud owner of a BMW. I purchased this vehicle off of my good friend, Razvan who gave me a fantastic deal on this beautiful machine.&lt;/p></description></item><item><title>Alex’s 2000 BMW E46 328i Introduction</title><link>https://www.e39source.com/blog/alexs-2000-bmw-e46-328i-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/alexs-2000-bmw-e46-328i-introduction/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2015/01/IMG_3171.jpg" alt="Alt text">&lt;/p>
 &lt;p>If I were to tell you that I’ve always been a fan of BMW, I’d be lying. Two years ago, if you were to tell me my first car would be an E46, I would have called you crazy! Living in Buffalo, NY, I pictured my first car as some sort of all wheel drive vehicle. I really was set on an older WRX, due to the decent performance, and great all wheel drive system. I was also your typical Fast and Furious type kid who drooled over JDM “riced” out cars. It’s bad, I know. Luckily, one trip to visit my brother in San Francisco changed my taste in cars completely.&lt;/p></description></item><item><title>Andres’ 2000 540i 6 Introduction</title><link>https://www.e39source.com/blog/andres-2000-540i-6-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/andres-2000-540i-6-introduction/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/IMG_5663.jpg" alt="Alt text">&lt;/p>
