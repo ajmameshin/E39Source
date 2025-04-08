@@ -10,41 +10,169 @@ banner = "img/IMG_1030.jpeg"
 
 ![E39 Reliability](../img/IMG_1030.jpeg)
 
-A common topic, S62 longevity.  I could write a book about this, but I’ll try not to here. I’ve been an M5 owner for over 12 years and 85,000 miles now.  Over the past 4 years, me and my term have serviced hundreds of E39 M5s. The E39 M5’s S62 V8 can last 300,000 miles on original components.  The S62 can also fail at 40,000 miles. Thankfully, there seem to be many more instances of higher miles than lower. These are the primary weak points of the S62: 
+Over the past 6 years, my team and I have serviced hundreds of E39 M5s (and a few Z8s!) I’ve also owned my M5 for 15 years and over 90,000 miles now. The S62 V8 can last 300,000 miles on original components. It can also fail at 40,000 miles. Thankfully, there seem to be many more instances of higher miles than lower. These are the primary weak points of the S62:
 
 &nbsp;<br/><br/>
 
-**1. Rod Bearings** The rod bearings are half-moon shaped bearings where each piston’s connecting rod and rod cap secure to the crankshaft.  Like with any engine, these bearings are wearable components; especially with high-revving, high-output V8s. They can wear more quickly if you use the incorrect oil, beat on the engine while its cold, lug the engine at low RPMs, or drive the hell out of the car on a daily basis.  The S62 was hand built, so each engine’s clearances and longevity can be different. My 2000 M5’s original engine had exactly 192,000 miles on it with original rod bearings, and no sign of failure when I removed it from the vehicle.  I decided to rebuild a 122,000 mile 2002 engine for my car.  Why?  Because in California, labor would cost nearly 2x what it did while I still lived in Ohio.  Because I wanted an engine that’s good for 150,000 worry-free miles.  The problem with the bearings is, by the time you start to hear the knocking of failing bearings, it can often be too late to simply replace the bearings ($2,900 job or so). The force of the pistons slamming into the crankshaft with play can easily destroy (score) the rod journals on the crankshaft, at which point the engine needs to come out and be opened up to remove and replace the crankshaft.  Now we might have a $5,000 – $7,000 job, or more. If the piston/rod is loose on the crankshaft, it can score the delicate Alusil cylinder walls of the engine block, destroying the engine.  If the piston breaks off the crankshaft, it can go up and destroy the valves/head of the engine, at which point the engine is scrap metal.  If the rod breaks and gets ejected from the side of the block, you will destroy the block, lose oil pressure, and possibly trash the other 7 good pistons too. While rod bearing failure is not terribly common… it can happen. Practice these habits to avoid prematurely wearing your rod bearings:
+**Rod Bearings** The rod bearings are half-moon shaped bearings installed where each piston’s
+connecting rod and rod cap interface with the crankshaft. Like with any engine, these bearings are
+consumable components; especially with high-revving, high-output performance-oriented engines.
+They can wear more quickly if you use the incorrect oil, abuse the engine while its cold, or lug the
+engine at low RPMs. S62s were hand built, so each engine’s clearances and longevity can vary. My
+2000 M5’s original engine had exactly 192,000 miles on it with original rod bearings, and no sign of
+failure when I removed it from the vehicle. I decided to rebuild a 122,000 mile 2002 engine for my
+car. Why? Because I was preparing to move to California where labor would cost significantly more
+than it did in Ohio. I also wanted an engine that’s ready for the next 150,000 miles so I can focus on
+building my business. The problem with the bearings is by the time you start to hear the knocking of
+failing bearings, it is often be too late to simply replace the bearings (~$4,000 job). The force of the
+connecting rods slamming into the crankshaft journal with play can easily destroy (score) the rod
+journals on the crankshaft, at which point the engine needs to come out and apart to replace the
+crankshaft. This is more of a $10,000 – $20,000 job. If the piston/rod is loose on the crankshaft, it
+can score the delicate Alusil cylinder walls of the block, essentially destroying the entire engine. If
+the piston breaks off the crankshaft, it can go up and destroy the valves/head of the engine, at which
+point the engine is scrap metal. If the rod breaks and gets ejected from the side of the block, you will
+destroy the engine block, lose oil pressure, and possibly sacrifice the other 7 good pistons as well.
+Practice these habits to avoid prematurely wearing your rod bearings:
 
-1. Use the correct engine oil.  I always recommend Castrol 10w-60 full synthetic. Liquimoly 10w60 is fine as well. BMW recommended 5w30 from factory on 2001+ cars, but this is purely because it was easier for consumers to source (who were clomping about the difficulty of procuring 10w60 oil 20 some years ago.)  Don’t use synthetic blend, and never use organic oil.  Don’t use 50w-75 because the dutchman at the auto parts store said it’ll sound better.
+1. Use the correct engine oil. I always recommend Castrol 10w-60 full-synthetic. Liquimoly
+10w60 is another good option. BMW recommended 5w30 from factory on 2001+ cars, but
+this is purely because it was easier for owners to source (who were complaining about the
+difficulty of procuring 10w60 oil 20 some years ago.) Don’t use synthetic blend and never
+use organic oil. Don’t use 50w-75 because the dutchman at the auto parts store said it’ll be
+quieter.
 
 
-2. Let the engine oil get warm before you drive the car hard.  That oil temp needle below the speedometer should be as closed to half way as possible, and certainly after the first white tick. Just because the variable red-line LEDs are out does not mean the engine is warm, those LEDs monitor the coolant temperature. Until the engine is warm, keep those revs below 3,500.
+2. Let the engine oil get warm before you drive the car hard. That oil temp needle below the
+speedometer should be as close to its midpoint as possible, and certainly after the first white
+index. Just because the variable red-line LEDs are out does not mean the engine is warm;
+those LEDs monitor the coolant temperature, not the oil temperature. Until the engine is at
+operating temperature, keep those revs below 3,000.
 
-3. Changing your oil, but not too often.  People think that the more often you change your oil, the better off you are. Recent studies have indicated that oil gets more effective with lubrication as it logs heat cycles.  So you might get the best lubrication after the first 2,000 miles, up until say 6,500 miles.  I recommend changing oil (and always the filter) at about 6,500 miles.
+3. Changing your oil, but not too often. People assume that more frequent oil changes are
+better, but recent studies have indicated that oil gets more effective with lubrication as it logs
+heat cycles. So you might get the best lubrication after the first 2,000 miles, up until say
+6,000 miles. I recommend changing the oil (and always the filter) at about 5,000 miles, or
+after 12 months (whichever comes first).
 
-4. Don’t lug the engine.  Yes, the S62 is torquey at all RPMs.  But mashing the throttle in 5th gear at 45mph puts the engine at a huge mechanical disadvantage.  I like to keep the revs around 2,000 RPM while cruising, and 3,000+ RPM when passing.
+4. Don’t lug the engine. Yes, the S62 is torquey at all RPMs. But mashing the throttle in 5th
+gear at 45mph puts the engine at a huge mechanical disadvantage. I like to keep the revs
+around 2,000 RPM while cruising, and 3,000+ RPM when passing.
 
-**Timing Chains & Guides** The S62’s timing chains are largely bulletproof, but there are two weaker points in the engine’s timing components.  Before we get too far, note that these issues are much more common on the E39 540i.  The 540i uses a similar engine, the 4.4 liter M62/M62TU.  The M62 runs at 110°C when at operating temperature- 31°C hotter than the 79° S62. This excessive heat bakes all of the timing components, vastly shortening their lifespan.  The first timing weak point of the S62 are the chain tensioners.  There are three hydraulic chain tensioners inside the engine. Firstly, we have one in-between each camshaft to provide those smaller chains with adeqauer tension. These are strong components that rarely fail on their own, but they should be replace anytime timing chain/chain guide work is done.  The third and weakest tensioner is the tensioner for the primary timing chain, located low in the bank #1 cylinder head. Over time (roughly 100,000 miles or 10 years) this tensioner looses its ability to keep the timing chain tight.  Replacement of this tensioner runs about $300 with parts and labor.  When the tensioner fails, the chain is allowed to slap around in the timing case, which speeds up the inevitable failure of the 2nd issue with the timing system: chain guides.  The chain is guided around the front of the engine by a series of plastic timing chain guides. Failure of these chain guides is not a matter of if, it is a matter of when. Each engine will eventually need this service, without exception. As the plastic ages and logs thermal cycles, it becomes increasingly more brittle. Failure of the guides means that the chain is at risk of coming off of it’s cogs, which will lead to the engine’s timing to advance or retard to the point of the valves colliding with the pistons, destroying the engine. Replacing the timing chains, guides, and tensioners is the best insurance against this.  At 192,000 miles, all of my timing system was original, with the exception of the primary tensioner, which I did years earlier at about 178,000 miles.  My original engine had no chain slap at all.  The gentleman that bought my old S62 rebuilt it before putting it in his project E30, and he asked me when I did the timing guides last, noting that ‘they looked pretty new!’  I informed him that they were original; he was shocked.  You can generally tell fairly easily if your S62 (or in a car you’re considering buying) is slapping around inside the car.  With the engine at idle, slowly unscrew the oil fill cap. Don’t remove it completely, but put an ear down near there and listen.  Be careful with the hot engine oil that could spray out of the valve cover at idle. If any sort of a slapping noise gets louder when you partially lift off the oil fill cap, then you probably have chain slap. You can also inspect your timing chain through the oil filler cap hole. If your chain is brown/yellow and matches the rest of the cam sprocket you can see through this hole, it is likely original. Newer chains are more silver in color, since their exposure to engine oil is considerably less than the surrounding components.  To help gauge the health of your guides, you will need to remove the lower oil pan and inspect it for small pieces of broken off chain guide. If you find dark brown pieces of plastic, those are bits of your chain guides. Be sure to remove and inspect your oil pump pickup screen as well. The pieces are generally the tabs that hold the plastic sections to the metal part of the chain guide. If you find pieces, you’re due to replace your guides. There’s not much you can do to make the guides last longer, but never let your engine over-heat.
+**Timing Chains & Guides** The S62’s timing chains are stout (duplex chains), but there are two
+weaker points in the engine’s timing system. Note that these issues occur much more frequently on
+the E39 540i (and E38 740i/iL, E53 X5 4.4i and 4.6i). These vehicles use a similar engine, the 4.4
+liter M62/M62TU. The M62 runs at 105°C, a significant 26°C warmer than the 79° S62. This
+excessive heat cooks the timing components, vastly shortening their lifespan. The first timing weak
+point of the S62 are the chain tensioners. There are three hydraulic chain tensioners inside the
+engine. Firstly, we have one inbetween each camshaft to provide those cam-to-cam chains with
+adequate tension. These are strong components that rarely fail but should be replaced anytime
+timing chain/chain guide work is done. The third and weakest tensioner is the tensioner for the
+primary timing chain, located low in the bank 1 cylinder head. Over time (roughly 100,000 miles or
+10 years) this tensioner loses its ability to keep the timing chain tight. Replacement of this tensioner
+runs about $400 with parts and labor. When the tensioner fails, the chain is allowed to slap around
+in the timing case, which speeds up the inevitable failure of the 2nd issue with the timing system: the
+chain guides. The chain is guided around the front of the engine by a series of plastic timing chain
+guides. Failure of these chain guides is not a matter of if, it is a matter of when. Each S62 will need
+this service, without exception. Driving the car gently offers no relief. As the plastic ages and logs
+thermal cycles, it becomes increasingly more brittle. Failure of the guides means that the chain is at
+risk of coming off its cogs which will allow the engine’s timing to advance or retard to the point of the
+valves colliding with the pistons, destroying the engine. Replacing the timing chains, guides, and
+tensioners is the best preventative measure. At 192,000 miles, my timing system was original with
+the exception of the primary tensioner, which I did years earlier at about 178,000 miles. My original
+engine had no chain slap at all. The gentleman that bought my old S62 rebuilt it before putting it in
+his project E30, and he asked me when I did the timing guides last, noting that ‘they looked pretty
+new!’ I informed him that they were original; he was shocked. You can inspect your timing chain
+through the oil filler cap hole. If your chain is brown/yellow and matches the rest of the cam sprocket
+you can see through this hole, it is likely original. Newer chains are more silver in color, since their
+exposure to engine oil (varnish) is considerably less than the surrounding components. At the time
+of this article’s latest revision in April, 2025, I recommend replacement of any original chain guides.
+Even on low mileage cars, these components are exceptionally brittle due to their age. You can
+inspect your lower oil pan for fragments of guide material as well. You’re looking for small dark
+brown/black pieces of hard plastic. Be sure to remove the pickup screen from your oil pump as well;
+pieces frequently get stuck in there. You’ll likely find some soft silicone material in your engine, this
+is simply bits of gasket-maker used to re-seal valve covers or other engine covers in the past and
+are no cause for concern. Any guide pieces you find are generally the tabs that hold the plastic
+sections to the metal part of the chain guide, particularly the center U-guide. If you find pieces,
+you’re over-due to replace your guides. As of 2024, one of the chain tensioners has been
+discontinued by BMW and is NLA (no longer available). Thankfully, we’re able to use the M60 V8’s
+counterpart with a few minor modifications. You must drill oiling holes in the plastic, and then
+carefully transplant that new plastic over to your S62-specific aluminum baseplate. You’ll need a
+new o-ring as well; Harbor Freight’s o-ring assortment kit has a suitable part.
 
 &nbsp;<br/><br/>
 
-**VANOS** The VANOS (variable valve timing for intake/exhaust valves) issues are way over-hyped.  The S62 doesn’t sound good at idle, period.  It rattles like a diesel.  The worst sounding engines are the earliest ones.  Pre 10/1999 production cars lacked set screws in the VANOS solenoid covers that kept the solenoids from vibrating against the covers, which made noise and could damage the solenoids.  Cars made after 10/1999 had four set screws there to keep the solenoids captive.  S62s produced from 12/1/2000 incorporate a VANOS accumulator shutoff valve which prevents oil bleed off of the high-pressure chamber after the engine is switched off.  This alleviates the startup rattle that is caused by the helical gears running dry and rattling until proper oil pressure is restored by the running oil pump.  On a customer complaint basis only, a VANOS accumulator shutoff valve could have be installed to eliminate the momentary rattling noise after the engine is started on vehicles produced before 12/1/2000. Unfortunately, not many BMW owners complained enough about this issue to get BMW to fully recall the earlier cars, or upgrade the VANOS pressure accumulators on more than a small percentage of the early cars. You can read this BMW service bulletin [here](https://www.dropbox.com/s/j4n8093162gk3fd/S62%20VANOS%20Rattle%202000.pdf?dl=0).  BMW also revised diaphragm springs to make less noise for 2002.  Even the latest versions of the S62’s VANOS have a rattle at idle.  This gets worse as the VANOS system ages, and the splines that drive the system develop some play.  Until this is really bad, there is no lack of performance or negative impacts, aside from the rattling sound. The VANOS only really needs attention if a solenoid(s) have failed, or electrical components have broken off of the circuit boards. Rebuilding the VANOS can be done for around $1,000 in parts (through [Dr. VANOS](https://drvanos.com/)), but the front of the engine has to come apart a good bit, though it can stay in the car.  My VANOS was largely original at 192,000 miles. I say largely because a few o-rings were replaced way back in 2003 under warranty. There was no check engine light, no loss of power, but plenty of rattle.  On my 2002 engine, I had Dr. VANOS machine the splines of the driving gears to have less tolerance, and make less noise.  I got new facelift diaphragm springs and new seals.  Startup is fantastic, but at warm idle, you can still hear it ticking away.
+**VANOS** The VANOS (variable valve timing for intake/exhaust valves) issues are grossly over-
+exaggerated. Many timing/VANOS faults are caused by bad camshaft position sensors, which are
+relatively easy and affordable to replace. The S62 doesn’t sound good at idle, period. It rattles like
+an old diesel. The worst sounding engines are the earliest ones. Pre 10/1999 production cars
+lacked set screws in the VANOS solenoid covers that kept the solenoids from vibrating against the
+covers, which made noise and could damage the solenoids. S62s manufactured after 10/1999 had
+four set screws there to hold the solenoids captive. S62s manufactured from 12/1/2000 incorporate
+a VANOS accumulator shutoff valve which prevents oil bleed-off from the high-pressure chamber
+after the engine is shut off. This alleviates the startup rattle that is caused by the helical gears
+running dry and rattling until proper oil pressure is restored by the running oil pump. On a customer
+complaint basis only, a VANOS accumulator shutoff valve could have been installed to eliminate the
+momentary rattling noise after the engine is started on vehicles produced before 12/1/2000.
+Unfortunately, few M5 owners complained enough about this issue to get BMW to fully recall the
+earlier cars or upgrade the VANOS pressure accumulators. You can read this BMW service
+bulletin [here](https://www.dropbox.com/s/j4n8093162gk3fd/S62%20VANOS%20Rattle%202000.pdf?dl=0). This retrofit kit has been discontinued, and good used ones are rare. BMW also
+revised the diaphragm springs to make less noise for 2002 (9/2001+). Even the latest versions of
+the S62’s VANOS have a rattle at idle. This gets worse as the VANOS system ages, and the splines
+that drive the system develop play. Thankfully there is no loss of performance or negative impact
+aside from the sound. The VANOS only needs attention if a solenoid(s) has/have failed, any of the
+many sealing o-rings have worn out, or electrical components have broken off the VANOS circuit
+boards. Servicing the VANOS should be done when the timing chains and guides are done since
+the adjustment units themselves are removed as part of that service. Our comprehensive S62
+timing chain and guide service includes replacement of all VANOS o-rings, oil pump locking clips,
+and a thorough cleaning. Optionally, the helical gears can be machined by Dr. VANOS to reduce
+clatter at idle. I had this done on my rebuilt 2002 S62, though the difference is negligible, and I
+generally don’t recommend the additional expense.
 
 &nbsp;<br/><br/>
 
-**Carbon Buildup (‘Secondary Air, Flow too Low’)**Ignore this, it’s so over-hyped in the community.  There are passages within the cylinder heads that inject air from the secondary air pump into the engine’s combustion chambers on startup to lean out (over supply oxygen) to make the exhaust hotter, which then warms the catalytic converters faster.  Warmer cats are more efficient cats (better emissions).  These passages in the heads are too narrow in their design, so they get plugged up with carbon deposits (all S62s burn a bit of oil, it’s the nature of a racing-derived V8 with limited friction piston rings).  When the passages start to get plugged up, it throws a code:  AA, 170, Secondary Air System, Flow too Low.  I have a [Shark tune](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2Fshark%2F) on my ECU to disable the AA code, so I have no warning light for it. There is no loss of performance or any other downside, except the annoyance of having the light on if you don’t have a tune to code that out. The 2001-2003 engines are a little better, as they drilled the passages wider, but they can still get clogged up.
+**Carbon Buildup** This is in reference to code AA ‘Secondary Air, Flow too Low’. There are
+passages within the cylinder heads that inject air from the secondary air pump into the engine’s
+combustion chambers on startup to lean out (over supply oxygen) to make the exhaust hotter, which
+then warms the catalytic converters faster. Warmer cats are more efficient cats (better emissions).
+These passages in the heads are too narrow in their design, so they get clogged up with carbon
+deposits. All S62s burn a bit of oil, it’s the nature of a racing-derived V8 with limited friction piston
+rings. When these passages start to get plugged up, it writes the code: AA, 170, Secondary Air
+System, Flow too Low. I have a Shark tune on my ECU to defeat the AA code, so I have no warning
+light. There is no loss of performance or any other downside, except the annoyance of having the
+light on if you don’t have a tune to code that out. The 2001-2003 engines were improved a bit as
+they drilled the passages wider- but they can still become restricted. As of 2024, CA prohibits tunes
+that modify the vehicle’s DME (engine ECU). This complicates a service plan to eliminate the fault.
 
 &nbsp;<br/><br/>
 
-**Lifter Tick** As a member of the E39 M5 Owner’s Group on FaceBook, I see at least one post a week about lifter tick.  It’s always somebody who hasn’t driven his or her M5 for a while.  They start up the car, and it makes a loud ticking sound at idle. Then they post a video, asking if it’s the rod bearings, timing chain guides, or VANOS.  If a noise that fits this ticking description appears after a long period of not being used, just drive the car.  The S62’s hydraulic lifters bleed out their oil pressure when they sit too long.  This causes them to tick until that oil pressure is restored.  To restore the oil pressure, drive the car easily until the oil reaches operating temperature.  Now, safely and legally drive the car hard.  Let it rev to 6,000 RPM+. Your valve lifters will quiet down in no time. When my 2002 S62 was rebuilt, those lifters didn’t operate for about 6-8 months. When we got the engine finished, we started it up.  It sounded horrible for the first hours it ran, idling and breaking in.  Once we drove the car, even very easily, they started quieting down.  By the time 30 miles were on the engine, the lifters were silent, and they haven’t made a peep since.
+**Lifter Tick** As a member of the E39 M5 Owner’s Group on FaceBook, I see at least one post a
+week about lifter tick. It’s always somebody who hasn’t driven his or her M5 for a while. They start
+up the car, and it makes a loud ticking sound at idle. Then comes the video post asking if it’s the rod
+bearings, timing chain guides, or VANOS. If a noise that fits this ticking description appears after a
+long period of the car not being used, just drive the car. The S62’s hydraulic valve lifters bleed out
+their oil pressure after a longer period of inactivity. This causes them to tick until that oil pressure is
+restored. To restore the oil pressure, drive the car easily until the oil reaches operating temperature.
+Then, safely and legally drive the car hard. Let it rev to 6,000 RPM+. Your valve lifters will quiet
+down in no time. When my 2002 S62 was rebuilt, those lifters didn’t operate for roughly 6-8 months.
+When the engine finished, it took about 20 miles of driving for the lifters to quiet down.
 
 &nbsp;<br/><br/>
 
-**Normal Stuff** The S62 is a complex engine.  It has a lot of electronic sensors that simply need to be replaced every so often. Sensors and electronic components like the Camshaft Position Sensors (CPS), oxygen sensors, spark plugs, and Mass Air Flow sensors (MAFs) will need to be replaced eventually.  I have done all of the aforementioned sensors in my car at some point during my ownership.  If you have some basic automotive experience and a decent set of sockets, you can replace most of these yourself.  Gaskets also fail over time, commonly the valve cover gaskets, oil pan gasket, front crank hub, VANOS solenoid, and the rear main seal on the S62.  Head gaskets seem to be pretty solid, thankfully.  Mine were done at 108,000 miles in 2008 just because the engine was apart for carbon cleaning (the BMW dealer talked my previous owner into the idea that carbon buildup was a very bad thing).  The head gaskets were not leaking then, nor at 192,000 miles.
+**Normal Stuff** The S62 is a complex engine. It features a lot of electronic sensors that simply need
+to refreshed if still original. Sensors and electronic components like the camshaft position sensors
+(CPS), oxygen sensors, spark plugs, oil level/temperature sensor, spark plugs, coil packs, and mass
+air flow meters (MAFs) will need to be replaced eventually. I have replaced all these items in my car
+at some point during my ownership. Gaskets also fail over time, commonly the valve cover gaskets,
+oil pan gasket, front crank/main seal, VANOS solenoid o-rings, and the rear main seal on the S62.
+Head gasket failure is very uncommon on engines that are not allowed to overheat.
 
 &nbsp;<br/><br/>
 
-So, is the S62 a reliable engine?  Absolutely, yes.  But, not unlike any other engine nearing the 200,000 mile mark, they have some key areas of concern.  Which is why I have a relatively recently rebuilt one in my 230,000+ mile E39 M5.  I’ve got new rod bearings, main bearings, timing chains, guides, tensioners, rebuilt VANOS, and countless other parts installed in this newer engine.  It was almost completely rebuilt, minus the piston rings (S62 has an alusil block and cannot be honed for new rings).  The compression on each cylinder was all in-spec as well.  A new S62 from BMW, installed, is around $30,000. Find an S62 that has been taken care of and looked after over the years, continue to do the same, and it should take you 250,000 or more largely trouble free miles. Happy motoring!
+Is the S62 a reliable engine? Absolutely. But, not unlike any other engine nearing the 200,000 mile
+mark, a service plan should be employed to ensure optimal performance and long-term longevity. At
+E39Source, we’re here to help you with that journey and recommend a specific plan for your unique
+vehicle. Please don’t hesitate to submit a [service request form](https://www.e39source.com/service/) if you’d like to get on our schedule or
+learn more!
 
 &nbsp;<br/><br/>
+
