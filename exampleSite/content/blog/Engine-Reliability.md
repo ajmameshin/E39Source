@@ -115,8 +115,7 @@ complaint basis only, a VANOS accumulator shutoff valve could have been installe
 momentary rattling noise after the engine is started on vehicles produced before 12/1/2000.
 Unfortunately, few M5 owners complained enough about this issue to get BMW to fully recall the
 earlier cars or upgrade the VANOS pressure accumulators. You can read this BMW service
-bulletin [here](https://www.dropbox.com/s/j4n8093162gk3fd/S62%20VANOS%20Rattle%202000.pdf?dl=0). This retrofit kit has been discontinued, and good used ones are rare. BMW also
-revised the diaphragm springs to make less noise for 2002 (9/2001+). Even the latest versions of
+bulletin [here](https://www.dropbox.com/s/j4n8093162gk3fd/S62%20VANOS%20Rattle%202000.pdf?dl=0). This retrofit kit has been discontinued, and good used ones are rare. BMW also revised the diaphragm springs to make less noise for 2002 (9/2001+). Even the latest versions of
 the S62’s VANOS have a rattle at idle. This gets worse as the VANOS system ages, and the splines
 that drive the system develop play. Thankfully there is no loss of performance or negative impact
 aside from the sound. The VANOS only needs attention if a solenoid(s) has/have failed, any of the
