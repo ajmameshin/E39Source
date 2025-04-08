@@ -87,22 +87,22 @@
 &lt;table class="%!s(&lt;nil>) text-left no-lines"
  &lt;thead class="%!s(&lt;nil>) text-left"
  &lt;tr>
- &lt;th style="text-align: left">&lt;/th>
- &lt;th style="text-align: left">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left"> &lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td class="centered-table-img"> &lt;/td>
+ &lt;td class="centered-table-img">&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;img src="../img/AboutPicRyan_resized.png" alt="img">&lt;/td>
- &lt;td style="text-align: left">Ryan Schultz&amp;rsquo;s love of cars started at a young age, thanks to the influence from his grandfather and father back in his home state of Ohio. In 2003, Ryan’s father Gary purchased a BMW 530i, and thus began his love for BMW and the E39 platform. In 2010, Ryan acquired his 2000 Silverstone M5 - his first car.  Unable to afford costly dealership service, he quickly realized he needed to be able to perform his own service and restoration work.  After earning his Business Management degree from Kent State University in 2016, he fulfilled his life-long dream of moving to San Diego to immerse himself in Southern-California car culture and establish E39Source as a brick-and-mortar operation dedicated to exceptional BMW service.  He is an active member in the BMW CCA and serves on the Board of Directors for the San Diego Region of the Ferrari Owners Club. Ryan’s pursuit of perfection and inordinately high attention to detail has become the very backbone of what E39Source is today.&lt;/td>
+ &lt;td class="centered-table-img">&lt;img src="../img/AboutPicRyan_resized.png" alt="img">&lt;/td>
+ &lt;td class="centered-table-img">Ryan Schultz&amp;rsquo;s love of cars started at a young age, thanks to the influence from his grandfather and father back in his home state of Ohio. In 2003, Ryan’s father Gary purchased a BMW 530i, and thus began his love for BMW and the E39 platform. In 2010, Ryan acquired his 2000 Silverstone M5 - his first car.  Unable to afford costly dealership service, he quickly realized he needed to be able to perform his own service and restoration work.  After earning his Business Management degree from Kent State University in 2016, he fulfilled his life-long dream of moving to San Diego to immerse himself in Southern-California car culture and establish E39Source as a brick-and-mortar operation dedicated to exceptional BMW service.  He is an active member in the BMW CCA and serves on the Board of Directors for the San Diego Region of the Ferrari Owners Club. Ryan’s pursuit of perfection and inordinately high attention to detail has become the very backbone of what E39Source is today.&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left"> &lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td class="centered-table-img"> &lt;/td>
+ &lt;td class="centered-table-img">&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -171,22 +171,22 @@
 &lt;table class="%!s(&lt;nil>) text-right no-lines"
  &lt;thead class="%!s(&lt;nil>) text-right"
  &lt;tr>
- &lt;th style="text-align: left">&lt;/th>
- &lt;th style="text-align: left">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left"> &lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td class="centered-table-img"> &lt;/td>
+ &lt;td class="centered-table-img">&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time.&lt;/td>
- &lt;td style="text-align: left">&lt;img src="../img/Alan_Lopes_Pic_resized-2.png" alt="img">&lt;/td>
+ &lt;td class="centered-table-img">Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time.&lt;/td>
+ &lt;td class="centered-table-img">&lt;img src="../img/Alan_Lopes_Pic_resized-2.png" alt="img">&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left"> &lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td class="centered-table-img"> &lt;/td>
+ &lt;td class="centered-table-img">&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -356,7 +356,7 @@ Other Brands and Options: &lt;a href="https://click.linksynergy.com/deeplink?id=
 &lt;li>&lt;a href="https://www.dropbox.com/s/p2tkgapcxck5ejy/BMW%20Navigation%20Guide.pdf?dl=1">BMW Navigation Systems Guide&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p> &lt;/p></description></item><item><title>E39 M5 Engine Reliability</title><link>https://www.e39source.com/blog/engine-reliability/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/engine-reliability/</guid><description>&lt;p>&lt;img src="../img/IMG_1030.jpeg" alt="E39 Reliability">&lt;/p>
-&lt;p>A common topic, S62 longevity. I could write a book about this, but I’ll try not to here. I’ve been an M5 owner for over 12 years and 85,000 miles now. Over the past 4 years, me and my term have serviced hundreds of E39 M5s. The E39 M5’s S62 V8 can last 300,000 miles on original components. The S62 can also fail at 40,000 miles. Thankfully, there seem to be many more instances of higher miles than lower. These are the primary weak points of the S62:&lt;/p></description></item><item><title>E39 Production Changes</title><link>https://www.e39source.com/blog/production-changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/production-changes/</guid><description>&lt;p>&lt;img src="../img/IMG_5648.png" alt="E39 Production Changes 1">&lt;/p>
+&lt;p>Over the past 6 years, my team and I have serviced hundreds of E39 M5s (and a few Z8s!) I’ve also owned my M5 for 15 years and over 90,000 miles now. The S62 V8 can last 300,000 miles on original components. It can also fail at 40,000 miles. Thankfully, there seem to be many more instances of higher miles than lower. These are the primary weak points of the S62:&lt;/p></description></item><item><title>E39 Production Changes</title><link>https://www.e39source.com/blog/production-changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/production-changes/</guid><description>&lt;p>&lt;img src="../img/IMG_5648.png" alt="E39 Production Changes 1">&lt;/p>
 &lt;p> &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;p>The BMW E39 5-series was produced from 09/1995-06/2003 for the 1996-2003 model years. In September of 2000, for the 2001 model year, BMW gave the E39 a facelift. This means that the E39 chassis was updated, renewed both technologically and aesthetically for a few more years of production. Even outside of the big 2001 facelift, things with the E39 changed each year. This article will summarize the changes BMW made to US-spec vehicles throughout the production run.&lt;/p></description></item><item><title>Fabien’s 2001 BMW Alpina B10 Introduction</title><link>https://www.e39source.com/blog/fabiens-2001-bmw-alpina-b10-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/fabiens-2001-bmw-alpina-b10-introduction/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2014/04/31632002_CP_photo.jpeg" alt="Alt text">&lt;/p>
 &lt;p>The BMW E39 Alpina B10 V8 is based on the 540i. Restoration is on-going on this car. It is claimed to produce 347BHP and 450 Nm (332 lb/ft) of toque for the 4.6 M62B46 V8. The Alpina documentation specific to this car states power output to be 355BHP and 480 Nm (354 lb/ft). This example is from 2001, with extended Alpina leather, and the 19″ classic Alpina wheels.&lt;/p></description></item><item><title>Hassan’s 2002 BMW 530iA Introduction</title><link>https://www.e39source.com/blog/hassans-2002-bmw-530ia-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/hassans-2002-bmw-530ia-introduction/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/IMG_0962.jpg" alt="Alt text">&lt;/p>
