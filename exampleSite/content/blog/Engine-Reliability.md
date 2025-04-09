@@ -10,7 +10,7 @@ banner = "img/IMG_1030.jpeg"
 
 ![E39 Reliability](../img/IMG_1030.jpeg)
 
-Over the past 6 years, my team and I have serviced hundreds of E39 M5s (and a few Z8s!) I’ve also owned my M5 for 15 years and over 90,000 miles now. The S62 V8 can last 300,000 miles on original components. It can also fail at 40,000 miles. Thankfully, there seem to be many more instances of higher miles than lower. These are the primary weak points of the S62:
+Over the past six years, my team and I have serviced hundreds of E39 M5s (and a few Z8s!) I’ve also owned my M5 for 15 years and over 90,000 miles now. The S62 V8 can last 300,000 miles on original components. It can also fail at 40,000 miles. Thankfully, there seem to be many more instances of higher miles than lower. These are the primary weak points of the S62:
 
 &nbsp;<br/><br/>
 

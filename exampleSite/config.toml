@@ -16,7 +16,6 @@ summaryLength = 70
 # Define the number of posts per page
 [pagination]
 pagerSize = 10
-ignoreLogs = ['warning-goldmark-raw-html']
 
 # not pluralize title pages by default
 pluralizelisttitles = false
