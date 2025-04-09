@@ -153,7 +153,7 @@ their oil pressure after a longer period of inactivity. This causes them to tick
 restored. To restore the oil pressure, drive the car easily until the oil reaches operating temperature.
 Then, safely and legally drive the car hard. Let it rev to 6,000 RPM+. Your valve lifters will quiet
 down in no time. When my 2002 S62 was rebuilt, those lifters didn’t operate for roughly 6-8 months.
-When the engine finished, it took about 20 miles of driving for the lifters to quiet down.
+When the engine finished, it took about 20 miles of driving for the lifters to quiet down.   
 
 &nbsp;<br/><br/>
 
