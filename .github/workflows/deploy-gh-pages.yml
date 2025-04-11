@@ -1,4 +1,8 @@
 name: Deploy Github pages
+
+permissions:
+  contents: write
+
 on:
   push:
     branches:
