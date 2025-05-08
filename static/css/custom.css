@@ -12,6 +12,21 @@
   min-height: 230px;
 }
 
+/* Image sizing for about-us page */
+@media (max-width: 768px) {
+  .centered-table-img img {
+    max-width: 750px;
+    height: auto;
+  }
+}
+@media (min-width: 769px) {
+  .centered-table-img img {
+    max-width: 100%;
+    width: 500%;
+    height: auto;
+  }
+}
+
 .map-container {
   position: relative;
   padding-bottom: 36%; /* This controls the aspect ratio, you can adjust as needed */

@@ -4,21 +4,6 @@ description = "About Us Page"
 keywords = ["BMW", "About Us", "shop", "fix", "Repair", "E39", "M5"]
 +++
 
-<style>
-@media (max-width: 768px) {
-  .centered-table-img img {
-    max-width: 150px;
-    height: auto;
-  }
-}
-@media (min-width: 769px) {
-  .centered-table-img img {
-    max-width: 100%;
-    height: auto;
-  }
-}
-</style>
-
 {{< bootstrap-table "someclassname" >}}
 |||
 |--------|-------|
