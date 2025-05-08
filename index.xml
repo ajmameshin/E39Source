@@ -188,8 +188,92 @@
  &lt;td class="centered-table-img">&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td class="centered-table-img">Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17.  Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine.  The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream!  Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time.&lt;/td>
+ &lt;td class="centered-table-img">Gary Schultz is a co-owner of E39Source and has been a car enthusiast since childhood. His love of cars was passed down from his father who enjoyed working on his American-made vehicles. Gary grew up near Akron, Ohio and has a BA degree in Economics from Kent State University. After graduating he worked for Progressive Corporation headquartered in Cleveland, Ohio as an IT Operations Manager. After nearly 30 years at Progressive Gary decided to move to a better climate and lifestyle in Southern California where he worked for HP in Rancho Bernardo for 10 years before expanding E39Source, LLC in Escondido with Ryan in 2019. Gary owns two BMW M5s, a manual-converted E60 and an F10 as well as a Ferrari 355 F1 Spider. Both Gary and Ryan are active participants in the San Diego chapter of the Ferrari Owner Club where they sit on the Board of Directors and assist in event planning and club operations.&lt;/td>
+ &lt;td class="centered-table-img">&lt;img src="../img/MEWP1342_resized_resized.png" alt="img">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td class="centered-table-img"> &lt;/td>
+ &lt;td class="centered-table-img">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+&lt;/div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;style>
+.centered-table-img img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.no-lines,
+.no-lines th,
+.no-lines td,
+.no-lines tr {
+ border: none !important;
+ border-collapse: collapse !important;
+}
+ 
+.no-lines td:first-child {
+ padding-right: 20px; 
+}
+
+ 
+@media (max-width: 768px) {
+ .table-responsive .table,
+ .table-responsive .table th,
+ .table-responsive .table td,
+ .table-responsive .table tr {
+ border: none !important; 
+ border-collapse: collapse !important; 
+ font-size: 0.8em; 
+ padding: 8px; 
+ }
+ 
+ .centered-table-img img {
+ max-width: 150px; 
+ height: auto; 
+ } 
+}
+&lt;/style>
+
+
+
+
+
+&lt;div class="table-responsive">
+&lt;table class="%!s(&lt;nil>) text-right no-lines"
+ &lt;thead class="%!s(&lt;nil>) text-right"
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td class="centered-table-img"> &lt;/td>
+ &lt;td class="centered-table-img">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td class="centered-table-img">&lt;img src="../img/Alan_Lopes_Pic_resized-2.png" alt="img">&lt;/td>
+ &lt;td class="centered-table-img">Alan Lopes is the lead technician at E39Source. He is a true car enthusiast and a huge BMW fan who has been working on cars since the age of 17. Born and raised in Brooklyn, New York, he moved to California in 2017 to escape the city life and embrace the palm trees and sunshine. The vibrant car culture in California was another compelling reason for his relocation, and he is now living the dream! Alan currently owns an early model BMW E30 5-speed, which he acquired from the original owner here in California and continues to restore in his spare time.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td class="centered-table-img"> &lt;/td>
@@ -219,13 +303,13 @@
 &lt;p> &lt;br/>&lt;br/>&lt;/p>
 &lt;p>Depending on which BMW model you own, you may have a ‘clown nose’ red light on your rear-view mirror. When you lock your car, this light should flash, every ~3 seconds or so. If the car thinks there is a fault in the alarm system (hood sensor failure) the light will flash rapidly, maybe 2 times per second or more immediately after locking.&lt;/p></description></item><item><title>BMW Answers Tesla with a “Green” Supercar</title><link>https://www.e39source.com/blog/bmw-answers-tesla-with-a-green-supercar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/bmw-answers-tesla-with-a-green-supercar/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2014/11/c19b11e1d14610ea10e69d8b8a4da306.jpg" alt="Alt text">&lt;/p>
 &lt;p>Up till now, Tesla has had the market for high-end electric cars pretty much to itself. But that first-mover advantage is ending. BMW has just rolled out the i8, a plug-in supercar that will test just how much big spenders are willing to pay for a racer with a green badge. This real-life Batmobile starts at about $140,000, but availability is limited for now, and some sellers are asking well over $200,000 for the car.BMW says production should ramp up by next year. The i8 isn’t a full electric like the Tesla Model S, but a hybrid that has both an electric motor and a three-cylinder, twin-turbo gasoline engine.&lt;/p></description></item><item><title>BMW at the 2013 Detroit Auto Show</title><link>https://www.e39source.com/blog/bmw-at-the-2013-detroit-auto-show/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/bmw-at-the-2013-detroit-auto-show/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/2014-BMW-4-Series-Coupe-Concept-NAIAS-Main.jpg" alt="Alt text">&lt;/p>
-&lt;p>I’ve attended nearly ten consecutive showings of the Cleveland Auto Show, held at the International Exposition Center in Cleveland, Ohio. Only last year did we decide to hit the Detroit show too, known as NAIAS, or North American International Auto Show. We took my Dad’s 2008 X530is, and it ended up being a really nice show. BMW showcased the F30 3-series in each of the three trims, the F10 M5, and i3 and i8 concept vehicles.&lt;/p></description></item><item><title>BMW Depreciation: E30 M3, E36 M3, E39 M5. Andrew’s Thoughts.</title><link>https://www.e39source.com/blog/bmw-depreciation-e30-m3-e36-m3-e39-m5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/bmw-depreciation-e30-m3-e36-m3-e39-m5/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/1987-bmw-e30-m3-and-1996-e36-m3-photo-365393-s-1280x782-1.jpg" alt="Alt text">&lt;/p>
+&lt;p>I’ve attended nearly ten consecutive showings of the Cleveland Auto Show, held at the International Exposition Center in Cleveland, Ohio. Only last year did we decide to hit the Detroit show too, known as NAIAS, or North American International Auto Show. We took my Dad’s 2008 X530is, and it ended up being a really nice show. BMW showcased the F30 3-series in each of the three trims, the F10 M5, and i3 and i8 concept vehicles.&lt;/p></description></item><item><title>BMW Depreciation: E30 M3, E36 M3, E39 M5. Andrew’s Thoughts.</title><link>https://www.e39source.com/blog/bmw-depreciation-e30-m3-e36-m3-e39-m5.-andrews-thoughts./</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/bmw-depreciation-e30-m3-e36-m3-e39-m5.-andrews-thoughts./</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/1987-bmw-e30-m3-and-1996-e36-m3-photo-365393-s-1280x782-1.jpg" alt="Alt text">&lt;/p>
 &lt;p>As an automotive enthusiast, I am never content with the M5. There will always be a car that is more comfortable, there will always be a car more reliable, there will always be a car that is faster, and there will always be a car that is just better. However, at the price point E39 M5’s are at, it is a great do-it-all car. And that is why I keep it around.&lt;/p></description></item><item><title>BMW E36: Bi-Xenon Headlight Retrofit</title><link>https://www.e39source.com/blog/bmw-e36-bi-xenon-headlight-retrofit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/bmw-e36-bi-xenon-headlight-retrofit/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2016/06/WP_20160504_005.jpg" alt="Alt text">&lt;/p>
 &lt;p>How do you get high intensity lighting for under $200 $50? Easy, peasy, lemon squeeze: all you need to do is retrofit your stock plastic lens E36 headlights with bi-xenon projectors. With some modification from a Dremel, razor blade, and a pry tool, you too can have HID lighting without resorting to a eat-ramen-every-night college-esque budget.&lt;/p>
 &lt;p> &lt;br/>&lt;br/>&lt;/p>
 &lt;p>&lt;strong>DIY on Andrew’s Channel&lt;/strong>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/X3sn2JmZlro?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/X3sn2JmZlro?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
  &lt;/div>
 
 &lt;p> &lt;br/>&lt;br/>&lt;/p></description></item><item><title>BMW E39 528i: Cooling System Bleeding Insight</title><link>https://www.e39source.com/blog/cooling-system-bleeding-insight/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/cooling-system-bleeding-insight/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/unnamed.jpg" alt="Alt text">&lt;/p>
@@ -394,7 +478,7 @@ Right Corner Sunshade: &lt;a href="https://click.linksynergy.com/deeplink?id=1vz
 &lt;p>&lt;strong>Time Required:&lt;/strong> Depends on how you want to do it!&lt;/p>
 &lt;p> &lt;br/>&lt;br/>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VZ0vzL-b28w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VZ0vzL-b28w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
  &lt;/div>
 
 &lt;p> &lt;br/>&lt;br/>&lt;/p></description></item><item><title>BMW Wheel Center Caps</title><link>https://www.e39source.com/blog/wheel-center-caps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/wheel-center-caps/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2020/04/IMG_0424-1-1024x668.jpg" alt="Alt text">&lt;/p>
@@ -587,7 +671,7 @@ Right Corner Sunshade: &lt;a href="https://click.linksynergy.com/deeplink?id=1vz
 &lt;p>Andrew Chow, &lt;a href="http://e39source.com/archives/364">2000 M5 (sold)&lt;/a>&lt;/p>
 &lt;p> &lt;br/>&lt;br/>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Yup5pvC5BHs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Yup5pvC5BHs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
  &lt;/div>
 
 &lt;p> &lt;br/>&lt;br/>&lt;/p></description></item><item><title>Tanvir’s 2003 BMW M5 Information</title><link>https://www.e39source.com/blog/tanvirs-2003-bmw-m5-information/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.e39source.com/blog/tanvirs-2003-bmw-m5-information/</guid><description>&lt;p>&lt;img src="https://e39source.com/wp-content/uploads/2013/07/My-M3-Close-front-after..jpg" alt="Alt text">&lt;/p>
