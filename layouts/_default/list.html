@@ -27,18 +27,18 @@
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
+                                <div class="col-md-3">
+                                  <div class="image article-thumbnail">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="">
+                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" style="max-width: 187px; max-height: 125px; object-fit: cover;">
                                           {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="" style="max-width: 187px; max-height: 125px; object-fit: cover;">
                                           {{ end }}
                                       </a>
                                   </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-9">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
