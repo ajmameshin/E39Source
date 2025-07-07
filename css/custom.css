@@ -1,0 +1,31 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* Image sizing for about-us page */
+@media (max-width: 768px) {
+    .centered-table-img img {
+        max-width: 750px;
+        height: auto;
+    }
+}
+@media (min-width: 769px) {
+    .centered-table-img img {
+        max-width: 100%;
+        width: 500%;
+        height: auto;
+    }
+}
