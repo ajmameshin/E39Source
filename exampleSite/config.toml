@@ -148,8 +148,8 @@ pluralizelisttitles = false
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/f/mjvnvgrq"
-    contact_form_ajax = false 
+    formspreeAction = "https://formspree.io/f/mjvnvgrq"
+    contactFormAjax = false 
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
