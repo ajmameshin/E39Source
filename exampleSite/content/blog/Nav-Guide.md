@@ -146,14 +146,14 @@ Here are the latest versions for each computer:
 **MKII**: SW 2-1/81 (V21)  (not sure where to obtain, Google around or check [forums](http://www.m5board.com/vbulletin/e39-m5-e52-z8-discussion/)
 )
 
-**MKIII**:  [SW 3-1/63 (V23)](http://e39source.com/NavFiles/BMW%20MKIII%20V23%20M2F1.zip)
- and [Key CD](http://e39source.com/NavFiles/BMW%20MKIII%20Key%20CD.zip)
+**MKIII**:  [SW 3-1/63 (V23)](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1)
+ and [Key CD](https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1)
  (if needed).  More information below.
 
-**MKIV**:  [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Stock%20Version.iso)
+**MKIV**:  [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1)
  (Stock BMW software)
 
-**MKIV**:  [SW 4-1/00 (V32)](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Modified%20Version.zip)
+**MKIV**:  [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1)
  (Modified version:  ///M logo splash screen, night mode color 2, speed camera alerts, warning bypass)
 
 ![Nav Guide Image 7](../img/IMG_4678.jpeg)
@@ -185,16 +185,16 @@ Chart shows revision history of MKI-MKIV computer software.  Blue bolded version
 
 **UPDATING NAVIGATION SOFTWARE**
 
-**MKIII:**  The latest [V23](http://e39source.com/NavFiles/BMW%20MKIII%20V23%20M2F1.zip)
+**MKIII:**  The latest [V23](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1)
  navigation file downloads as a .zip file.  Extract the .zip file using [WinRAR](https://www.rarlab.com/download.htm)
-.  Now use [IMGBurn](https://ninite.com/imgburn/)
- to burn the .cue file to a CD, as the MKIII computer can’t read DVDs like the MKIV.  Use the slowest burn speed possible, and ‘verify’ the burn at the end with IMGBurn.  You could also need what is known as a [Key CD](http://e39source.com/NavFiles/BMW%20MKIII%20Key%20CD.zip)
+.  Now use [IMGBurn](https://www.imgburn.com/index.php?act=download)
+ to burn the .cue file to a CD, as the MKIII computer can’t read DVDs like the MKIV.  Use the slowest burn speed possible, and ‘verify’ the burn at the end with IMGBurn.  You could also need what is known as a [Key CD](https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1)
  as well.  This is inserted for a moment right after the software update completes.  For the Key CD, you will need to burn the .img file to a CD in IMGBurn.
 
-**MKIV:**  You can choose between the [stock version](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Stock%20Version.iso)
- and the [modified version](http://e39source.com/NavFiles/BMW%20MKIV%20V32%20-%20Modified%20Version.zip)
+**MKIV:**  You can choose between the [stock version](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1)
+ and the [modified version](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1)
  of the latest V32 software.  The modified version eliminates the warning with the ‘accept’ screen, gives a night mode in Color 2 in settings, enables speed cameras (if such data is written to your navigation CD/DVD), and enables the ///M splash boot screen. Once you have downloaded the file you wish to use, extract the file using [WinRAR](https://www.rarlab.com/download.htm)
-.  Now use [IMGBurn](https://ninite.com/imgburn/)
+.  Now use [IMGBurn](https://www.imgburn.com/index.php?act=download)
  to burn the .cue file to a CD (yes, MKIV computers can read CDs in addition to DVDs).  There is no reason to waste a 4.7GB DVD when you only need a few hundred MBs.  Use the slowest burn speed possible, and ‘verify’ the burn at the end with IMGBurn.  Follow the last embedded video at the end of this article for visual instructions.
 
 
@@ -211,8 +211,8 @@ Small delay (maybe 30 seconds) then update screen with progress bar.
 8. Confirm your update by pressing “OK” with the right button.
 9. The system will now reboot with your new software.
 
-E39Source also hosts [NavTweak](http://e39source.com/NavFiles/NavTweak.zip)
- and [NavSpeak](http://e39source.com/NavFiles/NavSpeak.zip)
+E39Source also hosts [NavTweak](https://www.dropbox.com/scl/fi/3177ez8btb3uab6yma31z/NavTweak.zip?rlkey=4j0a9k1abf2lyfvdtkfs0i155&dl=1)
+ and [NavSpeak](https://www.dropbox.com/scl/fi/iyiyrwk3bhpte02gnu9t7/NavSpeak.zip?rlkey=1psr8oon9w1mtobq7qjigxetz&dl=1)
 .  If you know what they are and how to use them, feel free to download them and play.  We assume no responsibility for any issues you cause/create with your software.  Note that these two files are not necessary at all to update/upgrade your systems.  They are available, however, for users to customize and build your own software versions if you wish.
 
 **PERSPECTIVE MODE**
