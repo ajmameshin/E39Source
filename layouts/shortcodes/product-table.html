@@ -56,7 +56,7 @@
 
 <table class="{{ $table_class }}">
   {{ $previous := 0 }}
-  {{ range $index, $element := .Site.Data.products }}
+  {{ range $index, $element := hugo.Data.products }}
     {{ if eq (mod $index 2) 0 }}
       {{ $previous = $element }}
     {{ else }}
