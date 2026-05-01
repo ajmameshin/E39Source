@@ -83,13 +83,13 @@ Removing the existing computer involves depressing four metal clips (two on each
 
 **MKI to MKII**
 
-Required adapter cable part number [61128377432](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2F61128377432%2FES163673%2F)
+Required adapter cable part number <a href="https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2F61128377432%2FES163673%2F">61128377432</a>
 .
 
 **MKI to MKIII / MKIV**
 
-Required E38 adapter cable part number [61126907840](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2F61126907840%2FES162539%2F)
- or E39 adapter cable part number [61126915132](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2F61126915132%2FES162657%2F)
+Required E38 adapter cable part number <a href="https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2F61126907840%2FES162539%2F">61126907840</a>
+ or E39 adapter cable part number <a href="https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=http%3A%2F%2Fwww.ecstuning.com%2FSearch%2FSiteSearch%2F61126915132%2FES162657%2F">61126915132</a>
 .
 
 **MKII to MKIII / MKIV**
@@ -102,7 +102,7 @@ Completely plug and play, there are no modifications required.  Blue to blue, pu
 
 **Touring E39**
 
-On a touring E39, you’ll need a GPS antenna extension cable to bypass the trimble when upgrading to MKIII or MKIV computer.  This part number is [61128377434](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2Fcable%2F61128377434%2F)
+On a touring E39, you’ll need a GPS antenna extension cable to bypass the trimble when upgrading to MKIII or MKIV computer.  This part number is <a href="https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2Fcable%2F61128377434%2F">61128377434</a>
 .
 
 **NAVIGATION DISPLAYS**
@@ -126,7 +126,7 @@ Note that all navigation computers are compatible with both the 4:3 and 16:9 dis
 3. Looking on the sides of the 4:3 display, there are spring-loaded metal levers that must be pushed up to allow the old trim to pull away from the monitor.
 4. Unscrew the four screws that hold the 4:3 unit into the car, top-left, top-right, bottom-left, and bottom-center.
 5. The display should now pull out of the car, held in only by the wiring.  There are two large connectors, one white, and one blue.  One of these supplies power and speaker connectivity, while the other supplies data from the trunk-mounted navigation computer.  Disconnect the cables by rotating the lever that pushes the connector away from the computer.
-6. Installation is reverse for the 16:9 display.  The display bezel just pushes on and clips into place.  The 16:9 display bezel is part number [65528385451](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2Fnavigation-screen-frame%2F65528385451%2F)
+6. Installation is reverse for the 16:9 display.  The display bezel just pushes on and clips into place.  The 16:9 display bezel is part number <a href="https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2Fnavigation-screen-frame%2F65528385451%2F">65528385451</a>
 .
 
 **NAVIGATION SOFTWARE**
@@ -146,14 +146,14 @@ Here are the latest versions for each computer:
 **MKII**: SW 2-1/81 (V21)  (not sure where to obtain, Google around or check [forums](http://www.m5board.com/vbulletin/e39-m5-e52-z8-discussion/)
 )
 
-**MKIII**:  [SW 3-1/63 (V23)](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1)
- and [Key CD](https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1)
+**MKIII**:  <a href="https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1">SW 3-1/63 (V23)</a>
+ and <a href="https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1">Key CD</a>
  (if needed).  More information below.
 
-**MKIV**:  [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1)
+**MKIV**:  <a href="https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1">SW 4-1/00 (V32)</a>
  (Stock BMW software)
 
-**MKIV**:  [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1)
+**MKIV**:  <a href="https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1">SW 4-1/00 (V32)</a>
  (Modified version:  ///M logo splash screen, night mode color 2, speed camera alerts, warning bypass)
 
 ![Nav Guide Image 7](../img/IMG_4678.jpeg)
@@ -185,14 +185,14 @@ Chart shows revision history of MKI-MKIV computer software.  Blue bolded version
 
 **UPDATING NAVIGATION SOFTWARE**
 
-**MKIII:**  The latest [V23](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1)
+**MKIII:**  The latest <a href="https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1">V23</a>
  navigation file downloads as a .zip file.  Extract the .zip file using [WinRAR](https://www.rarlab.com/download.htm)
 .  Now use [IMGBurn](https://www.imgburn.com/index.php?act=download)
- to burn the .cue file to a CD, as the MKIII computer can’t read DVDs like the MKIV.  Use the slowest burn speed possible, and ‘verify’ the burn at the end with IMGBurn.  You could also need what is known as a [Key CD](https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1)
+ to burn the .cue file to a CD, as the MKIII computer can’t read DVDs like the MKIV.  Use the slowest burn speed possible, and ‘verify’ the burn at the end with IMGBurn.  You could also need what is known as a <a href="https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1">Key CD</a>
  as well.  This is inserted for a moment right after the software update completes.  For the Key CD, you will need to burn the .img file to a CD in IMGBurn.
 
-**MKIV:**  You can choose between the [stock version](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1)
- and the [modified version](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1)
+**MKIV:**  You can choose between the <a href="https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1">stock version</a>
+ and the <a href="https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1">modified version</a>
  of the latest V32 software.  The modified version eliminates the warning with the ‘accept’ screen, gives a night mode in Color 2 in settings, enables speed cameras (if such data is written to your navigation CD/DVD), and enables the ///M splash boot screen. Once you have downloaded the file you wish to use, extract the file using [WinRAR](https://www.rarlab.com/download.htm)
 .  Now use [IMGBurn](https://www.imgburn.com/index.php?act=download)
  to burn the .cue file to a CD (yes, MKIV computers can read CDs in addition to DVDs).  There is no reason to waste a 4.7GB DVD when you only need a few hundred MBs.  Use the slowest burn speed possible, and ‘verify’ the burn at the end with IMGBurn.  Follow the last embedded video at the end of this article for visual instructions.
@@ -211,8 +211,8 @@ Small delay (maybe 30 seconds) then update screen with progress bar.
 8. Confirm your update by pressing “OK” with the right button.
 9. The system will now reboot with your new software.
 
-E39Source also hosts [NavTweak](https://www.dropbox.com/scl/fi/3177ez8btb3uab6yma31z/NavTweak.zip?rlkey=4j0a9k1abf2lyfvdtkfs0i155&dl=1)
- and [NavSpeak](https://www.dropbox.com/scl/fi/iyiyrwk3bhpte02gnu9t7/NavSpeak.zip?rlkey=1psr8oon9w1mtobq7qjigxetz&dl=1)
+E39Source also hosts <a href="https://www.dropbox.com/scl/fi/3177ez8btb3uab6yma31z/NavTweak.zip?rlkey=4j0a9k1abf2lyfvdtkfs0i155&dl=1">NavTweak</a>
+ and <a href="https://www.dropbox.com/scl/fi/iyiyrwk3bhpte02gnu9t7/NavSpeak.zip?rlkey=1psr8oon9w1mtobq7qjigxetz&dl=1">NavSpeak</a>
 .  If you know what they are and how to use them, feel free to download them and play.  We assume no responsibility for any issues you cause/create with your software.  Note that these two files are not necessary at all to update/upgrade your systems.  They are available, however, for users to customize and build your own software versions if you wish.
 
 **PERSPECTIVE MODE**
@@ -244,7 +244,7 @@ Perspective map view enabled on MKIV computer running V32.
 
 **NAVIGATION MAPS**
 
-The software that is installed on the computer is purely the operating system.  It has nothing to do with the maps and POI (points of interest) that your computer loads.  This information comes from map CD/DVDs that are in the computer in the trunk.  BMW sold updated map discs every year through 2015, with updates to road networks and POIs. For years, I used the $15 Ebay disks without problems. They are ‘bootleg’ disks that are not made using high quality DVDs, or perhaps even clean data. These disk are known to, eventually, cause failure of the laser inside of your navigation computer. Because of this, I recommend using a Genuine BMW DVD. The latest North American DVD kit (2015) is part number [65902365699](https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2F2015-1-navigation-dvd%2F65902365699%2F)
+The software that is installed on the computer is purely the operating system.  It has nothing to do with the maps and POI (points of interest) that your computer loads.  This information comes from map CD/DVDs that are in the computer in the trunk.  BMW sold updated map discs every year through 2015, with updates to road networks and POIs. For years, I used the $15 Ebay disks without problems. They are ‘bootleg’ disks that are not made using high quality DVDs, or perhaps even clean data. These disk are known to, eventually, cause failure of the laser inside of your navigation computer. Because of this, I recommend using a Genuine BMW DVD. The latest North American DVD kit (2015) is part number <a href="https://click.linksynergy.com/deeplink?id=1vz0CwG/oc8&mid=43304&murl=https%3A%2F%2Fwww.ecstuning.com%2Fb-genuine-bmw-parts%2F2015-1-navigation-dvd%2F65902365699%2F">65902365699</a>
 . The choice is yours, but I’ve seen the copied discs take down many otherwise working navigation computers. DVDs are now broken up in two parts, Eastern US/Canada, and Western US/Canada/Mexico.  Note that discs labeled **“High”** are for trunk-loading systems while discs labeled **“Professional”** are for in-dash iDrive computers, and won’t work on this generation of BMWs.  They are not interchangeable.
 
 **Please read this article and watch these videos in full before commenting with questions.  I have gone out of my way to make this article very thorough and comprehensive.** 

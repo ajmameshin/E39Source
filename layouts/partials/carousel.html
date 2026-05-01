@@ -1,6 +1,6 @@
 {{ if default true .Site.Params.CarouselHomepage.enable }}
-{{ if isset hugo.Data "carousel" }}
-{{ if gt (len hugo.Data.carousel) 0 }}
+{{ if isset site.Data "carousel" }}
+{{ if gt (len site.Data.carousel) 0 }}
 <section class="bar background-image-fixed-4 no-mb color-white text-center">
     <div class="dark-mask"></div>
     
