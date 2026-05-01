@@ -1,5 +1,6 @@
 +++
 title = "BMW E39: Navigation System Upgrades: (Computer, Display, Software, Maps)"
+slug = "nav-guide"
 tags = ["BMW, E39, Navigation, Software, Upgrade"]
 categories = ["E39 M5 BMW"]
 banner = "img/IMG_1.jpg"
