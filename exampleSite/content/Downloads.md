@@ -13,19 +13,20 @@ keywords = ["FAQ","How do I","questions","what if"]
  &nbsp; 
 [Link to BMW navigation article](https://www.e39source.com/blog/nav-guide/)
 
-* MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1) (Stock BMW software)
+* MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/390kj9a8h5mptluaj2tsw/BMW-MKIV-V32-Stock.iso?rlkey=mpfutmy2t41n0o4l6ehis429v&dl=1)
 * MKIV: [SW 4-1/00 (V32)](https://www.dropbox.com/scl/fi/9upwz9ibhfo5jljufpsi9/BMW-MKIV-V32-Modified.zip?rlkey=5cq80yspdplwutoceun9laoa8&dl=1) (Modified version: ///M logo splash, night mode color 2, speed camera alerts, warning auto-accept)
 * MKIII: [SW 3-1/65 (V23)](https://www.dropbox.com/scl/fi/qjfekv1j07ljgbzw2pksm/BMW-MKIII-V23-M2F1.zip?rlkey=28k1cgj6eimjdwu49h3jzcjk8&dl=1) (Modified version: ///M logo splash, warning auto-accept)
 * MKIII: [Key CD](https://www.dropbox.com/scl/fi/9pd3zt9zw4f63pgslv98j/BMW-MKIII-Key-CD.zip?rlkey=c85ui85m5ueolfn698ry52cs1&dl=1) (if needed)
 * [NavTweak](https://www.dropbox.com/scl/fi/3177ez8btb3uab6yma31z/NavTweak.zip?rlkey=4j0a9k1abf2lyfvdtkfs0i155&dl=1)
 * [NavSpeak](https://www.dropbox.com/scl/fi/iyiyrwk3bhpte02gnu9t7/NavSpeak.zip?rlkey=1psr8oon9w1mtobq7qjigxetz&dl=1)
-* [Navigation Software Update Instructions](https://www.dropbox.com/s/6zug7m8sj8pjxpl/Navigation%20Update%20Instructions%20Public.pdf?dl=1)
-* [BMW MKII Navigation Owners Manual](https://www.dropbox.com/s/xcb8scmkf90ljd7/BMW%20MKII%20Navigation%20Owners%20Manual.pdf?dl=1)
-* [BMW MKIV Navigation Owners Manual](https://www.dropbox.com/s/01i2jhrb8tmpcbz/BMW%20MKIV%20Navigation%20Owners%20Manual.pdf?dl=1)
+* [Navigation Software Update Instructions](https://www.dropbox.com/scl/fi/iyiyrwk3bhpte02gnu9t7/NavSpeak.zip?rlkey=1psr8oon9w1mtobq7qjigxetz&dl=1)
+* [BMW MKII Navigation Owner’s Manual](https://www.dropbox.com/scl/fi/5tttl2j98w9svszyogjc3/Navigation-Update-Instructions-Public.pdf?rlkey=usg0086k049ha9iym115602pc&dl=1)
+* [BMW MKIV Navigation Owner’s Manual](hhttps://www.dropbox.com/scl/fi/xn46plhd0fi59gcpvonlk/BMW-Navigation-Guide.pdf?rlkey=5m43rl8jemj8sz2wxh23kn2kh&dl=1)
 * [BMW Navigation Systems Guide](https://www.dropbox.com/s/p2tkgapcxck5ejy/BMW%20Navigation%20Guide.pdf?dl=1)
+* [BMW Navigation Software Version History](https://www.dropbox.com/scl/fi/x02jyk6qw7h5fo5peapk7/NAV-SOFTWARE-VERSIONS.xlsx?rlkey=r9ulrk7mau87tjt27guj46okt&dl=1)
 
  &nbsp;  
- #### INFORMATIVE & TECHNICAL RESOURCES:   
+ ###x# INFORMATIVE & TECHNICAL RESOURCES:   
 
 #### BMW E39:
 * [E39 M5 Factory Production Statistics](https://www.dropbox.com/s/p451eb6a7sjyv2l/E39%20M5%20FACTORY%20STATS.xlsx?dl=1)
