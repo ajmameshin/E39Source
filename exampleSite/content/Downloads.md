@@ -69,7 +69,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 #### BMW E60:
 * [2006 E60 M5 Owner’s Manual](https://www.dropbox.com/s/vp1husp8pavohlh/2006%20M5%20Owners%20Manual%20US.pdf?dl=1)
-* [BMW E60 M5 Manual Transmission Conversion](https://www.dropbox.com/scl/fi/m83gcy7ylcsuacbc6rkm1/E60-M5-2MA-Conversion-Public.xlsx?rlkey=xmfyteuou8zpl8xzx61pyb1c6&dl=1)
+* [BMW E60 M5 Manual Transmission Conversion](https://www.dropbox.com/scl/fi/m83gcy7ylcsuacbc6rkm1/E60-M5-2MA-Conversion-Public.xlsx?rlkey=xmfyteuou8zpl8xzx61pyb1c6&dl=1) _Note: We no longer support this guide.  We do however offer the transmission conversion service!  Please email us at ryan@e39source.com for more information._
 * [BMW E60 M5 Complete Vehicle Specs](https://www.dropbox.com/s/g035k143unwmzk4/E60%20M5%20Complete%20Vehicle.pdf?dl=1)
 * [BMW E60 M5 Product Information (2006)](https://www.dropbox.com/s/76x7ktr42f2bo3q/E60%20M5%20Product%20Information.pdf?dl=1)
 * [BMW E60 M5 Complete Vehicle, After-Sales Training](https://www.dropbox.com/s/hwxrpc3o21ct6m4/E60%20M5%20Complete%20Vehicle%20Aftersales%20Training.pdf?dl=1)
@@ -85,7 +85,6 @@ keywords = ["FAQ","How do I","questions","what if"]
 * [BMW E60/E61 LCI Lighting Retrofit](https://www.dropbox.com/s/p9q6m0xx7nef9oo/BMW%20E60%3AE61%20LCI%20Conversion.pdf?dl=1)
 * [BMW E60 Passenger Seat Occupancy Mat Bypass Installation Instructions](https://www.dropbox.com/s/bx5bse197qzkk92/E60%20Front%20Passenger%20Seat%20Occupancy%20Sensor%20Bypass.pdf?dl=1)
 
-###### We no longer support this guide.  We do however offer the transmission conversion service!  Please email us at ryan@e39source.com for more information.
 
 #### BMW F10:
 * [BMW F10 M5 Complete Vehicle Specs](https://www.dropbox.com/s/xyknda6t103tpkv/F10%20M5%20Complete%20Vehicle.pdf?dl=1)
