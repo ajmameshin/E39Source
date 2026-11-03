@@ -58,7 +58,7 @@ This is the problem.  All of those codes that I listed above, can be controlled 
 
 **Replacement**
 
-When buying the replacement sensors, you will likely be confronted with several different brands. Dealers will always push the Genuine BMW. But the truth is, BMW does not, and has never manufactured cam sensors. They outsource the production of these sensors to other companies, such as Bosch, Hella, VDO, etc. In this case, Vemo is the manufacturer that BMW elected to use. You can buy this sensor for about 1/2 the cost as the one with the BMW logo. They are the exact same part. BMW doubles the price after etching their logo into the plastic.
+When buying the replacement sensors, you will likely be confronted with several different brands. Dealers will always push the Genuine BMW. But the truth is, BMW does not, and has never manufactured cam sensors. They outsource the production of these sensors to other companies, such as Bosch, Hella, VDO, etc. In this case, VNE is the manufacturer that BMW elected to use. You can buy this sensor for about 1/2 the cost as the one with the BMW logo. They are the exact same part. BMW doubles the price after etching their logo into the plastic.
 
 &nbsp;<br/><br/>
 
